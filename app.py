@@ -259,7 +259,7 @@ st.markdown(CUSTOM_CSS, unsafe_allow_html=True)
 # File & Model Loader (Cached for Performance)
 # -----------------------------------------------------------------------------
 APP_DIR = os.path.dirname(os.path.abspath(__file__))
-PROJECT_ROOT = os.path.dirname(APP_DIR)
+PROJECT_ROOT = APP_DIR
 DATA_PATH = os.path.join(PROJECT_ROOT, "data", "railway_track_inspection.csv")
 MODELS_DIR = os.path.join(PROJECT_ROOT, "models")
 REPORTS_DIR = os.path.join(PROJECT_ROOT, "reports")
