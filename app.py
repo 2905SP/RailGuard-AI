@@ -260,8 +260,8 @@ st.markdown(CUSTOM_CSS, unsafe_allow_html=True)
 # -----------------------------------------------------------------------------
 APP_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = APP_DIR
-DATA_PATH = os.path.join(PROJECT_ROOT, "data", "railway_track_inspection.csv")
-MODELS_DIR = os.path.join(PROJECT_ROOT, "models")
+DATA_PATH = os.path.join(APP_DIR, "railway_track_inspection.csv")
+MODELS_DIR = APP_DIR
 REPORTS_DIR = os.path.join(PROJECT_ROOT, "reports")
 FIGURES_DIR = os.path.join(REPORTS_DIR, "figures")
 
