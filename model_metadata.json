@@ -1,0 +1,101 @@
+{
+    "best_model_name": "Random Forest",
+    "features": {
+        "numeric": [
+            "rail_temperature_c",
+            "vibration_rms_g",
+            "ultrasonic_flaw_signal_db",
+            "vertical_deflection_mm",
+            "surface_crack_length_mm",
+            "cumulative_tonnage_mgt",
+            "days_since_last_maintenance"
+        ],
+        "categorical": [
+            "corridor_name"
+        ],
+        "encoded_all": [
+            "rail_temperature_c",
+            "vibration_rms_g",
+            "ultrasonic_flaw_signal_db",
+            "vertical_deflection_mm",
+            "surface_crack_length_mm",
+            "cumulative_tonnage_mgt",
+            "days_since_last_maintenance",
+            "corridor_name_Central-Freight-Trunk",
+            "corridor_name_Eastern-Mineral-Belt",
+            "corridor_name_Northern-Corridor",
+            "corridor_name_Southern-Express-Route",
+            "corridor_name_Western-Coastal-Line"
+        ]
+    },
+    "corridors": [
+        "Central-Freight-Trunk",
+        "Eastern-Mineral-Belt",
+        "Northern-Corridor",
+        "Southern-Express-Route",
+        "Western-Coastal-Line"
+    ],
+    "evaluation_summary": {
+        "Logistic Regression": {
+            "accuracy": 0.8778,
+            "precision_macro": 0.8341,
+            "precision_failure": 0.7094,
+            "recall_macro": 0.8826,
+            "recall_failure": 0.8925,
+            "f1_macro": 0.8521,
+            "f1_failure": 0.7905,
+            "roc_auc": 0.9578,
+            "confusion_matrix": [
+                [
+                    233,
+                    34
+                ],
+                [
+                    10,
+                    83
+                ]
+            ]
+        },
+        "Decision Tree": {
+            "accuracy": 0.9222,
+            "precision_macro": 0.8916,
+            "precision_failure": 0.8218,
+            "recall_macro": 0.9125,
+            "recall_failure": 0.8925,
+            "f1_macro": 0.9012,
+            "f1_failure": 0.8557,
+            "roc_auc": 0.9498,
+            "confusion_matrix": [
+                [
+                    249,
+                    18
+                ],
+                [
+                    10,
+                    83
+                ]
+            ]
+        },
+        "Random Forest": {
+            "accuracy": 0.9167,
+            "precision_macro": 0.8788,
+            "precision_failure": 0.7739,
+            "recall_macro": 0.9298,
+            "recall_failure": 0.957,
+            "f1_macro": 0.8986,
+            "f1_failure": 0.8558,
+            "roc_auc": 0.9751,
+            "confusion_matrix": [
+                [
+                    241,
+                    26
+                ],
+                [
+                    4,
+                    89
+                ]
+            ]
+        }
+    },
+    "safety_disclaimer": "Educational synthetic prototype. Predictions are strictly for academic demonstration."
+}

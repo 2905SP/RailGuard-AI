@@ -1,0 +1,1801 @@
+track_id,corridor_name,kilometer_marker,rail_temperature_c,vibration_rms_g,ultrasonic_flaw_signal_db,vertical_deflection_mm,surface_crack_length_mm,cumulative_tonnage_mgt,days_since_last_maintenance,track_failure_risk,risk_category
+TRK-10001,Northern-Corridor,5.6,33.0,0.823,54.6,2.48,5.17,93.7,96,1,Potential Failure
+TRK-10002,Northern-Corridor,125.51,17.9,0.787,19.7,1.17,6.2,74.3,44,0,Normal
+TRK-10003,Eastern-Mineral-Belt,6.85,13.3,0.652,37.6,2.6,12.48,40.3,156,0,Normal
+TRK-10004,Southern-Express-Route,5.88,17.6,1.02,37.7,2.67,3.6,165.4,119,0,Normal
+TRK-10005,Southern-Express-Route,78.19,37.5,0.717,19.3,1.7,5.74,46.5,79,0,Normal
+TRK-10006,Northern-Corridor,140.62,11.9,0.723,33.0,2.1,2.43,35.3,177,0,Normal
+TRK-10007,Western-Coastal-Line,29.61,16.5,1.286,12.2,3.59,20.91,140.3,170,1,Potential Failure
+TRK-10008,Northern-Corridor,70.91,4.9,0.853,19.8,3.26,10.11,177.7,45,0,Normal
+TRK-10009,Western-Coastal-Line,149.51,31.1,1.027,6.0,2.38,0.04,68.9,88,0,Normal
+TRK-10010,Eastern-Mineral-Belt,15.5,6.1,1.082,35.7,3.46,0.12,173.0,236,1,Potential Failure
+TRK-10011,Western-Coastal-Line,107.23,14.7,1.037,13.6,3.17,22.85,75.4,166,1,Potential Failure
+TRK-10012,Central-Freight-Trunk,143.24,45.2,0.744,21.7,2.33,2.96,111.7,46,0,Normal
+TRK-10013,Northern-Corridor,70.94,26.1,0.599,15.3,2.11,1.1,88.6,33,0,Normal
+TRK-10014,Central-Freight-Trunk,69.11,12.8,1.309,33.4,4.25,5.3,204.1,321,1,Potential Failure
+TRK-10015,Northern-Corridor,113.08,26.8,1.299,41.7,3.45,6.37,316.3,41,1,Potential Failure
+TRK-10016,Central-Freight-Trunk,86.06,36.7,0.828,22.3,1.71,1.15,48.9,35,0,Normal
+TRK-10017,Southern-Express-Route,41.41,12.1,0.78,11.2,1.83,1.76,72.4,94,0,Normal
+TRK-10018,Northern-Corridor,43.14,34.7,0.843,50.4,2.2,11.48,92.4,49,1,Potential Failure
+TRK-10019,Western-Coastal-Line,13.18,3.5,1.289,10.4,3.4,1.94,112.2,226,0,Normal
+TRK-10020,Western-Coastal-Line,40.12,34.6,1.072,16.8,2.84,1.77,187.6,26,0,Normal
+TRK-10021,Eastern-Mineral-Belt,27.29,9.3,0.767,49.7,3.02,1.61,143.5,35,1,Potential Failure
+TRK-10022,Southern-Express-Route,49.34,13.9,0.778,21.4,2.74,1.05,109.9,39,0,Normal
+TRK-10023,Eastern-Mineral-Belt,67.61,22.3,1.488,15.0,3.55,5.12,320.0,131,1,Potential Failure
+TRK-10024,Eastern-Mineral-Belt,17.73,24.3,1.547,50.4,3.79,8.05,149.6,324,1,Potential Failure
+TRK-10025,Central-Freight-Trunk,146.74,29.0,0.808,16.3,2.09,21.79,45.7,123,0,Normal
+TRK-10026,Eastern-Mineral-Belt,110.64,38.2,0.897,17.4,3.17,24.56,175.0,52,1,Potential Failure
+TRK-10027,Southern-Express-Route,159.38,33.2,1.199,30.0,4.13,0.15,197.6,219,1,Potential Failure
+TRK-10028,Southern-Express-Route,139.16,27.1,1.201,20.9,2.94,6.09,298.5,94,1,Potential Failure
+TRK-10029,Western-Coastal-Line,81.0,27.8,1.123,24.3,1.91,1.52,136.0,15,0,Normal
+TRK-10030,Western-Coastal-Line,179.83,28.6,0.75,19.9,2.39,0.79,68.1,17,0,Normal
+TRK-10031,Northern-Corridor,161.18,21.6,0.968,55.2,2.15,1.42,120.5,112,1,Potential Failure
+TRK-10032,Southern-Express-Route,37.6,19.2,0.985,19.5,2.47,10.14,192.0,21,0,Normal
+TRK-10033,Southern-Express-Route,170.0,12.9,0.906,22.0,2.08,0.07,44.0,58,0,Normal
+TRK-10034,Northern-Corridor,171.95,5.9,0.958,13.3,2.73,0.04,183.0,26,0,Normal
+TRK-10035,Western-Coastal-Line,45.06,27.8,0.798,42.6,2.59,0.73,27.1,68,0,Normal
+TRK-10036,Northern-Corridor,16.76,17.3,0.588,19.8,1.95,6.01,89.9,12,0,Normal
+TRK-10037,Southern-Express-Route,141.91,46.3,0.922,36.3,2.7,2.47,123.4,41,0,Normal
+TRK-10038,Southern-Express-Route,31.38,27.6,1.371,20.9,3.68,2.08,192.9,263,0,Normal
+TRK-10039,Central-Freight-Trunk,171.92,29.7,0.775,19.8,2.75,0.02,102.0,46,0,Normal
+TRK-10040,Western-Coastal-Line,74.41,24.2,0.702,10.5,2.74,1.67,107.0,66,0,Normal
+TRK-10041,Southern-Express-Route,84.07,35.3,0.695,48.4,2.27,6.0,66.5,65,1,Potential Failure
+TRK-10042,Northern-Corridor,109.25,18.1,0.784,43.9,2.63,5.71,61.4,124,1,Potential Failure
+TRK-10043,Northern-Corridor,131.24,19.3,0.651,54.6,3.24,23.95,68.0,152,1,Potential Failure
+TRK-10044,Northern-Corridor,159.17,12.0,0.774,35.4,2.14,15.96,100.3,22,1,Potential Failure
+TRK-10045,Eastern-Mineral-Belt,40.42,27.2,0.606,49.9,1.64,7.44,39.3,34,1,Potential Failure
+TRK-10046,Southern-Express-Route,107.02,15.2,1.276,35.9,2.95,1.32,102.7,123,0,Normal
+TRK-10047,Eastern-Mineral-Belt,36.04,39.7,0.865,27.5,2.46,0.12,39.1,69,0,Normal
+TRK-10048,Eastern-Mineral-Belt,76.64,52.3,0.675,24.2,2.4,26.59,165.7,26,1,Potential Failure
+TRK-10049,Northern-Corridor,12.15,22.0,1.42,17.3,3.45,0.95,119.1,342,0,Normal
+TRK-10050,Northern-Corridor,46.75,17.6,1.191,47.0,3.54,9.79,101.6,285,1,Potential Failure
+TRK-10051,Eastern-Mineral-Belt,34.76,33.5,0.979,25.2,3.27,2.22,174.5,21,0,Normal
+TRK-10052,Northern-Corridor,82.54,26.9,1.336,22.2,4.06,1.83,269.8,59,1,Potential Failure
+TRK-10053,Northern-Corridor,120.99,21.2,1.064,6.2,3.46,17.25,31.3,232,1,Potential Failure
+TRK-10054,Northern-Corridor,171.45,6.7,0.947,15.6,3.5,13.03,32.0,365,1,Potential Failure
+TRK-10055,Eastern-Mineral-Belt,89.57,24.9,1.346,14.6,3.15,0.28,50.7,225,0,Normal
+TRK-10056,Central-Freight-Trunk,70.73,14.9,1.049,16.2,1.96,5.32,95.4,53,0,Normal
+TRK-10057,Eastern-Mineral-Belt,53.49,42.9,0.778,10.5,2.35,0.99,158.0,29,0,Normal
+TRK-10058,Southern-Express-Route,122.78,45.1,1.129,17.4,2.92,10.73,226.8,37,0,Normal
+TRK-10059,Central-Freight-Trunk,179.24,27.1,0.929,15.8,1.98,0.58,215.2,39,0,Normal
+TRK-10060,Western-Coastal-Line,11.52,10.9,1.171,12.1,3.58,1.33,231.0,75,0,Normal
+TRK-10061,Southern-Express-Route,29.97,48.1,0.554,20.2,2.29,36.0,80.8,108,1,Potential Failure
+TRK-10062,Central-Freight-Trunk,13.61,33.9,0.693,35.4,1.98,0.79,68.6,41,0,Normal
+TRK-10063,Eastern-Mineral-Belt,23.06,24.8,0.865,16.9,2.47,11.51,115.5,27,0,Normal
+TRK-10064,Southern-Express-Route,8.31,33.6,0.512,42.4,2.5,0.18,68.1,62,0,Normal
+TRK-10065,Southern-Express-Route,97.19,37.2,0.722,14.2,2.37,6.15,49.3,82,0,Normal
+TRK-10066,Western-Coastal-Line,44.92,17.9,0.605,12.4,2.47,0.64,156.8,96,0,Normal
+TRK-10067,Western-Coastal-Line,85.13,27.3,0.764,18.6,3.07,0.27,131.7,24,0,Normal
+TRK-10068,Northern-Corridor,85.32,20.1,1.384,14.2,4.08,0.87,118.7,209,0,Normal
+TRK-10069,Northern-Corridor,99.92,-5.2,0.866,19.7,2.38,11.27,173.8,35,0,Normal
+TRK-10070,Western-Coastal-Line,163.08,36.8,0.994,26.2,3.03,3.36,38.3,160,0,Normal
+TRK-10071,Central-Freight-Trunk,81.63,31.7,0.807,17.8,1.61,3.14,51.0,13,0,Normal
+TRK-10072,Southern-Express-Route,2.44,18.9,0.794,11.9,1.8,15.18,86.7,25,0,Normal
+TRK-10073,Northern-Corridor,173.76,40.1,0.631,48.7,2.04,9.1,33.9,29,1,Potential Failure
+TRK-10074,Northern-Corridor,137.6,25.2,0.911,47.8,2.27,14.54,118.1,99,1,Potential Failure
+TRK-10075,Central-Freight-Trunk,133.04,32.2,0.844,42.8,2.08,3.9,116.3,62,0,Normal
+TRK-10076,Western-Coastal-Line,94.0,24.2,0.822,38.6,2.89,2.44,104.5,58,0,Normal
+TRK-10077,Northern-Corridor,17.98,-6.5,0.727,14.8,2.99,9.82,88.8,137,0,Normal
+TRK-10078,Northern-Corridor,62.37,22.2,0.916,35.6,2.17,8.65,98.3,92,0,Normal
+TRK-10079,Central-Freight-Trunk,137.39,58.0,0.963,13.4,2.93,0.06,104.7,141,0,Normal
+TRK-10080,Northern-Corridor,21.58,58.0,0.517,6.6,3.16,1.23,50.5,151,0,Normal
+TRK-10081,Central-Freight-Trunk,101.39,21.2,1.06,11.0,2.86,0.04,81.6,287,0,Normal
+TRK-10082,Central-Freight-Trunk,80.08,32.8,0.501,42.8,1.72,0.3,63.4,12,0,Normal
+TRK-10083,Northern-Corridor,166.4,8.9,0.954,39.1,2.86,13.82,147.6,36,1,Potential Failure
+TRK-10084,Northern-Corridor,66.08,16.8,0.831,10.4,1.3,0.72,56.8,11,0,Normal
+TRK-10085,Southern-Express-Route,138.9,4.2,1.094,16.9,1.82,16.54,139.9,60,0,Normal
+TRK-10086,Central-Freight-Trunk,180.62,39.6,0.972,13.2,3.3,2.7,99.6,62,0,Normal
+TRK-10087,Northern-Corridor,34.0,26.3,0.678,17.8,2.54,1.58,122.4,40,0,Normal
+TRK-10088,Eastern-Mineral-Belt,148.61,19.4,1.094,11.5,3.09,3.69,134.4,23,0,Normal
+TRK-10089,Western-Coastal-Line,30.29,0.2,0.497,16.8,2.12,0.42,44.5,14,0,Normal
+TRK-10090,Northern-Corridor,158.98,4.7,0.614,58.7,2.79,4.14,62.3,130,1,Potential Failure
+TRK-10091,Eastern-Mineral-Belt,65.34,14.0,0.872,27.5,2.35,0.61,146.7,38,0,Normal
+TRK-10092,Central-Freight-Trunk,5.35,21.1,1.037,29.5,3.66,18.68,115.8,133,1,Potential Failure
+TRK-10093,Northern-Corridor,178.91,34.9,0.97,41.4,2.68,0.31,167.4,94,1,Potential Failure
+TRK-10094,Eastern-Mineral-Belt,126.03,40.9,1.232,14.0,3.5,10.38,108.3,166,0,Normal
+TRK-10095,Northern-Corridor,22.22,32.0,1.024,15.8,2.22,20.85,113.6,89,1,Potential Failure
+TRK-10096,Western-Coastal-Line,8.04,19.5,0.888,11.3,1.98,15.32,160.7,13,0,Normal
+TRK-10097,Western-Coastal-Line,81.3,23.4,0.76,17.2,3.2,7.12,78.3,158,0,Normal
+TRK-10098,Southern-Express-Route,35.97,36.0,1.354,37.9,4.41,12.9,104.0,365,1,Potential Failure
+TRK-10099,Southern-Express-Route,171.31,19.8,1.152,9.9,3.23,0.53,208.7,137,0,Normal
+TRK-10100,Central-Freight-Trunk,68.02,-1.1,0.506,60.5,1.95,0.27,47.0,33,1,Potential Failure
+TRK-10101,Western-Coastal-Line,115.66,28.3,0.818,13.2,2.44,17.1,132.0,78,0,Normal
+TRK-10102,Western-Coastal-Line,94.31,19.1,0.909,19.6,2.98,6.34,92.1,214,0,Normal
+TRK-10103,Western-Coastal-Line,103.01,18.3,1.261,37.1,3.39,3.29,141.8,83,0,Normal
+TRK-10104,Eastern-Mineral-Belt,125.63,33.6,0.659,20.0,1.95,1.03,176.4,18,0,Normal
+TRK-10105,Western-Coastal-Line,75.72,18.8,0.86,13.8,3.59,14.07,114.6,74,0,Normal
+TRK-10106,Central-Freight-Trunk,80.1,3.0,1.166,17.8,3.46,2.72,130.0,161,0,Normal
+TRK-10107,Eastern-Mineral-Belt,82.29,40.9,1.177,21.4,3.22,0.26,183.6,142,0,Normal
+TRK-10108,Central-Freight-Trunk,122.23,31.9,0.567,42.2,2.66,0.45,125.9,10,0,Normal
+TRK-10109,Southern-Express-Route,62.67,35.0,1.382,15.6,3.33,1.5,281.2,20,0,Normal
+TRK-10110,Western-Coastal-Line,42.33,28.5,0.852,27.5,2.36,12.76,126.4,44,0,Normal
+TRK-10111,Central-Freight-Trunk,182.04,18.2,0.802,13.5,2.96,0.48,124.4,12,0,Normal
+TRK-10112,Eastern-Mineral-Belt,77.26,8.8,1.14,15.0,3.13,28.0,91.5,122,1,Potential Failure
+TRK-10113,Eastern-Mineral-Belt,91.97,51.9,0.695,40.1,2.06,0.36,51.8,40,0,Normal
+TRK-10114,Northern-Corridor,165.25,27.0,1.068,17.2,3.24,2.25,88.8,199,0,Normal
+TRK-10115,Eastern-Mineral-Belt,41.27,34.0,1.071,15.6,2.88,0.19,129.0,103,0,Normal
+TRK-10116,Eastern-Mineral-Belt,10.24,31.2,0.646,29.3,1.8,2.4,64.0,31,0,Normal
+TRK-10117,Eastern-Mineral-Belt,25.53,19.8,0.182,8.9,1.65,1.78,27.3,17,0,Normal
+TRK-10118,Southern-Express-Route,110.56,31.2,0.834,26.8,2.56,1.82,131.1,72,0,Normal
+TRK-10119,Southern-Express-Route,150.96,22.9,0.743,11.5,2.44,1.26,102.9,79,0,Normal
+TRK-10120,Southern-Express-Route,83.05,39.8,0.723,56.5,2.61,3.07,141.1,27,1,Potential Failure
+TRK-10121,Eastern-Mineral-Belt,48.69,38.5,1.188,58.6,3.72,1.12,142.0,170,1,Potential Failure
+TRK-10122,Southern-Express-Route,90.17,20.8,0.682,46.9,1.98,1.03,113.4,36,1,Potential Failure
+TRK-10123,Western-Coastal-Line,44.15,50.2,1.496,46.9,4.07,0.11,128.3,365,1,Potential Failure
+TRK-10124,Northern-Corridor,26.46,41.3,0.764,29.5,2.04,1.94,95.2,138,0,Normal
+TRK-10125,Central-Freight-Trunk,12.82,41.1,0.592,22.6,2.7,1.98,99.2,62,0,Normal
+TRK-10126,Eastern-Mineral-Belt,12.46,31.6,0.636,8.6,2.23,3.07,67.1,28,0,Normal
+TRK-10127,Southern-Express-Route,175.08,36.8,0.497,31.6,1.97,2.23,10.3,95,0,Normal
+TRK-10128,Southern-Express-Route,70.99,4.2,0.691,39.9,1.36,0.43,86.6,27,0,Normal
+TRK-10129,Eastern-Mineral-Belt,158.03,47.0,1.176,17.7,2.46,1.32,157.9,27,0,Normal
+TRK-10130,Southern-Express-Route,148.18,21.8,0.72,15.4,2.49,4.07,124.5,39,0,Normal
+TRK-10131,Western-Coastal-Line,81.19,27.1,0.646,50.0,2.22,1.01,24.8,25,0,Normal
+TRK-10132,Eastern-Mineral-Belt,134.25,13.8,0.906,17.2,2.13,0.88,126.1,44,0,Normal
+TRK-10133,Southern-Express-Route,99.28,23.3,1.141,26.8,3.16,3.05,114.2,182,0,Normal
+TRK-10134,Northern-Corridor,16.45,19.7,1.01,11.1,2.32,1.58,105.2,121,0,Normal
+TRK-10135,Central-Freight-Trunk,10.25,30.2,1.102,17.6,2.86,9.14,170.0,89,0,Normal
+TRK-10136,Western-Coastal-Line,63.1,8.8,0.902,16.6,2.95,11.29,139.3,64,0,Normal
+TRK-10137,Eastern-Mineral-Belt,47.42,3.0,0.515,37.2,2.71,5.61,58.8,35,0,Normal
+TRK-10138,Southern-Express-Route,10.58,40.1,0.697,26.3,3.82,5.21,67.0,199,0,Normal
+TRK-10139,Northern-Corridor,144.75,4.5,1.178,18.6,2.48,1.9,207.9,98,0,Normal
+TRK-10140,Central-Freight-Trunk,37.68,29.9,1.122,39.8,3.45,10.32,107.4,268,1,Potential Failure
+TRK-10141,Central-Freight-Trunk,88.14,12.2,1.14,48.2,2.48,0.48,167.3,45,1,Potential Failure
+TRK-10142,Eastern-Mineral-Belt,129.7,22.9,0.811,17.4,2.34,11.7,136.0,80,0,Normal
+TRK-10143,Southern-Express-Route,178.33,24.9,1.397,17.7,3.44,3.23,71.8,297,0,Normal
+TRK-10144,Central-Freight-Trunk,178.51,16.7,0.87,36.5,3.62,17.13,40.6,228,1,Potential Failure
+TRK-10145,Western-Coastal-Line,106.95,18.2,1.527,10.4,3.09,6.47,244.3,102,0,Normal
+TRK-10146,Central-Freight-Trunk,14.98,31.8,1.022,25.9,2.56,0.4,91.1,107,0,Normal
+TRK-10147,Northern-Corridor,129.28,2.4,0.761,26.7,2.84,1.9,120.3,122,0,Normal
+TRK-10148,Northern-Corridor,147.51,48.8,0.995,11.4,3.03,7.06,81.2,223,0,Normal
+TRK-10149,Southern-Express-Route,79.82,23.2,0.833,16.5,2.13,1.58,64.0,35,0,Normal
+TRK-10150,Western-Coastal-Line,3.33,31.2,1.33,17.9,2.69,0.94,188.6,113,0,Normal
+TRK-10151,Eastern-Mineral-Belt,177.78,16.5,0.879,14.6,2.24,0.64,54.7,19,0,Normal
+TRK-10152,Central-Freight-Trunk,81.13,34.5,1.263,16.6,2.99,1.1,51.0,258,0,Normal
+TRK-10153,Western-Coastal-Line,114.33,29.2,0.786,12.0,2.89,0.67,74.2,154,0,Normal
+TRK-10154,Eastern-Mineral-Belt,81.15,33.1,0.67,19.8,1.39,36.0,50.6,78,1,Potential Failure
+TRK-10155,Central-Freight-Trunk,153.85,32.5,1.159,46.8,3.46,0.55,78.4,202,1,Potential Failure
+TRK-10156,Central-Freight-Trunk,139.09,15.4,1.624,18.1,3.72,0.21,135.1,362,1,Potential Failure
+TRK-10157,Western-Coastal-Line,6.28,21.8,0.693,11.5,2.47,5.56,68.6,58,0,Normal
+TRK-10158,Central-Freight-Trunk,66.29,33.4,0.709,40.8,2.7,13.19,97.4,77,1,Potential Failure
+TRK-10159,Southern-Express-Route,130.02,8.0,0.803,41.5,2.81,36.0,55.7,154,1,Potential Failure
+TRK-10160,Central-Freight-Trunk,16.75,21.3,0.669,16.0,1.94,2.52,70.3,16,0,Normal
+TRK-10161,Central-Freight-Trunk,128.07,38.8,0.853,20.5,3.35,0.32,132.5,23,0,Normal
+TRK-10162,Northern-Corridor,18.12,0.8,0.726,21.3,2.7,0.03,135.4,11,0,Normal
+TRK-10163,Western-Coastal-Line,123.17,14.8,0.547,15.9,1.79,1.19,107.7,11,0,Normal
+TRK-10164,Western-Coastal-Line,79.29,23.8,0.73,23.7,2.0,8.77,99.8,47,0,Normal
+TRK-10165,Eastern-Mineral-Belt,50.85,-5.9,1.217,33.0,3.08,9.6,118.4,156,0,Normal
+TRK-10166,Central-Freight-Trunk,59.06,19.2,1.72,23.0,3.97,0.1,280.5,224,1,Potential Failure
+TRK-10167,Central-Freight-Trunk,36.24,26.9,0.816,14.0,2.94,5.6,106.5,14,0,Normal
+TRK-10168,Southern-Express-Route,180.7,12.4,1.1,19.2,2.49,7.46,186.2,29,0,Normal
+TRK-10169,Northern-Corridor,154.2,44.4,0.846,21.5,2.13,1.13,45.4,100,0,Normal
+TRK-10170,Western-Coastal-Line,3.6,39.0,1.065,20.8,2.95,6.1,104.6,140,0,Normal
+TRK-10171,Northern-Corridor,102.82,23.1,0.801,16.7,1.78,7.2,71.1,64,0,Normal
+TRK-10172,Eastern-Mineral-Belt,19.88,22.1,1.069,44.3,3.4,16.25,119.9,170,1,Potential Failure
+TRK-10173,Eastern-Mineral-Belt,82.05,24.0,0.952,42.2,2.91,27.17,160.8,28,1,Potential Failure
+TRK-10174,Eastern-Mineral-Belt,21.99,16.9,1.058,55.6,3.12,1.34,74.1,184,1,Potential Failure
+TRK-10175,Southern-Express-Route,116.82,27.1,1.148,45.8,3.69,9.95,243.4,106,1,Potential Failure
+TRK-10176,Southern-Express-Route,175.64,14.1,0.73,45.6,2.87,8.51,71.7,135,1,Potential Failure
+TRK-10177,Southern-Express-Route,141.66,46.4,0.485,6.6,1.58,1.92,39.2,44,0,Normal
+TRK-10178,Central-Freight-Trunk,143.73,39.1,0.295,21.7,1.16,2.37,40.1,10,0,Normal
+TRK-10179,Western-Coastal-Line,159.27,14.3,1.565,24.5,3.49,12.4,287.0,92,1,Potential Failure
+TRK-10180,Southern-Express-Route,12.08,34.3,0.8,14.0,2.29,17.29,152.4,17,0,Normal
+TRK-10181,Central-Freight-Trunk,116.09,35.5,0.478,15.4,2.21,6.99,11.2,47,0,Normal
+TRK-10182,Central-Freight-Trunk,32.98,34.8,0.911,34.3,3.38,19.65,53.5,156,1,Potential Failure
+TRK-10183,Eastern-Mineral-Belt,127.84,-1.1,0.592,19.5,2.22,10.84,45.4,48,0,Normal
+TRK-10184,Western-Coastal-Line,131.08,23.9,1.036,13.6,2.27,0.92,77.0,185,0,Normal
+TRK-10185,Central-Freight-Trunk,171.0,25.3,0.971,19.5,2.38,0.26,113.5,64,0,Normal
+TRK-10186,Central-Freight-Trunk,79.23,30.2,0.857,15.1,3.0,0.46,151.5,16,0,Normal
+TRK-10187,Western-Coastal-Line,153.1,22.9,0.626,41.9,1.88,5.52,60.6,66,0,Normal
+TRK-10188,Western-Coastal-Line,110.49,38.4,1.027,18.3,2.85,4.14,149.4,113,0,Normal
+TRK-10189,Eastern-Mineral-Belt,23.88,17.5,0.708,18.6,2.29,1.25,160.5,38,0,Normal
+TRK-10190,Western-Coastal-Line,93.09,25.5,0.513,12.4,2.37,20.21,34.4,25,1,Potential Failure
+TRK-10191,Northern-Corridor,164.65,58.0,0.814,12.3,2.53,0.99,85.4,84,0,Normal
+TRK-10192,Northern-Corridor,17.8,38.7,0.643,12.7,1.69,2.46,17.5,84,0,Normal
+TRK-10193,Southern-Express-Route,109.03,25.2,0.865,35.9,2.35,1.1,69.6,27,0,Normal
+TRK-10194,Western-Coastal-Line,107.03,22.5,1.042,15.6,2.16,11.19,85.6,150,0,Normal
+TRK-10195,Southern-Express-Route,120.88,25.9,0.892,16.9,3.47,17.59,172.7,151,1,Potential Failure
+TRK-10196,Southern-Express-Route,81.2,41.1,0.91,12.2,2.93,2.36,77.9,82,0,Normal
+TRK-10197,Eastern-Mineral-Belt,65.02,20.0,0.639,13.7,2.38,3.37,87.0,24,0,Normal
+TRK-10198,Central-Freight-Trunk,61.68,31.9,1.469,22.4,3.67,32.32,270.0,213,1,Potential Failure
+TRK-10199,Eastern-Mineral-Belt,150.7,25.4,1.156,14.9,4.18,5.1,181.8,212,1,Potential Failure
+TRK-10200,Western-Coastal-Line,47.44,58.0,1.101,39.6,3.13,2.56,138.1,134,1,Potential Failure
+TRK-10201,Southern-Express-Route,152.79,30.9,0.721,24.1,1.61,2.64,85.0,68,0,Normal
+TRK-10202,Eastern-Mineral-Belt,77.04,18.9,0.846,34.6,2.85,9.79,157.1,36,0,Normal
+TRK-10203,Eastern-Mineral-Belt,116.08,43.6,0.727,16.6,2.64,6.08,37.1,70,0,Normal
+TRK-10204,Southern-Express-Route,25.11,42.6,1.114,38.2,3.03,0.49,77.1,193,1,Potential Failure
+TRK-10205,Eastern-Mineral-Belt,23.34,40.2,0.706,10.1,1.86,4.18,26.2,13,0,Normal
+TRK-10206,Central-Freight-Trunk,131.6,32.8,1.382,57.2,3.95,5.94,141.9,235,1,Potential Failure
+TRK-10207,Eastern-Mineral-Belt,18.15,-5.9,1.437,11.8,4.39,0.06,109.6,365,1,Potential Failure
+TRK-10208,Eastern-Mineral-Belt,175.26,28.7,1.368,18.8,3.38,5.15,147.3,239,0,Normal
+TRK-10209,Western-Coastal-Line,94.63,18.6,0.888,42.7,2.83,0.42,143.7,125,0,Normal
+TRK-10210,Eastern-Mineral-Belt,45.85,21.8,0.993,23.7,2.0,3.34,154.1,43,0,Normal
+TRK-10211,Southern-Express-Route,94.52,16.9,0.962,16.2,2.92,2.67,106.1,193,0,Normal
+TRK-10212,Western-Coastal-Line,143.17,29.3,0.629,19.1,3.15,8.05,167.6,90,0,Normal
+TRK-10213,Southern-Express-Route,50.16,21.1,1.21,56.0,3.04,1.82,160.6,98,1,Potential Failure
+TRK-10214,Southern-Express-Route,107.71,3.6,0.875,18.5,2.27,2.04,88.0,110,0,Normal
+TRK-10215,Eastern-Mineral-Belt,100.1,27.5,0.779,6.7,2.38,0.33,95.4,70,0,Normal
+TRK-10216,Southern-Express-Route,70.41,36.6,0.635,12.6,1.65,2.43,106.1,10,0,Normal
+TRK-10217,Central-Freight-Trunk,106.21,58.0,0.642,44.1,2.29,0.64,124.4,18,1,Potential Failure
+TRK-10218,Northern-Corridor,59.54,26.3,0.446,19.7,1.78,1.88,97.9,40,0,Normal
+TRK-10219,Eastern-Mineral-Belt,72.04,3.9,1.439,23.3,3.75,0.18,161.3,304,1,Potential Failure
+TRK-10220,Central-Freight-Trunk,92.14,14.3,0.522,46.1,2.43,1.66,20.4,22,0,Normal
+TRK-10221,Southern-Express-Route,62.09,10.7,1.001,49.6,3.05,1.93,204.8,10,1,Potential Failure
+TRK-10222,Northern-Corridor,97.77,26.8,0.486,28.1,1.33,0.07,64.6,11,0,Normal
+TRK-10223,Eastern-Mineral-Belt,161.25,28.2,0.941,13.1,2.92,13.94,53.4,134,0,Normal
+TRK-10224,Western-Coastal-Line,63.3,12.8,0.797,7.8,2.41,1.31,50.9,66,0,Normal
+TRK-10225,Western-Coastal-Line,157.83,44.3,0.683,11.0,1.92,3.31,33.1,120,0,Normal
+TRK-10226,Western-Coastal-Line,116.33,12.5,0.997,15.3,1.98,0.56,78.8,108,0,Normal
+TRK-10227,Southern-Express-Route,7.61,39.5,1.076,35.5,2.97,1.0,224.0,33,0,Normal
+TRK-10228,Western-Coastal-Line,184.53,26.1,0.662,7.9,1.85,3.46,76.6,56,0,Normal
+TRK-10229,Northern-Corridor,140.91,35.8,1.065,8.9,2.86,11.24,83.5,176,0,Normal
+TRK-10230,Central-Freight-Trunk,128.7,28.6,1.038,11.2,2.47,6.73,47.9,146,0,Normal
+TRK-10231,Northern-Corridor,54.98,23.6,1.351,33.4,2.82,9.7,76.8,332,1,Potential Failure
+TRK-10232,Southern-Express-Route,76.82,23.1,2.01,24.8,5.11,6.8,300.8,365,1,Potential Failure
+TRK-10233,Central-Freight-Trunk,15.53,19.5,0.923,20.9,2.63,0.21,95.4,84,0,Normal
+TRK-10234,Central-Freight-Trunk,92.57,20.9,0.63,15.9,2.39,20.93,118.1,40,0,Normal
+TRK-10235,Western-Coastal-Line,85.56,1.2,1.147,6.4,2.56,1.29,191.5,31,1,Potential Failure
+TRK-10236,Eastern-Mineral-Belt,166.82,42.7,0.832,15.4,2.95,10.71,83.3,90,0,Normal
+TRK-10237,Eastern-Mineral-Belt,174.92,35.2,1.033,12.5,3.01,7.85,112.8,71,0,Normal
+TRK-10238,Eastern-Mineral-Belt,128.02,42.0,0.807,18.3,1.94,6.23,74.0,32,0,Normal
+TRK-10239,Eastern-Mineral-Belt,158.01,37.2,1.267,41.8,3.27,5.65,150.6,148,0,Normal
+TRK-10240,Western-Coastal-Line,106.77,3.0,0.622,16.1,2.07,7.85,33.9,50,0,Normal
+TRK-10241,Eastern-Mineral-Belt,51.5,26.0,0.692,12.5,1.9,2.44,61.6,126,0,Normal
+TRK-10242,Northern-Corridor,168.55,23.8,0.823,16.4,2.01,1.39,146.7,46,0,Normal
+TRK-10243,Western-Coastal-Line,143.74,45.0,0.936,56.4,1.68,0.11,43.6,218,1,Potential Failure
+TRK-10244,Central-Freight-Trunk,118.14,10.5,1.365,10.8,3.36,2.24,152.7,174,0,Normal
+TRK-10245,Central-Freight-Trunk,116.6,25.6,0.585,12.3,1.67,0.0,30.3,23,0,Normal
+TRK-10246,Western-Coastal-Line,146.1,17.2,1.088,39.8,2.42,7.52,102.2,126,0,Normal
+TRK-10247,Central-Freight-Trunk,17.58,19.3,1.265,45.1,3.87,0.14,159.7,221,1,Potential Failure
+TRK-10248,Central-Freight-Trunk,37.95,25.1,1.154,16.9,3.74,2.15,261.3,105,0,Normal
+TRK-10249,Western-Coastal-Line,98.68,27.2,0.956,15.4,2.56,4.71,113.0,20,0,Normal
+TRK-10250,Western-Coastal-Line,169.19,-10.0,0.505,21.6,1.75,2.85,102.3,32,0,Normal
+TRK-10251,Western-Coastal-Line,138.37,34.7,0.851,29.6,3.15,6.18,49.3,211,0,Normal
+TRK-10252,Northern-Corridor,26.9,43.8,0.956,16.9,3.58,0.51,154.8,108,0,Normal
+TRK-10253,Eastern-Mineral-Belt,178.98,18.4,0.771,15.0,2.78,1.02,92.3,78,0,Normal
+TRK-10254,Eastern-Mineral-Belt,3.56,36.9,0.529,25.1,1.95,0.56,16.7,10,0,Normal
+TRK-10255,Western-Coastal-Line,108.56,36.0,1.627,14.4,4.42,0.03,148.0,364,1,Potential Failure
+TRK-10256,Northern-Corridor,125.17,39.7,0.534,19.0,2.59,0.92,64.7,50,0,Normal
+TRK-10257,Southern-Express-Route,61.35,3.6,0.419,15.2,2.06,0.09,61.1,34,0,Normal
+TRK-10258,Eastern-Mineral-Belt,168.33,33.5,0.695,44.7,2.16,2.28,104.3,53,0,Normal
+TRK-10259,Central-Freight-Trunk,9.34,10.4,0.826,35.5,3.37,3.74,116.0,105,0,Normal
+TRK-10260,Northern-Corridor,18.88,22.3,0.723,16.2,1.92,7.22,28.6,126,0,Normal
+TRK-10261,Eastern-Mineral-Belt,69.27,54.3,0.973,6.0,2.28,0.07,101.7,40,0,Normal
+TRK-10262,Southern-Express-Route,78.12,23.2,0.663,16.2,2.1,7.4,46.1,14,0,Normal
+TRK-10263,Eastern-Mineral-Belt,121.51,54.3,0.775,13.1,2.49,0.97,41.8,102,0,Normal
+TRK-10264,Western-Coastal-Line,7.02,12.5,0.868,16.0,3.09,0.02,156.4,114,0,Normal
+TRK-10265,Central-Freight-Trunk,158.4,8.5,1.178,38.5,3.08,0.98,139.8,188,0,Normal
+TRK-10266,Southern-Express-Route,166.91,14.9,0.575,17.1,2.01,29.12,121.9,58,1,Potential Failure
+TRK-10267,Western-Coastal-Line,35.92,-0.1,0.999,32.3,1.92,0.32,170.2,37,0,Normal
+TRK-10268,Eastern-Mineral-Belt,17.87,4.6,0.7,29.7,2.31,1.3,103.2,13,0,Normal
+TRK-10269,Northern-Corridor,10.31,48.6,0.94,15.4,2.36,1.03,107.4,51,0,Normal
+TRK-10270,Southern-Express-Route,38.76,31.7,0.712,16.1,1.92,0.79,43.0,48,0,Normal
+TRK-10271,Southern-Express-Route,40.74,32.1,1.188,8.0,3.15,9.43,126.1,122,0,Normal
+TRK-10272,Central-Freight-Trunk,146.11,35.7,1.021,11.4,3.08,5.01,14.3,353,0,Normal
+TRK-10273,Central-Freight-Trunk,182.71,35.5,0.798,21.4,2.08,2.55,49.0,189,0,Normal
+TRK-10274,Northern-Corridor,122.63,19.6,0.687,37.2,3.25,11.29,49.5,166,0,Normal
+TRK-10275,Central-Freight-Trunk,109.35,14.4,0.743,50.4,3.04,16.38,134.1,93,1,Potential Failure
+TRK-10276,Central-Freight-Trunk,137.48,26.5,0.874,19.7,2.59,1.78,56.1,53,0,Normal
+TRK-10277,Eastern-Mineral-Belt,83.48,35.3,0.899,45.5,2.87,1.95,127.3,166,1,Potential Failure
+TRK-10278,Eastern-Mineral-Belt,93.71,34.9,0.745,12.8,2.63,5.2,106.4,55,0,Normal
+TRK-10279,Southern-Express-Route,56.5,4.7,1.01,16.0,3.07,15.14,82.3,171,0,Normal
+TRK-10280,Eastern-Mineral-Belt,156.9,22.7,0.829,11.0,2.26,21.41,117.4,86,0,Normal
+TRK-10281,Eastern-Mineral-Belt,14.52,40.8,1.059,39.0,3.35,1.19,140.7,103,0,Normal
+TRK-10282,Northern-Corridor,24.22,12.0,0.684,12.9,2.85,2.3,50.7,102,0,Normal
+TRK-10283,Western-Coastal-Line,71.09,18.5,0.543,16.7,1.94,13.91,31.9,48,0,Normal
+TRK-10284,Southern-Express-Route,112.4,9.4,0.96,37.9,2.9,5.9,134.0,142,0,Normal
+TRK-10285,Southern-Express-Route,133.63,26.5,1.146,49.1,3.51,9.4,64.0,345,1,Potential Failure
+TRK-10286,Central-Freight-Trunk,77.14,10.5,0.531,20.3,1.23,5.19,33.1,31,0,Normal
+TRK-10287,Northern-Corridor,58.51,15.9,1.248,55.4,3.42,13.36,111.7,297,1,Potential Failure
+TRK-10288,Central-Freight-Trunk,127.38,42.7,0.726,15.0,3.01,12.09,170.7,45,0,Normal
+TRK-10289,Northern-Corridor,18.15,40.7,0.933,46.6,2.04,0.76,183.6,11,1,Potential Failure
+TRK-10290,Central-Freight-Trunk,103.37,20.6,1.429,17.4,3.7,0.85,127.2,365,1,Potential Failure
+TRK-10291,Western-Coastal-Line,124.28,19.9,0.818,10.2,2.54,1.88,34.6,10,0,Normal
+TRK-10292,Eastern-Mineral-Belt,160.73,31.0,0.696,23.7,2.25,1.4,137.2,37,0,Normal
+TRK-10293,Southern-Express-Route,58.49,17.9,1.172,42.6,3.31,0.34,115.6,183,1,Potential Failure
+TRK-10294,Central-Freight-Trunk,121.84,45.8,0.852,43.2,2.7,11.18,145.3,80,1,Potential Failure
+TRK-10295,Southern-Express-Route,68.63,15.0,0.994,10.0,2.28,1.83,41.3,114,0,Normal
+TRK-10296,Eastern-Mineral-Belt,156.51,3.4,0.775,12.9,2.84,1.01,24.0,271,0,Normal
+TRK-10297,Southern-Express-Route,125.2,19.1,0.958,19.6,2.81,2.52,207.8,38,0,Normal
+TRK-10298,Western-Coastal-Line,6.33,16.3,0.58,24.8,2.52,0.65,121.3,45,0,Normal
+TRK-10299,Western-Coastal-Line,65.59,32.7,1.295,42.7,3.45,27.66,135.8,242,1,Potential Failure
+TRK-10300,Eastern-Mineral-Belt,13.8,40.9,0.711,16.8,2.03,2.07,21.8,30,0,Normal
+TRK-10301,Northern-Corridor,138.28,54.8,0.683,38.7,2.65,0.27,49.6,116,0,Normal
+TRK-10302,Western-Coastal-Line,29.96,27.6,1.09,35.8,2.87,7.01,236.7,18,0,Normal
+TRK-10303,Southern-Express-Route,110.71,58.0,0.658,20.6,1.82,9.3,128.0,15,0,Normal
+TRK-10304,Southern-Express-Route,10.16,44.8,0.557,50.1,2.3,1.5,18.1,125,1,Potential Failure
+TRK-10305,Eastern-Mineral-Belt,90.36,11.8,0.658,11.5,1.92,8.98,106.3,21,0,Normal
+TRK-10306,Southern-Express-Route,21.94,24.2,0.721,25.1,2.49,14.33,111.7,61,0,Normal
+TRK-10307,Southern-Express-Route,90.54,29.9,1.526,20.9,3.71,9.8,238.1,173,1,Potential Failure
+TRK-10308,Eastern-Mineral-Belt,182.14,30.7,0.682,39.8,2.32,11.24,85.3,69,1,Potential Failure
+TRK-10309,Central-Freight-Trunk,142.19,17.5,1.085,13.1,2.26,8.73,113.8,164,0,Normal
+TRK-10310,Northern-Corridor,2.42,23.4,1.063,15.1,3.13,5.04,70.1,131,0,Normal
+TRK-10311,Eastern-Mineral-Belt,99.0,34.4,1.052,47.6,2.65,2.44,144.4,16,1,Potential Failure
+TRK-10312,Western-Coastal-Line,14.26,10.0,0.96,16.7,2.37,16.09,104.6,102,0,Normal
+TRK-10313,Northern-Corridor,85.59,28.8,1.099,33.7,2.86,10.14,120.1,110,0,Normal
+TRK-10314,Eastern-Mineral-Belt,106.51,12.2,0.799,19.8,2.41,1.06,164.3,45,0,Normal
+TRK-10315,Northern-Corridor,75.53,13.3,1.28,11.1,3.05,27.38,214.8,112,1,Potential Failure
+TRK-10316,Southern-Express-Route,85.66,6.1,1.002,9.1,2.31,13.68,178.2,30,0,Normal
+TRK-10317,Eastern-Mineral-Belt,156.39,33.7,0.767,33.9,2.62,0.05,141.3,29,0,Normal
+TRK-10318,Southern-Express-Route,15.47,21.3,0.927,19.0,1.89,8.34,132.0,13,0,Normal
+TRK-10319,Central-Freight-Trunk,62.28,30.7,1.029,33.9,3.0,0.03,120.4,91,0,Normal
+TRK-10320,Northern-Corridor,98.63,43.0,0.782,52.7,1.72,0.06,71.0,45,1,Potential Failure
+TRK-10321,Western-Coastal-Line,134.84,31.4,1.231,16.7,3.16,2.12,177.0,103,0,Normal
+TRK-10322,Central-Freight-Trunk,19.92,50.8,0.746,40.3,2.46,11.0,75.8,34,1,Potential Failure
+TRK-10323,Central-Freight-Trunk,140.88,34.8,0.835,11.2,3.33,27.74,160.6,15,1,Potential Failure
+TRK-10324,Eastern-Mineral-Belt,86.37,26.0,0.901,17.8,1.91,1.37,44.6,123,0,Normal
+TRK-10325,Southern-Express-Route,119.31,33.9,0.865,23.0,2.34,19.57,59.0,114,1,Potential Failure
+TRK-10326,Western-Coastal-Line,28.78,12.3,1.27,43.2,2.81,12.19,320.0,25,1,Potential Failure
+TRK-10327,Western-Coastal-Line,147.52,19.5,0.688,10.9,2.48,2.98,93.0,62,0,Normal
+TRK-10328,Northern-Corridor,58.12,23.7,0.823,21.4,2.54,5.52,113.9,42,0,Normal
+TRK-10329,Western-Coastal-Line,15.12,18.8,0.889,15.2,2.83,0.47,90.6,171,0,Normal
+TRK-10330,Southern-Express-Route,110.31,2.2,0.588,14.3,1.84,0.66,77.2,47,0,Normal
+TRK-10331,Northern-Corridor,83.75,19.6,0.897,15.9,2.85,0.54,112.0,167,0,Normal
+TRK-10332,Western-Coastal-Line,112.32,44.9,0.882,9.6,2.22,1.0,118.3,92,0,Normal
+TRK-10333,Eastern-Mineral-Belt,20.04,24.9,0.847,23.8,2.72,11.83,60.9,174,0,Normal
+TRK-10334,Northern-Corridor,93.84,41.8,0.936,32.5,3.1,10.38,145.3,45,0,Normal
+TRK-10335,Eastern-Mineral-Belt,183.34,25.3,1.324,8.3,4.13,0.91,232.6,183,0,Normal
+TRK-10336,Western-Coastal-Line,69.6,19.1,1.148,39.2,3.8,13.28,122.3,297,1,Potential Failure
+TRK-10337,Western-Coastal-Line,125.92,30.1,0.611,37.3,2.43,0.37,37.2,112,0,Normal
+TRK-10338,Western-Coastal-Line,13.13,32.2,1.221,39.2,3.29,2.4,78.7,258,0,Normal
+TRK-10339,Western-Coastal-Line,47.37,15.9,1.092,11.0,2.77,0.37,88.8,187,0,Normal
+TRK-10340,Southern-Express-Route,161.68,21.0,0.853,22.1,2.51,0.25,135.2,10,0,Normal
+TRK-10341,Central-Freight-Trunk,169.68,-3.2,0.643,17.3,1.97,0.95,71.6,73,0,Normal
+TRK-10342,Eastern-Mineral-Belt,24.73,48.3,0.656,21.3,3.22,6.5,90.1,73,0,Normal
+TRK-10343,Southern-Express-Route,70.31,28.0,1.59,6.6,3.07,2.74,22.0,239,1,Potential Failure
+TRK-10344,Southern-Express-Route,18.2,4.3,0.79,12.3,2.8,0.72,85.1,132,0,Normal
+TRK-10345,Northern-Corridor,67.72,19.7,1.032,47.5,2.46,26.18,191.1,22,1,Potential Failure
+TRK-10346,Eastern-Mineral-Belt,36.33,17.0,1.084,12.8,3.56,5.24,92.2,176,0,Normal
+TRK-10347,Western-Coastal-Line,156.37,27.3,0.995,49.0,3.05,4.41,116.4,39,1,Potential Failure
+TRK-10348,Southern-Express-Route,7.95,30.6,1.033,11.1,2.93,0.12,134.8,41,0,Normal
+TRK-10349,Central-Freight-Trunk,110.89,3.0,0.991,44.6,3.16,6.3,80.6,180,0,Normal
+TRK-10350,Southern-Express-Route,149.86,25.2,0.834,48.6,3.32,1.29,131.5,36,1,Potential Failure
+TRK-10351,Eastern-Mineral-Belt,68.03,12.7,1.291,12.3,4.38,0.31,237.0,215,1,Potential Failure
+TRK-10352,Southern-Express-Route,53.43,14.3,0.832,15.7,1.95,0.53,27.4,22,0,Normal
+TRK-10353,Southern-Express-Route,45.01,6.8,1.139,21.7,3.5,1.61,261.9,21,0,Normal
+TRK-10354,Central-Freight-Trunk,68.68,52.7,1.017,16.8,2.91,0.94,154.8,58,0,Normal
+TRK-10355,Eastern-Mineral-Belt,142.58,47.2,0.985,17.2,2.52,0.53,139.6,112,0,Normal
+TRK-10356,Eastern-Mineral-Belt,178.79,25.1,0.742,9.2,2.43,1.43,129.2,14,0,Normal
+TRK-10357,Central-Freight-Trunk,161.63,32.8,1.086,31.7,2.6,2.46,36.3,174,0,Normal
+TRK-10358,Western-Coastal-Line,103.04,10.9,0.781,37.6,2.8,2.48,69.2,69,0,Normal
+TRK-10359,Northern-Corridor,53.45,20.2,1.035,13.7,2.88,10.16,182.3,44,0,Normal
+TRK-10360,Southern-Express-Route,28.11,9.9,1.464,15.4,4.41,0.19,84.6,346,1,Potential Failure
+TRK-10361,Central-Freight-Trunk,151.27,34.5,0.459,21.2,2.57,2.53,110.5,17,0,Normal
+TRK-10362,Eastern-Mineral-Belt,10.8,4.1,0.661,21.2,2.37,5.58,202.0,20,0,Normal
+TRK-10363,Northern-Corridor,69.98,9.2,0.912,29.9,2.85,1.05,80.4,176,0,Normal
+TRK-10364,Western-Coastal-Line,146.61,30.9,1.399,53.7,3.8,11.06,87.4,245,1,Potential Failure
+TRK-10365,Eastern-Mineral-Belt,129.08,15.7,1.331,51.6,3.87,0.85,244.1,175,1,Potential Failure
+TRK-10366,Eastern-Mineral-Belt,114.22,36.3,0.701,19.0,3.92,8.15,89.7,186,0,Normal
+TRK-10367,Central-Freight-Trunk,154.63,24.7,0.966,15.4,2.95,2.29,127.2,50,0,Normal
+TRK-10368,Southern-Express-Route,78.88,27.0,0.729,12.8,2.81,11.33,83.4,120,0,Normal
+TRK-10369,Northern-Corridor,9.79,9.7,0.827,15.1,2.52,0.16,86.1,61,0,Normal
+TRK-10370,Eastern-Mineral-Belt,12.56,10.1,0.677,13.3,2.18,0.06,122.2,12,0,Normal
+TRK-10371,Southern-Express-Route,4.02,-0.7,1.083,8.2,3.08,34.14,196.5,93,1,Potential Failure
+TRK-10372,Central-Freight-Trunk,54.59,1.7,0.928,37.0,2.36,0.83,122.0,40,0,Normal
+TRK-10373,Southern-Express-Route,77.65,32.1,0.688,19.8,2.43,5.7,130.5,34,0,Normal
+TRK-10374,Western-Coastal-Line,13.45,35.5,0.597,19.0,1.53,0.26,63.3,74,0,Normal
+TRK-10375,Southern-Express-Route,102.96,44.6,0.667,10.8,2.19,1.71,120.2,25,0,Normal
+TRK-10376,Eastern-Mineral-Belt,181.51,47.9,0.776,39.5,2.65,7.09,59.8,107,0,Normal
+TRK-10377,Northern-Corridor,64.44,5.5,1.088,11.0,3.25,2.01,75.4,176,0,Normal
+TRK-10378,Southern-Express-Route,136.27,45.6,0.794,20.7,2.2,7.73,49.2,18,0,Normal
+TRK-10379,Southern-Express-Route,63.29,57.9,0.482,14.3,2.57,4.09,70.1,62,0,Normal
+TRK-10380,Eastern-Mineral-Belt,181.47,39.0,0.983,18.6,3.34,5.87,135.5,153,0,Normal
+TRK-10381,Central-Freight-Trunk,12.61,38.6,1.262,19.3,3.53,0.84,129.3,117,0,Normal
+TRK-10382,Western-Coastal-Line,38.09,38.9,0.667,12.4,2.78,0.09,63.7,121,0,Normal
+TRK-10383,Western-Coastal-Line,172.74,30.0,0.778,19.5,1.63,0.61,54.8,14,0,Normal
+TRK-10384,Southern-Express-Route,88.11,21.6,0.726,53.5,2.36,0.29,100.1,38,0,Normal
+TRK-10385,Western-Coastal-Line,66.68,40.1,0.739,16.1,1.99,0.11,45.4,14,0,Normal
+TRK-10386,Western-Coastal-Line,51.27,28.7,1.019,11.5,2.69,1.12,62.4,246,0,Normal
+TRK-10387,Eastern-Mineral-Belt,137.77,34.4,0.997,12.0,2.96,13.67,119.3,117,0,Normal
+TRK-10388,Central-Freight-Trunk,92.3,43.0,1.105,7.1,3.99,0.22,235.7,133,0,Normal
+TRK-10389,Southern-Express-Route,50.08,29.2,1.034,34.7,3.01,0.44,142.8,58,0,Normal
+TRK-10390,Eastern-Mineral-Belt,111.85,26.3,1.702,16.4,3.8,0.72,85.2,310,1,Potential Failure
+TRK-10391,Western-Coastal-Line,19.88,4.1,0.922,53.3,2.61,21.55,213.3,19,1,Potential Failure
+TRK-10392,Eastern-Mineral-Belt,111.88,18.1,1.169,12.4,3.29,1.5,170.8,58,0,Normal
+TRK-10393,Western-Coastal-Line,83.27,29.0,0.899,23.9,2.7,1.45,53.4,124,0,Normal
+TRK-10394,Southern-Express-Route,184.66,19.6,0.865,62.4,2.56,1.17,31.1,190,1,Potential Failure
+TRK-10395,Northern-Corridor,14.81,28.7,0.766,16.0,2.53,1.75,58.1,35,0,Normal
+TRK-10396,Central-Freight-Trunk,176.31,14.3,1.23,35.6,3.1,1.54,51.5,226,1,Potential Failure
+TRK-10397,Eastern-Mineral-Belt,7.4,6.9,0.83,33.8,2.81,1.69,93.1,87,0,Normal
+TRK-10398,Western-Coastal-Line,67.64,46.0,0.604,15.6,2.37,5.51,71.8,60,0,Normal
+TRK-10399,Central-Freight-Trunk,125.95,27.1,0.447,7.9,1.79,1.62,22.0,111,0,Normal
+TRK-10400,Northern-Corridor,106.6,53.9,1.022,27.0,2.82,1.31,63.1,169,0,Normal
+TRK-10401,Western-Coastal-Line,46.93,2.4,0.602,59.3,2.37,3.08,53.5,57,1,Potential Failure
+TRK-10402,Eastern-Mineral-Belt,96.27,0.2,0.881,15.1,2.94,7.81,163.2,83,0,Normal
+TRK-10403,Western-Coastal-Line,130.54,25.0,1.11,60.2,2.79,2.65,97.1,96,1,Potential Failure
+TRK-10404,Eastern-Mineral-Belt,37.83,16.1,0.765,41.2,2.81,10.81,161.6,22,0,Normal
+TRK-10405,Central-Freight-Trunk,166.36,35.5,0.772,25.0,2.27,8.84,108.7,72,0,Normal
+TRK-10406,Western-Coastal-Line,123.88,27.8,0.508,17.5,2.14,0.65,71.3,55,0,Normal
+TRK-10407,Western-Coastal-Line,165.01,29.5,1.342,18.4,3.39,1.17,202.4,104,0,Normal
+TRK-10408,Central-Freight-Trunk,147.04,7.2,1.065,9.1,3.32,13.79,132.9,90,0,Normal
+TRK-10409,Central-Freight-Trunk,146.74,24.4,0.459,41.0,1.89,1.08,62.1,29,0,Normal
+TRK-10410,Western-Coastal-Line,102.94,-7.3,0.68,16.6,1.88,1.25,83.2,24,0,Normal
+TRK-10411,Southern-Express-Route,24.88,28.2,0.683,14.1,2.68,28.35,171.5,14,1,Potential Failure
+TRK-10412,Eastern-Mineral-Belt,184.93,19.2,0.84,17.4,1.93,0.23,155.6,27,0,Normal
+TRK-10413,Eastern-Mineral-Belt,152.49,39.7,0.774,39.6,2.23,0.81,22.5,10,0,Normal
+TRK-10414,Northern-Corridor,83.8,27.5,0.729,18.8,1.99,11.33,133.1,45,0,Normal
+TRK-10415,Southern-Express-Route,118.72,37.4,0.707,42.4,2.81,0.38,98.6,41,0,Normal
+TRK-10416,Eastern-Mineral-Belt,93.53,4.6,1.27,8.1,2.75,2.68,132.6,134,0,Normal
+TRK-10417,Southern-Express-Route,29.15,29.9,0.492,50.8,2.35,10.87,110.7,61,1,Potential Failure
+TRK-10418,Central-Freight-Trunk,64.67,48.8,0.46,11.3,1.87,1.35,71.7,72,0,Normal
+TRK-10419,Northern-Corridor,47.11,29.7,1.392,13.2,2.96,1.24,320.0,32,1,Potential Failure
+TRK-10420,Central-Freight-Trunk,116.0,10.9,0.957,15.8,3.3,7.42,201.7,99,0,Normal
+TRK-10421,Central-Freight-Trunk,109.89,5.4,0.828,11.9,2.16,5.19,28.3,75,0,Normal
+TRK-10422,Southern-Express-Route,133.6,27.7,0.516,21.4,2.09,1.11,95.0,103,0,Normal
+TRK-10423,Southern-Express-Route,8.58,26.7,1.405,14.0,3.37,24.54,164.5,167,1,Potential Failure
+TRK-10424,Southern-Express-Route,49.7,30.0,0.989,52.7,1.89,0.83,61.0,44,1,Potential Failure
+TRK-10425,Southern-Express-Route,118.57,28.8,0.867,21.3,2.12,2.4,38.0,58,0,Normal
+TRK-10426,Western-Coastal-Line,119.11,5.3,1.505,50.1,4.85,21.95,191.3,365,1,Potential Failure
+TRK-10427,Eastern-Mineral-Belt,55.73,32.3,0.605,48.1,2.23,16.35,76.7,75,1,Potential Failure
+TRK-10428,Eastern-Mineral-Belt,77.47,41.1,0.734,17.8,2.18,2.28,42.3,108,0,Normal
+TRK-10429,Central-Freight-Trunk,58.52,40.8,0.999,23.3,2.84,0.35,96.0,115,0,Normal
+TRK-10430,Western-Coastal-Line,180.47,26.7,0.845,36.9,2.77,6.77,252.4,35,0,Normal
+TRK-10431,Southern-Express-Route,20.54,27.1,1.037,32.7,3.31,5.52,198.5,187,0,Normal
+TRK-10432,Eastern-Mineral-Belt,46.62,25.5,1.099,38.6,2.48,20.57,61.8,207,1,Potential Failure
+TRK-10433,Eastern-Mineral-Belt,160.01,31.9,1.17,16.0,2.55,1.07,121.4,48,0,Normal
+TRK-10434,Central-Freight-Trunk,150.68,15.8,1.524,10.3,3.84,2.09,124.1,299,1,Potential Failure
+TRK-10435,Central-Freight-Trunk,141.41,20.0,1.042,14.3,2.56,0.28,126.0,117,0,Normal
+TRK-10436,Eastern-Mineral-Belt,162.75,23.9,0.96,21.5,2.71,6.68,185.5,27,0,Normal
+TRK-10437,Eastern-Mineral-Belt,94.0,51.3,0.927,17.4,3.7,19.6,59.8,178,1,Potential Failure
+TRK-10438,Western-Coastal-Line,9.95,40.8,0.997,40.2,2.45,0.07,159.6,21,0,Normal
+TRK-10439,Eastern-Mineral-Belt,53.58,28.6,1.282,36.2,3.48,9.0,41.1,280,1,Potential Failure
+TRK-10440,Central-Freight-Trunk,163.37,26.6,0.824,15.3,1.67,1.06,39.6,79,0,Normal
+TRK-10441,Western-Coastal-Line,9.32,26.3,1.034,38.9,2.29,0.33,114.1,60,0,Normal
+TRK-10442,Western-Coastal-Line,102.79,41.0,0.483,43.2,1.61,1.36,47.2,142,0,Normal
+TRK-10443,Southern-Express-Route,52.47,26.3,0.531,14.2,2.48,0.0,88.9,31,0,Normal
+TRK-10444,Northern-Corridor,24.67,33.3,0.458,43.4,2.43,0.7,120.8,22,1,Potential Failure
+TRK-10445,Western-Coastal-Line,103.64,37.3,1.049,13.3,2.18,10.69,95.4,49,0,Normal
+TRK-10446,Southern-Express-Route,94.68,25.7,0.843,16.1,2.43,20.59,120.8,37,0,Normal
+TRK-10447,Central-Freight-Trunk,132.3,18.1,0.477,12.4,1.85,0.4,40.0,49,0,Normal
+TRK-10448,Central-Freight-Trunk,112.55,32.6,0.643,15.6,2.38,5.9,28.7,233,0,Normal
+TRK-10449,Southern-Express-Route,59.61,11.2,0.489,17.4,1.82,0.11,57.4,22,0,Normal
+TRK-10450,Western-Coastal-Line,110.25,44.2,1.146,14.5,3.11,2.2,138.5,192,0,Normal
+TRK-10451,Eastern-Mineral-Belt,131.41,13.5,0.798,12.1,1.75,0.28,60.1,84,0,Normal
+TRK-10452,Western-Coastal-Line,61.95,-1.6,0.733,42.8,2.83,0.71,143.4,26,0,Normal
+TRK-10453,Western-Coastal-Line,147.6,24.7,0.826,15.4,2.41,0.23,93.9,28,0,Normal
+TRK-10454,Northern-Corridor,110.83,29.8,0.612,45.9,2.45,0.24,98.8,49,1,Potential Failure
+TRK-10455,Southern-Express-Route,107.28,38.1,0.68,11.1,1.65,2.53,45.5,51,0,Normal
+TRK-10456,Central-Freight-Trunk,97.46,21.7,1.055,19.7,2.21,0.68,70.2,107,0,Normal
+TRK-10457,Eastern-Mineral-Belt,28.19,33.5,0.914,19.6,2.76,14.21,204.7,21,0,Normal
+TRK-10458,Northern-Corridor,36.1,23.9,0.538,12.4,2.14,0.14,40.8,17,0,Normal
+TRK-10459,Eastern-Mineral-Belt,128.05,25.4,1.506,35.5,3.81,1.19,130.7,330,1,Potential Failure
+TRK-10460,Eastern-Mineral-Belt,161.6,39.9,0.881,9.4,3.06,16.41,41.0,245,0,Normal
+TRK-10461,Central-Freight-Trunk,96.44,24.1,0.816,8.5,3.04,0.39,140.8,14,0,Normal
+TRK-10462,Eastern-Mineral-Belt,97.69,28.5,0.722,22.8,2.55,18.36,58.6,73,0,Normal
+TRK-10463,Southern-Express-Route,63.99,14.8,0.772,17.9,2.55,0.75,26.9,52,0,Normal
+TRK-10464,Western-Coastal-Line,113.25,24.3,0.93,32.9,2.02,16.07,72.3,66,0,Normal
+TRK-10465,Southern-Express-Route,55.92,6.2,0.945,15.6,2.3,0.97,114.3,141,0,Normal
+TRK-10466,Western-Coastal-Line,130.7,26.8,0.86,19.4,2.27,2.74,165.6,37,0,Normal
+TRK-10467,Eastern-Mineral-Belt,65.18,9.5,1.047,16.3,3.03,0.63,111.5,97,0,Normal
+TRK-10468,Western-Coastal-Line,53.95,18.0,0.708,8.6,2.73,0.96,112.9,22,0,Normal
+TRK-10469,Eastern-Mineral-Belt,151.58,20.2,0.946,14.7,2.79,0.27,162.8,18,0,Normal
+TRK-10470,Western-Coastal-Line,8.74,30.4,0.815,17.8,3.34,9.57,246.2,30,0,Normal
+TRK-10471,Eastern-Mineral-Belt,121.7,26.7,0.873,17.4,2.26,11.65,151.7,15,0,Normal
+TRK-10472,Southern-Express-Route,50.89,9.9,0.96,10.3,2.78,13.79,122.4,101,0,Normal
+TRK-10473,Northern-Corridor,114.28,45.1,0.83,18.5,3.32,6.64,226.4,81,0,Normal
+TRK-10474,Southern-Express-Route,42.52,24.2,0.485,46.4,2.42,25.47,61.2,64,1,Potential Failure
+TRK-10475,Western-Coastal-Line,132.99,-2.9,0.615,55.1,1.39,1.0,103.0,13,1,Potential Failure
+TRK-10476,Northern-Corridor,178.47,58.0,0.846,12.8,2.32,10.62,124.4,72,0,Normal
+TRK-10477,Eastern-Mineral-Belt,88.85,12.2,0.659,38.2,2.26,0.82,113.1,15,0,Normal
+TRK-10478,Western-Coastal-Line,53.52,25.1,0.603,39.8,1.94,0.16,73.0,90,0,Normal
+TRK-10479,Southern-Express-Route,43.73,48.4,0.559,12.4,2.48,0.57,154.2,104,0,Normal
+TRK-10480,Northern-Corridor,169.03,38.2,0.65,43.5,2.24,1.08,99.6,85,1,Potential Failure
+TRK-10481,Central-Freight-Trunk,172.84,24.5,0.822,33.8,2.55,1.31,125.4,17,0,Normal
+TRK-10482,Eastern-Mineral-Belt,35.28,19.0,1.274,14.2,3.35,0.34,206.2,109,0,Normal
+TRK-10483,Western-Coastal-Line,162.32,28.7,0.73,29.7,2.69,1.44,119.2,44,0,Normal
+TRK-10484,Northern-Corridor,171.84,24.7,0.649,14.2,2.09,1.25,88.0,25,0,Normal
+TRK-10485,Southern-Express-Route,97.47,44.4,0.737,21.1,2.52,6.15,89.1,18,0,Normal
+TRK-10486,Southern-Express-Route,87.12,28.3,1.084,50.1,3.24,26.21,127.0,274,1,Potential Failure
+TRK-10487,Central-Freight-Trunk,135.53,34.3,0.497,22.1,1.47,5.63,71.3,16,0,Normal
+TRK-10488,Northern-Corridor,136.54,43.0,0.854,13.4,2.72,1.41,75.8,203,0,Normal
+TRK-10489,Central-Freight-Trunk,33.29,48.8,0.387,14.0,2.02,0.77,81.6,15,0,Normal
+TRK-10490,Eastern-Mineral-Belt,95.81,27.7,0.867,55.6,2.77,0.79,69.3,25,1,Potential Failure
+TRK-10491,Central-Freight-Trunk,181.63,22.6,0.853,15.7,2.65,1.05,101.5,112,0,Normal
+TRK-10492,Northern-Corridor,48.98,29.6,1.241,23.1,3.04,5.1,131.4,161,0,Normal
+TRK-10493,Western-Coastal-Line,56.56,18.8,0.758,20.5,2.61,6.83,115.8,72,0,Normal
+TRK-10494,Western-Coastal-Line,128.47,29.1,1.553,51.2,3.58,7.91,191.6,349,1,Potential Failure
+TRK-10495,Western-Coastal-Line,30.39,21.8,0.898,13.8,2.2,4.22,87.9,153,0,Normal
+TRK-10496,Western-Coastal-Line,128.01,7.4,0.939,15.6,2.07,1.4,97.9,68,0,Normal
+TRK-10497,Western-Coastal-Line,114.09,20.2,0.757,52.3,2.35,10.19,97.8,11,0,Normal
+TRK-10498,Central-Freight-Trunk,84.72,38.5,0.802,16.0,2.58,0.9,87.5,48,0,Normal
+TRK-10499,Southern-Express-Route,168.95,29.4,0.569,18.2,2.12,0.45,51.1,41,0,Normal
+TRK-10500,Central-Freight-Trunk,141.18,17.9,1.379,19.8,3.61,0.01,87.3,332,1,Potential Failure
+TRK-10501,Northern-Corridor,97.69,26.6,0.827,17.5,3.27,1.14,136.6,38,0,Normal
+TRK-10502,Southern-Express-Route,21.65,9.5,1.097,17.1,3.98,1.78,83.4,192,0,Normal
+TRK-10503,Central-Freight-Trunk,106.38,29.9,0.858,29.5,2.17,9.52,101.8,54,0,Normal
+TRK-10504,Southern-Express-Route,82.3,24.8,1.076,12.6,3.64,1.05,213.9,91,0,Normal
+TRK-10505,Eastern-Mineral-Belt,17.73,28.3,1.829,43.7,5.18,3.04,284.9,333,1,Potential Failure
+TRK-10506,Eastern-Mineral-Belt,25.28,48.8,0.62,14.3,1.56,5.1,141.0,19,0,Normal
+TRK-10507,Southern-Express-Route,86.08,36.6,0.494,11.0,2.5,2.0,85.6,65,0,Normal
+TRK-10508,Eastern-Mineral-Belt,47.82,4.0,0.599,31.4,1.81,11.87,46.5,74,0,Normal
+TRK-10509,Northern-Corridor,9.33,42.2,0.892,22.8,2.42,6.9,167.5,18,0,Normal
+TRK-10510,Northern-Corridor,172.96,24.1,0.746,48.5,2.5,0.2,186.6,23,1,Potential Failure
+TRK-10511,Northern-Corridor,53.82,12.2,0.801,31.5,1.84,34.99,62.6,60,1,Potential Failure
+TRK-10512,Eastern-Mineral-Belt,69.9,10.1,0.915,22.3,2.69,0.56,58.5,152,0,Normal
+TRK-10513,Eastern-Mineral-Belt,70.12,28.2,0.642,12.6,2.83,2.5,83.4,59,0,Normal
+TRK-10514,Southern-Express-Route,25.47,19.5,1.043,17.9,2.78,7.57,29.8,122,0,Normal
+TRK-10515,Southern-Express-Route,73.32,-2.9,1.295,36.8,3.89,0.4,84.3,218,1,Potential Failure
+TRK-10516,Northern-Corridor,140.14,-1.5,0.673,11.1,2.03,3.94,96.7,76,0,Normal
+TRK-10517,Southern-Express-Route,79.04,31.7,1.217,17.4,3.37,19.38,147.8,152,0,Normal
+TRK-10518,Eastern-Mineral-Belt,64.69,52.0,0.958,41.0,2.95,0.52,168.2,81,0,Normal
+TRK-10519,Northern-Corridor,6.93,10.7,1.267,17.3,2.02,3.04,109.2,160,0,Normal
+TRK-10520,Northern-Corridor,45.28,32.0,0.804,46.6,2.51,1.41,178.4,21,1,Potential Failure
+TRK-10521,Eastern-Mineral-Belt,110.99,33.2,0.905,11.9,3.44,26.35,155.6,136,1,Potential Failure
+TRK-10522,Northern-Corridor,75.02,36.7,1.718,44.8,4.6,36.0,133.3,362,1,Potential Failure
+TRK-10523,Northern-Corridor,26.78,24.2,1.069,13.0,2.93,9.45,157.6,52,0,Normal
+TRK-10524,Southern-Express-Route,59.68,36.9,0.759,15.7,2.05,0.97,98.2,45,0,Normal
+TRK-10525,Western-Coastal-Line,44.59,45.2,0.639,17.6,2.14,0.06,51.2,129,0,Normal
+TRK-10526,Southern-Express-Route,41.67,40.0,0.825,50.0,2.24,7.24,117.2,66,1,Potential Failure
+TRK-10527,Southern-Express-Route,162.87,42.4,0.725,18.5,1.7,0.07,86.6,36,0,Normal
+TRK-10528,Eastern-Mineral-Belt,103.28,23.0,1.006,31.8,3.1,6.67,184.4,85,0,Normal
+TRK-10529,Eastern-Mineral-Belt,145.59,42.1,0.84,10.8,2.83,1.36,119.2,14,0,Normal
+TRK-10530,Central-Freight-Trunk,56.18,36.5,1.262,35.0,2.95,0.21,203.7,138,0,Normal
+TRK-10531,Central-Freight-Trunk,157.28,37.9,1.158,52.4,2.92,1.82,127.0,104,1,Potential Failure
+TRK-10532,Eastern-Mineral-Belt,169.31,34.9,0.961,16.4,2.9,0.27,129.2,107,0,Normal
+TRK-10533,Southern-Express-Route,98.52,14.2,0.843,20.0,2.87,6.27,136.2,74,0,Normal
+TRK-10534,Western-Coastal-Line,119.99,8.7,1.149,13.7,3.55,0.78,144.9,119,0,Normal
+TRK-10535,Northern-Corridor,99.56,12.6,0.682,19.1,1.92,6.48,42.2,37,0,Normal
+TRK-10536,Eastern-Mineral-Belt,124.96,25.3,0.878,13.4,2.51,0.23,131.8,117,0,Normal
+TRK-10537,Central-Freight-Trunk,149.06,23.5,0.516,13.8,2.17,1.6,57.7,24,0,Normal
+TRK-10538,Central-Freight-Trunk,89.21,53.6,0.967,21.5,3.18,36.0,126.9,104,1,Potential Failure
+TRK-10539,Northern-Corridor,39.97,33.0,1.245,43.7,3.97,3.62,59.1,365,1,Potential Failure
+TRK-10540,Eastern-Mineral-Belt,169.26,47.3,0.598,16.6,2.56,2.01,41.7,64,0,Normal
+TRK-10541,Eastern-Mineral-Belt,169.38,24.6,1.328,19.9,3.85,0.04,98.1,241,0,Normal
+TRK-10542,Eastern-Mineral-Belt,86.79,46.3,0.735,23.3,2.93,5.91,39.9,174,0,Normal
+TRK-10543,Western-Coastal-Line,95.36,37.1,0.529,22.5,2.49,6.17,72.2,32,0,Normal
+TRK-10544,Eastern-Mineral-Belt,141.14,18.9,0.841,14.9,1.94,36.0,60.3,40,1,Potential Failure
+TRK-10545,Western-Coastal-Line,77.16,9.5,1.848,16.9,4.46,26.13,244.4,365,1,Potential Failure
+TRK-10546,Central-Freight-Trunk,3.98,43.2,1.003,22.1,2.45,0.11,100.7,127,0,Normal
+TRK-10547,Eastern-Mineral-Belt,55.32,33.6,1.368,43.8,3.42,9.23,198.9,161,1,Potential Failure
+TRK-10548,Southern-Express-Route,154.34,44.4,0.541,18.2,1.83,0.36,51.0,11,0,Normal
+TRK-10549,Western-Coastal-Line,48.35,42.1,0.905,20.7,2.77,2.16,45.4,191,0,Normal
+TRK-10550,Eastern-Mineral-Belt,85.79,21.7,0.849,23.8,1.76,15.54,181.6,62,0,Normal
+TRK-10551,Central-Freight-Trunk,133.54,18.0,0.728,21.4,2.49,0.45,42.1,103,0,Normal
+TRK-10552,Southern-Express-Route,183.22,37.7,0.435,6.0,1.3,1.25,67.4,103,0,Normal
+TRK-10553,Northern-Corridor,174.91,20.5,0.917,15.2,3.47,0.61,88.6,69,0,Normal
+TRK-10554,Eastern-Mineral-Belt,26.3,34.7,1.0,12.4,3.52,9.74,146.9,54,0,Normal
+TRK-10555,Central-Freight-Trunk,2.68,35.6,0.955,6.0,2.2,0.13,84.0,127,0,Normal
+TRK-10556,Southern-Express-Route,118.34,3.2,1.091,21.0,2.52,1.43,131.2,130,0,Normal
+TRK-10557,Eastern-Mineral-Belt,3.89,15.0,0.831,8.8,3.1,0.4,161.5,35,0,Normal
+TRK-10558,Northern-Corridor,98.41,29.4,0.98,52.2,2.84,0.07,165.7,26,1,Potential Failure
+TRK-10559,Northern-Corridor,93.41,39.4,0.98,18.6,2.69,2.22,193.6,58,0,Normal
+TRK-10560,Central-Freight-Trunk,20.69,25.5,1.028,41.7,3.13,5.41,70.5,190,0,Normal
+TRK-10561,Central-Freight-Trunk,115.04,9.5,1.687,39.8,4.87,26.54,249.8,316,1,Potential Failure
+TRK-10562,Eastern-Mineral-Belt,15.54,33.3,0.867,13.8,2.4,1.05,102.8,75,0,Normal
+TRK-10563,Central-Freight-Trunk,183.2,48.2,0.965,44.9,2.89,4.92,126.3,205,1,Potential Failure
+TRK-10564,Northern-Corridor,121.29,26.5,0.917,17.9,2.93,0.91,41.8,171,0,Normal
+TRK-10565,Northern-Corridor,75.57,31.3,1.324,39.0,4.14,0.21,263.1,61,1,Potential Failure
+TRK-10566,Northern-Corridor,130.32,30.1,0.463,47.4,2.49,1.88,37.7,35,1,Potential Failure
+TRK-10567,Western-Coastal-Line,105.12,40.3,0.824,17.2,2.28,10.64,90.4,124,0,Normal
+TRK-10568,Southern-Express-Route,170.12,26.3,0.509,16.6,2.37,2.81,18.3,74,0,Normal
+TRK-10569,Southern-Express-Route,88.49,42.3,0.679,53.6,1.45,8.25,95.7,35,1,Potential Failure
+TRK-10570,Western-Coastal-Line,166.47,20.4,0.893,7.2,2.55,11.42,94.9,68,0,Normal
+TRK-10571,Western-Coastal-Line,3.88,-2.6,0.999,39.9,2.45,6.85,95.8,36,1,Potential Failure
+TRK-10572,Eastern-Mineral-Belt,171.91,20.1,1.069,40.0,2.32,0.65,150.8,138,0,Normal
+TRK-10573,Southern-Express-Route,154.58,42.2,0.813,15.1,1.76,1.18,99.7,30,0,Normal
+TRK-10574,Western-Coastal-Line,71.63,11.3,0.92,18.8,2.1,1.07,159.3,21,0,Normal
+TRK-10575,Northern-Corridor,93.15,19.5,0.694,12.0,1.75,26.65,60.8,83,1,Potential Failure
+TRK-10576,Eastern-Mineral-Belt,43.71,33.4,0.823,45.8,2.5,1.08,21.0,208,1,Potential Failure
+TRK-10577,Southern-Express-Route,176.69,22.7,0.65,17.9,2.5,2.71,107.7,14,0,Normal
+TRK-10578,Northern-Corridor,117.68,14.4,0.75,15.8,1.78,0.09,67.0,73,0,Normal
+TRK-10579,Central-Freight-Trunk,66.47,28.1,0.84,13.8,3.09,0.58,103.9,88,0,Normal
+TRK-10580,Southern-Express-Route,122.56,32.1,0.839,53.0,2.47,2.29,67.3,24,1,Potential Failure
+TRK-10581,Central-Freight-Trunk,132.21,31.5,0.713,38.6,1.92,9.12,77.0,32,0,Normal
+TRK-10582,Central-Freight-Trunk,137.1,34.9,0.436,16.0,1.52,9.1,61.4,14,0,Normal
+TRK-10583,Northern-Corridor,174.5,16.7,0.816,14.0,2.44,1.84,78.7,54,0,Normal
+TRK-10584,Northern-Corridor,25.38,9.9,1.351,52.6,3.66,11.91,117.4,365,1,Potential Failure
+TRK-10585,Southern-Express-Route,95.29,38.0,0.958,44.9,2.1,22.95,79.2,108,1,Potential Failure
+TRK-10586,Southern-Express-Route,18.12,30.3,1.068,17.1,3.7,9.99,138.6,161,0,Normal
+TRK-10587,Eastern-Mineral-Belt,3.27,11.9,1.024,18.1,2.52,0.36,98.5,101,0,Normal
+TRK-10588,Southern-Express-Route,167.56,43.2,1.332,12.7,3.21,1.34,168.2,260,0,Normal
+TRK-10589,Central-Freight-Trunk,127.1,37.0,1.418,44.9,3.22,15.0,171.5,176,1,Potential Failure
+TRK-10590,Western-Coastal-Line,91.73,6.5,0.783,33.8,2.84,4.55,90.6,67,0,Normal
+TRK-10591,Eastern-Mineral-Belt,56.15,20.5,1.093,12.9,3.02,9.68,83.9,132,0,Normal
+TRK-10592,Central-Freight-Trunk,133.65,24.9,0.839,16.5,1.32,0.67,54.1,53,0,Normal
+TRK-10593,Eastern-Mineral-Belt,20.68,30.1,1.105,49.8,2.16,0.04,57.2,132,1,Potential Failure
+TRK-10594,Western-Coastal-Line,155.86,58.0,0.576,18.6,2.14,0.94,22.6,30,0,Normal
+TRK-10595,Eastern-Mineral-Belt,62.59,51.0,0.569,9.9,1.94,0.51,34.0,27,0,Normal
+TRK-10596,Southern-Express-Route,26.05,8.2,1.143,47.9,2.83,0.01,173.5,17,1,Potential Failure
+TRK-10597,Central-Freight-Trunk,89.14,26.3,1.078,41.5,2.89,1.68,153.1,83,0,Normal
+TRK-10598,Western-Coastal-Line,54.63,15.7,0.651,14.0,1.9,1.05,91.1,92,0,Normal
+TRK-10599,Southern-Express-Route,144.88,39.8,0.857,20.1,2.41,11.04,133.1,32,0,Normal
+TRK-10600,Eastern-Mineral-Belt,68.16,16.4,1.133,12.3,3.41,16.1,224.8,89,1,Potential Failure
+TRK-10601,Southern-Express-Route,34.11,0.8,0.766,17.3,1.78,21.53,68.0,119,0,Normal
+TRK-10602,Eastern-Mineral-Belt,174.51,10.3,0.852,50.4,2.66,0.33,147.3,51,0,Normal
+TRK-10603,Northern-Corridor,151.69,8.5,1.337,15.8,4.04,7.43,109.7,365,1,Potential Failure
+TRK-10604,Eastern-Mineral-Belt,26.61,22.9,1.295,50.3,3.08,16.92,140.2,279,1,Potential Failure
+TRK-10605,Central-Freight-Trunk,132.6,54.8,0.813,14.1,2.49,11.2,31.2,131,0,Normal
+TRK-10606,Southern-Express-Route,89.18,33.1,1.134,36.4,3.65,23.97,106.2,365,1,Potential Failure
+TRK-10607,Eastern-Mineral-Belt,101.03,9.1,0.755,16.6,2.16,0.47,75.5,39,0,Normal
+TRK-10608,Southern-Express-Route,110.26,27.0,1.598,16.9,4.37,10.82,171.9,339,1,Potential Failure
+TRK-10609,Central-Freight-Trunk,122.0,11.7,0.996,15.9,2.33,0.73,116.0,102,0,Normal
+TRK-10610,Northern-Corridor,104.63,17.7,0.593,15.7,2.28,0.38,35.3,33,0,Normal
+TRK-10611,Western-Coastal-Line,178.69,34.5,0.786,19.0,1.89,24.73,98.5,18,1,Potential Failure
+TRK-10612,Western-Coastal-Line,41.85,37.8,0.901,19.3,2.64,5.93,125.4,35,0,Normal
+TRK-10613,Southern-Express-Route,41.67,18.2,0.734,20.8,2.2,2.76,141.8,16,0,Normal
+TRK-10614,Southern-Express-Route,128.04,27.7,1.444,35.2,3.08,0.31,94.4,218,0,Normal
+TRK-10615,Eastern-Mineral-Belt,20.24,1.4,0.442,13.0,1.97,1.11,108.3,24,0,Normal
+TRK-10616,Northern-Corridor,153.96,26.2,0.753,10.9,2.9,6.62,153.7,15,0,Normal
+TRK-10617,Western-Coastal-Line,84.78,29.6,1.233,26.0,2.57,0.01,201.0,56,0,Normal
+TRK-10618,Eastern-Mineral-Belt,18.96,19.8,0.799,17.0,2.67,1.66,90.3,89,0,Normal
+TRK-10619,Northern-Corridor,56.25,-8.4,0.881,18.8,2.93,7.54,88.9,56,0,Normal
+TRK-10620,Western-Coastal-Line,120.23,18.9,1.098,13.7,2.97,10.93,110.1,96,0,Normal
+TRK-10621,Central-Freight-Trunk,95.94,26.9,0.74,18.9,2.45,8.71,151.1,37,0,Normal
+TRK-10622,Eastern-Mineral-Belt,177.36,26.2,0.738,45.3,2.11,2.47,89.1,83,1,Potential Failure
+TRK-10623,Central-Freight-Trunk,35.3,51.7,1.215,17.8,3.17,0.62,65.0,114,0,Normal
+TRK-10624,Southern-Express-Route,163.49,37.7,1.118,15.9,2.55,0.47,95.6,160,0,Normal
+TRK-10625,Northern-Corridor,130.67,23.2,0.729,48.5,2.61,0.29,120.0,18,1,Potential Failure
+TRK-10626,Northern-Corridor,107.23,5.2,0.411,25.1,1.69,0.64,61.5,43,0,Normal
+TRK-10627,Western-Coastal-Line,60.98,30.0,0.635,12.1,2.54,18.19,63.7,25,0,Normal
+TRK-10628,Eastern-Mineral-Belt,98.1,36.1,0.982,19.5,3.86,1.78,194.0,35,0,Normal
+TRK-10629,Southern-Express-Route,73.23,-3.1,1.058,51.8,2.38,8.51,145.0,88,1,Potential Failure
+TRK-10630,Eastern-Mineral-Belt,114.59,38.7,1.259,15.2,3.2,3.99,220.0,44,1,Potential Failure
+TRK-10631,Western-Coastal-Line,170.04,33.9,1.039,15.2,2.97,0.86,151.4,194,0,Normal
+TRK-10632,Western-Coastal-Line,22.69,12.3,0.631,14.8,2.65,31.07,86.6,18,1,Potential Failure
+TRK-10633,Central-Freight-Trunk,94.99,45.2,1.162,11.7,3.08,20.83,55.0,283,1,Potential Failure
+TRK-10634,Eastern-Mineral-Belt,78.84,25.9,0.826,8.1,2.38,0.54,74.6,59,0,Normal
+TRK-10635,Central-Freight-Trunk,103.1,23.4,0.749,13.0,1.64,23.9,54.2,27,1,Potential Failure
+TRK-10636,Western-Coastal-Line,155.93,36.8,0.627,23.5,2.26,6.8,52.4,42,0,Normal
+TRK-10637,Northern-Corridor,90.17,19.2,1.007,44.8,1.58,11.4,140.9,134,1,Potential Failure
+TRK-10638,Southern-Express-Route,94.0,38.5,0.588,16.5,1.62,0.15,33.9,41,0,Normal
+TRK-10639,Eastern-Mineral-Belt,131.67,26.6,0.875,19.6,2.25,9.45,88.5,63,0,Normal
+TRK-10640,Southern-Express-Route,6.68,10.2,1.168,19.3,3.13,10.27,50.9,266,0,Normal
+TRK-10641,Western-Coastal-Line,42.37,26.3,0.981,40.8,2.78,0.14,74.3,117,0,Normal
+TRK-10642,Southern-Express-Route,137.62,26.3,1.339,6.2,3.7,12.31,199.4,337,1,Potential Failure
+TRK-10643,Northern-Corridor,106.38,5.3,0.792,35.5,2.29,0.54,129.6,17,0,Normal
+TRK-10644,Western-Coastal-Line,100.74,20.4,0.576,21.2,2.46,2.91,134.9,18,0,Normal
+TRK-10645,Eastern-Mineral-Belt,101.53,22.0,0.956,11.3,2.8,10.01,138.6,148,0,Normal
+TRK-10646,Central-Freight-Trunk,55.78,9.5,1.09,19.0,2.79,1.02,103.3,229,0,Normal
+TRK-10647,Western-Coastal-Line,159.64,20.1,0.714,44.9,2.32,0.99,43.4,34,1,Potential Failure
+TRK-10648,Northern-Corridor,143.72,25.2,0.774,40.2,1.87,1.43,70.8,28,0,Normal
+TRK-10649,Southern-Express-Route,127.8,24.1,1.408,20.5,3.78,1.52,263.1,59,0,Normal
+TRK-10650,Eastern-Mineral-Belt,31.54,22.1,0.881,36.0,2.15,10.51,53.0,71,0,Normal
+TRK-10651,Central-Freight-Trunk,149.2,17.8,0.866,17.7,3.04,0.39,125.2,89,0,Normal
+TRK-10652,Southern-Express-Route,100.13,48.9,1.066,18.0,2.34,1.82,91.2,52,0,Normal
+TRK-10653,Western-Coastal-Line,106.38,34.4,1.06,10.6,2.49,0.95,134.5,43,0,Normal
+TRK-10654,Northern-Corridor,25.95,8.1,0.89,18.4,2.16,2.21,94.2,64,0,Normal
+TRK-10655,Northern-Corridor,183.62,26.9,0.682,15.5,2.67,5.25,119.1,63,0,Normal
+TRK-10656,Central-Freight-Trunk,46.94,24.0,1.386,9.2,3.64,0.06,109.3,240,0,Normal
+TRK-10657,Eastern-Mineral-Belt,91.06,20.2,0.712,12.5,2.85,18.12,67.1,82,0,Normal
+TRK-10658,Eastern-Mineral-Belt,70.03,17.4,1.096,36.0,2.67,1.2,179.3,17,0,Normal
+TRK-10659,Northern-Corridor,75.12,44.2,0.8,11.9,2.25,0.5,71.9,55,0,Normal
+TRK-10660,Western-Coastal-Line,84.66,49.4,1.319,18.1,2.87,2.3,188.2,66,1,Potential Failure
+TRK-10661,Northern-Corridor,135.49,9.5,1.133,15.8,2.59,1.12,208.5,31,0,Normal
+TRK-10662,Western-Coastal-Line,157.42,36.9,0.657,19.1,2.05,1.7,52.7,36,0,Normal
+TRK-10663,Eastern-Mineral-Belt,152.77,30.7,0.622,10.9,2.19,0.85,78.8,25,0,Normal
+TRK-10664,Western-Coastal-Line,63.15,28.7,1.016,17.8,2.35,0.61,42.3,106,0,Normal
+TRK-10665,Eastern-Mineral-Belt,146.05,47.1,1.089,20.3,3.59,0.13,284.0,110,0,Normal
+TRK-10666,Northern-Corridor,19.32,31.4,0.909,14.8,1.95,0.01,179.8,14,0,Normal
+TRK-10667,Northern-Corridor,172.02,35.6,0.986,48.1,2.82,0.32,131.6,131,1,Potential Failure
+TRK-10668,Eastern-Mineral-Belt,38.23,26.5,1.037,16.4,3.2,9.22,143.7,22,0,Normal
+TRK-10669,Western-Coastal-Line,30.25,25.5,0.938,14.0,1.63,6.42,56.8,41,0,Normal
+TRK-10670,Western-Coastal-Line,47.07,24.6,0.696,19.9,2.75,4.07,121.2,22,0,Normal
+TRK-10671,Central-Freight-Trunk,10.53,37.6,0.862,18.4,2.2,2.6,85.4,149,0,Normal
+TRK-10672,Central-Freight-Trunk,79.98,45.0,1.092,49.5,2.02,14.93,151.1,60,1,Potential Failure
+TRK-10673,Central-Freight-Trunk,88.73,21.9,0.683,43.9,1.74,10.17,95.4,55,1,Potential Failure
+TRK-10674,Eastern-Mineral-Belt,2.71,5.3,0.632,22.0,2.16,1.05,76.0,150,0,Normal
+TRK-10675,Eastern-Mineral-Belt,128.7,55.0,0.973,16.6,2.05,16.62,193.4,169,0,Normal
+TRK-10676,Northern-Corridor,135.46,21.2,0.559,30.0,2.05,0.72,54.1,29,0,Normal
+TRK-10677,Western-Coastal-Line,26.23,45.9,0.835,25.0,1.82,1.88,73.8,25,0,Normal
+TRK-10678,Central-Freight-Trunk,119.05,15.6,0.834,13.3,2.68,8.31,95.5,65,0,Normal
+TRK-10679,Southern-Express-Route,2.56,18.3,0.838,17.2,3.44,0.07,124.1,172,0,Normal
+TRK-10680,Central-Freight-Trunk,116.57,31.6,1.284,39.9,3.28,8.09,125.5,243,1,Potential Failure
+TRK-10681,Eastern-Mineral-Belt,159.23,27.0,0.71,22.8,2.19,8.51,34.1,115,0,Normal
+TRK-10682,Northern-Corridor,109.48,25.3,0.999,14.7,3.12,2.13,93.3,207,0,Normal
+TRK-10683,Western-Coastal-Line,146.56,53.3,0.765,41.6,2.46,2.77,45.7,84,0,Normal
+TRK-10684,Central-Freight-Trunk,102.82,28.8,1.379,10.5,3.51,0.68,100.3,365,0,Normal
+TRK-10685,Northern-Corridor,157.01,30.7,0.695,13.0,1.64,0.05,33.3,13,0,Normal
+TRK-10686,Southern-Express-Route,112.67,33.2,1.288,39.4,3.09,9.68,55.1,365,1,Potential Failure
+TRK-10687,Northern-Corridor,145.22,58.0,0.596,18.7,2.27,11.82,80.7,32,0,Normal
+TRK-10688,Eastern-Mineral-Belt,21.74,21.0,0.853,25.4,2.61,4.32,103.0,35,0,Normal
+TRK-10689,Southern-Express-Route,164.53,14.0,1.529,39.9,2.71,27.59,320.0,67,1,Potential Failure
+TRK-10690,Western-Coastal-Line,25.28,24.5,1.511,14.9,3.94,1.83,320.0,145,1,Potential Failure
+TRK-10691,Western-Coastal-Line,101.53,-4.4,0.67,44.6,2.96,3.47,97.5,74,1,Potential Failure
+TRK-10692,Northern-Corridor,4.07,46.2,0.366,47.5,1.97,12.11,114.3,17,1,Potential Failure
+TRK-10693,Northern-Corridor,170.75,14.2,1.352,11.7,3.27,5.2,245.8,19,0,Normal
+TRK-10694,Western-Coastal-Line,116.66,45.1,0.938,19.7,3.11,5.54,88.5,224,0,Normal
+TRK-10695,Eastern-Mineral-Belt,16.17,50.8,0.51,24.4,1.84,0.89,31.6,115,0,Normal
+TRK-10696,Western-Coastal-Line,16.38,18.4,1.252,38.2,3.09,0.33,320.0,29,1,Potential Failure
+TRK-10697,Central-Freight-Trunk,99.7,48.0,0.727,10.3,1.03,1.64,58.2,20,0,Normal
+TRK-10698,Northern-Corridor,58.07,0.9,0.957,12.9,2.83,0.49,72.4,225,0,Normal
+TRK-10699,Central-Freight-Trunk,11.65,13.5,0.883,31.9,2.74,0.19,41.9,87,0,Normal
+TRK-10700,Eastern-Mineral-Belt,113.66,45.5,1.249,55.4,3.54,0.38,144.6,365,1,Potential Failure
+TRK-10701,Central-Freight-Trunk,22.98,2.4,1.062,14.3,2.57,1.58,147.6,54,0,Normal
+TRK-10702,Central-Freight-Trunk,92.34,41.1,0.853,20.8,2.96,0.63,103.5,75,0,Normal
+TRK-10703,Western-Coastal-Line,31.72,10.6,0.628,45.8,1.93,2.47,14.2,61,0,Normal
+TRK-10704,Western-Coastal-Line,135.86,13.5,0.888,33.2,1.77,1.17,153.9,17,0,Normal
+TRK-10705,Western-Coastal-Line,149.51,11.1,0.927,34.8,2.83,18.74,94.9,98,0,Normal
+TRK-10706,Southern-Express-Route,116.47,14.9,1.088,8.9,1.9,1.32,107.3,133,0,Normal
+TRK-10707,Northern-Corridor,92.93,35.9,0.897,16.0,2.13,1.81,82.7,34,0,Normal
+TRK-10708,Western-Coastal-Line,143.29,42.3,0.548,16.1,1.26,0.27,33.0,16,0,Normal
+TRK-10709,Northern-Corridor,43.03,18.6,1.286,13.3,2.83,9.78,116.7,113,0,Normal
+TRK-10710,Northern-Corridor,46.0,6.7,1.195,13.3,3.29,10.55,200.9,113,0,Normal
+TRK-10711,Central-Freight-Trunk,33.93,20.7,0.64,10.6,1.97,15.02,48.4,10,0,Normal
+TRK-10712,Eastern-Mineral-Belt,42.31,32.8,0.974,45.1,2.65,0.81,54.4,22,1,Potential Failure
+TRK-10713,Western-Coastal-Line,50.91,50.4,0.966,32.2,2.73,0.29,132.5,21,0,Normal
+TRK-10714,Southern-Express-Route,124.89,28.4,0.877,37.0,2.6,8.01,182.2,103,0,Normal
+TRK-10715,Southern-Express-Route,181.58,17.9,1.361,15.2,3.19,11.68,26.9,347,1,Potential Failure
+TRK-10716,Eastern-Mineral-Belt,160.35,13.9,1.275,17.8,3.54,10.36,282.9,65,0,Normal
+TRK-10717,Northern-Corridor,102.77,39.6,0.693,38.7,2.08,8.24,95.2,15,0,Normal
+TRK-10718,Southern-Express-Route,145.35,20.1,0.929,8.4,2.12,5.6,132.7,31,0,Normal
+TRK-10719,Western-Coastal-Line,109.87,36.2,0.931,16.5,3.18,1.46,156.2,71,0,Normal
+TRK-10720,Central-Freight-Trunk,135.77,47.5,0.722,19.8,2.07,2.2,42.4,122,0,Normal
+TRK-10721,Central-Freight-Trunk,2.17,28.2,1.709,46.8,4.7,10.27,238.8,141,1,Potential Failure
+TRK-10722,Western-Coastal-Line,118.01,22.2,1.078,9.2,3.24,26.99,60.8,182,1,Potential Failure
+TRK-10723,Western-Coastal-Line,1.27,50.3,1.451,21.8,4.15,0.66,51.7,365,1,Potential Failure
+TRK-10724,Western-Coastal-Line,20.13,30.5,0.951,9.0,2.94,5.6,188.0,53,0,Normal
+TRK-10725,Eastern-Mineral-Belt,177.86,36.8,0.784,17.1,2.33,6.2,103.3,10,0,Normal
+TRK-10726,Western-Coastal-Line,18.12,13.8,0.805,12.8,2.59,3.69,105.5,24,0,Normal
+TRK-10727,Southern-Express-Route,77.0,10.6,0.913,7.6,2.57,1.37,111.9,136,0,Normal
+TRK-10728,Northern-Corridor,107.86,15.8,1.025,11.4,2.61,0.43,172.9,120,0,Normal
+TRK-10729,Eastern-Mineral-Belt,14.77,38.4,0.978,21.7,2.09,1.47,130.0,57,0,Normal
+TRK-10730,Central-Freight-Trunk,44.57,5.6,0.849,32.8,2.64,8.25,119.5,127,0,Normal
+TRK-10731,Eastern-Mineral-Belt,129.93,26.3,0.615,15.3,3.13,25.64,10.5,210,1,Potential Failure
+TRK-10732,Western-Coastal-Line,43.98,20.8,0.659,12.1,2.44,5.31,38.3,110,0,Normal
+TRK-10733,Southern-Express-Route,21.05,21.2,0.572,39.0,2.21,1.09,120.4,38,0,Normal
+TRK-10734,Western-Coastal-Line,75.8,38.2,0.956,15.3,1.87,4.33,45.5,133,0,Normal
+TRK-10735,Central-Freight-Trunk,84.15,-0.9,0.935,11.8,1.8,1.77,42.5,26,0,Normal
+TRK-10736,Northern-Corridor,30.0,21.7,0.788,21.3,2.88,2.68,31.3,69,0,Normal
+TRK-10737,Southern-Express-Route,8.42,25.8,0.741,8.9,3.15,7.1,168.1,75,0,Normal
+TRK-10738,Northern-Corridor,131.85,21.0,0.961,24.4,1.61,1.59,73.0,10,0,Normal
+TRK-10739,Northern-Corridor,125.6,9.0,1.01,46.5,2.49,0.75,280.8,20,1,Potential Failure
+TRK-10740,Northern-Corridor,176.19,3.0,0.968,15.9,1.99,1.84,102.0,65,0,Normal
+TRK-10741,Southern-Express-Route,46.97,25.1,0.754,21.8,2.79,1.02,112.7,39,0,Normal
+TRK-10742,Central-Freight-Trunk,23.35,39.6,0.579,44.9,2.17,0.18,69.5,36,1,Potential Failure
+TRK-10743,Central-Freight-Trunk,25.05,11.1,1.263,14.0,3.48,20.93,60.1,277,1,Potential Failure
+TRK-10744,Northern-Corridor,108.15,33.0,0.798,39.1,2.83,1.07,135.1,49,0,Normal
+TRK-10745,Northern-Corridor,184.48,41.3,0.893,33.2,2.65,0.23,20.0,229,0,Normal
+TRK-10746,Central-Freight-Trunk,17.92,36.8,0.623,16.6,2.31,3.36,92.6,16,0,Normal
+TRK-10747,Northern-Corridor,8.86,31.0,0.965,14.3,3.18,10.06,86.3,210,0,Normal
+TRK-10748,Southern-Express-Route,80.7,27.2,0.854,16.3,2.92,3.82,162.5,106,0,Normal
+TRK-10749,Eastern-Mineral-Belt,126.71,38.6,0.801,30.4,2.75,17.19,57.5,120,0,Normal
+TRK-10750,Central-Freight-Trunk,51.6,46.5,0.703,10.9,2.66,5.99,132.9,34,0,Normal
+TRK-10751,Southern-Express-Route,114.93,16.5,0.99,44.3,3.07,25.47,160.2,131,1,Potential Failure
+TRK-10752,Eastern-Mineral-Belt,163.43,39.7,0.625,21.5,2.34,13.1,61.8,13,0,Normal
+TRK-10753,Eastern-Mineral-Belt,26.25,10.8,0.849,49.8,3.05,2.77,92.9,67,1,Potential Failure
+TRK-10754,Southern-Express-Route,46.84,44.3,0.87,16.5,1.61,0.65,75.8,34,0,Normal
+TRK-10755,Northern-Corridor,183.05,36.0,0.728,20.2,2.31,5.42,111.8,40,0,Normal
+TRK-10756,Southern-Express-Route,144.78,24.4,0.846,21.7,2.63,0.61,93.4,122,0,Normal
+TRK-10757,Western-Coastal-Line,72.46,3.8,1.68,39.3,4.82,8.24,273.1,292,1,Potential Failure
+TRK-10758,Central-Freight-Trunk,6.39,4.4,0.638,19.1,1.71,12.52,25.2,120,0,Normal
+TRK-10759,Eastern-Mineral-Belt,98.42,42.6,0.626,13.0,1.83,1.62,25.2,32,0,Normal
+TRK-10760,Central-Freight-Trunk,19.42,41.4,1.514,9.5,3.42,18.55,123.1,233,1,Potential Failure
+TRK-10761,Northern-Corridor,141.59,32.1,0.991,23.8,3.22,0.49,232.4,75,0,Normal
+TRK-10762,Eastern-Mineral-Belt,66.28,37.3,0.927,12.3,2.18,0.5,108.1,104,0,Normal
+TRK-10763,Central-Freight-Trunk,44.53,16.1,0.955,36.9,2.87,4.98,123.2,118,0,Normal
+TRK-10764,Western-Coastal-Line,169.17,30.6,0.904,40.2,2.26,0.58,123.5,54,0,Normal
+TRK-10765,Southern-Express-Route,104.7,2.9,0.832,11.4,2.29,10.25,137.5,58,0,Normal
+TRK-10766,Eastern-Mineral-Belt,100.75,7.2,0.836,46.2,2.21,10.33,109.2,30,1,Potential Failure
+TRK-10767,Northern-Corridor,43.8,6.5,0.526,37.2,1.65,4.13,55.4,13,0,Normal
+TRK-10768,Northern-Corridor,62.04,30.7,0.524,11.5,2.62,1.7,86.6,32,0,Normal
+TRK-10769,Western-Coastal-Line,132.92,2.5,0.923,14.3,2.87,0.09,143.6,113,0,Normal
+TRK-10770,Western-Coastal-Line,11.96,19.2,0.941,23.0,2.49,1.24,134.7,87,0,Normal
+TRK-10771,Central-Freight-Trunk,143.48,11.5,0.786,19.4,2.61,1.2,140.4,19,0,Normal
+TRK-10772,Northern-Corridor,69.74,21.3,1.059,21.9,3.72,0.15,146.9,67,0,Normal
+TRK-10773,Northern-Corridor,62.93,32.0,0.794,34.6,3.44,1.66,135.3,127,0,Normal
+TRK-10774,Eastern-Mineral-Belt,146.7,6.8,1.765,18.2,4.2,0.13,174.9,365,1,Potential Failure
+TRK-10775,Central-Freight-Trunk,131.12,16.3,1.045,27.4,2.27,2.03,195.3,49,0,Normal
+TRK-10776,Southern-Express-Route,145.81,30.8,1.314,48.5,3.77,1.33,82.8,364,1,Potential Failure
+TRK-10777,Central-Freight-Trunk,70.62,42.3,0.882,13.0,2.41,19.73,132.6,16,1,Potential Failure
+TRK-10778,Central-Freight-Trunk,135.1,43.6,0.624,11.4,2.45,0.81,67.1,32,0,Normal
+TRK-10779,Eastern-Mineral-Belt,157.54,42.7,1.08,17.9,3.39,1.02,36.1,201,0,Normal
+TRK-10780,Central-Freight-Trunk,111.84,15.5,0.949,21.0,2.35,2.05,86.2,175,0,Normal
+TRK-10781,Central-Freight-Trunk,118.7,32.7,1.021,33.3,3.92,17.3,205.5,278,1,Potential Failure
+TRK-10782,Western-Coastal-Line,138.14,44.0,1.241,38.2,2.27,2.66,93.9,142,0,Normal
+TRK-10783,Central-Freight-Trunk,118.06,29.1,0.632,14.2,1.55,0.21,48.9,15,0,Normal
+TRK-10784,Western-Coastal-Line,83.18,4.4,1.149,44.2,3.61,6.36,221.9,158,1,Potential Failure
+TRK-10785,Northern-Corridor,65.49,8.6,0.922,9.5,3.08,0.83,133.5,27,0,Normal
+TRK-10786,Northern-Corridor,72.01,26.8,0.868,16.8,3.01,1.4,162.7,74,0,Normal
+TRK-10787,Eastern-Mineral-Belt,91.73,35.6,1.231,46.8,4.0,4.02,148.4,195,1,Potential Failure
+TRK-10788,Northern-Corridor,153.5,58.0,0.261,16.9,1.9,0.89,39.5,36,0,Normal
+TRK-10789,Central-Freight-Trunk,30.93,24.0,1.014,36.0,3.37,0.02,214.4,90,0,Normal
+TRK-10790,Western-Coastal-Line,4.69,15.3,0.723,41.7,2.24,13.19,63.9,94,0,Normal
+TRK-10791,Western-Coastal-Line,32.3,17.7,0.895,24.1,2.04,2.94,139.3,28,0,Normal
+TRK-10792,Southern-Express-Route,174.3,21.2,0.557,22.9,2.4,4.71,64.4,65,0,Normal
+TRK-10793,Southern-Express-Route,165.35,24.8,1.335,8.9,4.02,10.87,86.4,365,1,Potential Failure
+TRK-10794,Central-Freight-Trunk,112.75,13.1,0.843,13.0,2.36,13.48,45.4,125,0,Normal
+TRK-10795,Western-Coastal-Line,38.82,24.8,0.523,42.7,2.42,0.3,110.6,19,0,Normal
+TRK-10796,Southern-Express-Route,49.81,29.8,1.522,43.1,4.14,6.49,147.8,365,1,Potential Failure
+TRK-10797,Northern-Corridor,73.29,1.1,0.715,16.8,1.61,0.51,50.3,25,0,Normal
+TRK-10798,Northern-Corridor,67.39,10.9,1.129,15.3,3.15,9.82,169.4,37,0,Normal
+TRK-10799,Southern-Express-Route,89.38,22.4,1.051,50.6,1.98,13.07,187.6,65,1,Potential Failure
+TRK-10800,Western-Coastal-Line,180.78,30.0,1.121,15.6,2.96,12.05,25.6,217,0,Normal
+TRK-10801,Eastern-Mineral-Belt,87.65,34.3,0.746,9.0,3.34,5.8,52.0,164,0,Normal
+TRK-10802,Southern-Express-Route,72.3,51.0,1.239,46.1,2.96,6.5,230.4,95,1,Potential Failure
+TRK-10803,Central-Freight-Trunk,83.02,36.4,1.19,49.4,3.75,0.48,99.1,248,1,Potential Failure
+TRK-10804,Central-Freight-Trunk,155.02,5.1,0.448,18.3,1.6,8.38,54.3,16,0,Normal
+TRK-10805,Northern-Corridor,16.77,23.5,1.055,15.6,2.74,2.16,126.7,69,0,Normal
+TRK-10806,Southern-Express-Route,42.86,28.2,0.657,45.3,2.77,10.88,155.5,84,0,Normal
+TRK-10807,Southern-Express-Route,78.03,51.4,1.194,12.3,2.9,0.43,148.0,67,0,Normal
+TRK-10808,Eastern-Mineral-Belt,106.38,30.5,1.031,42.1,2.48,5.16,155.9,20,0,Normal
+TRK-10809,Eastern-Mineral-Belt,167.11,36.0,0.648,12.9,2.87,2.48,79.1,116,0,Normal
+TRK-10810,Southern-Express-Route,148.28,45.6,0.978,11.9,3.71,1.15,216.7,62,0,Normal
+TRK-10811,Northern-Corridor,175.66,1.3,0.559,13.9,2.19,1.32,116.8,30,0,Normal
+TRK-10812,Central-Freight-Trunk,179.88,-3.5,0.682,9.3,2.9,5.29,40.0,211,0,Normal
+TRK-10813,Eastern-Mineral-Belt,15.42,24.4,1.089,10.9,3.28,6.93,238.9,37,0,Normal
+TRK-10814,Central-Freight-Trunk,154.48,19.9,0.838,32.6,2.12,0.62,128.7,24,0,Normal
+TRK-10815,Northern-Corridor,17.01,37.2,0.616,19.8,2.38,0.02,96.8,63,0,Normal
+TRK-10816,Western-Coastal-Line,96.62,32.1,0.728,12.6,2.81,7.44,106.7,90,0,Normal
+TRK-10817,Southern-Express-Route,109.11,26.4,1.08,10.4,2.74,9.45,63.8,165,0,Normal
+TRK-10818,Central-Freight-Trunk,28.27,29.6,0.924,10.0,3.25,3.01,100.7,143,0,Normal
+TRK-10819,Northern-Corridor,171.19,47.8,0.515,19.8,1.64,9.84,70.7,28,0,Normal
+TRK-10820,Western-Coastal-Line,160.62,25.4,0.57,24.1,2.33,0.85,65.2,94,0,Normal
+TRK-10821,Western-Coastal-Line,71.48,16.6,0.649,12.2,1.97,0.33,47.5,22,0,Normal
+TRK-10822,Northern-Corridor,32.68,18.5,0.868,16.2,1.86,0.27,65.6,74,0,Normal
+TRK-10823,Eastern-Mineral-Belt,8.14,34.3,0.764,8.6,1.86,0.8,86.9,37,0,Normal
+TRK-10824,Central-Freight-Trunk,10.07,42.3,1.224,15.9,2.38,5.73,175.2,70,0,Normal
+TRK-10825,Western-Coastal-Line,4.72,30.3,0.566,16.1,2.81,10.18,75.6,23,0,Normal
+TRK-10826,Western-Coastal-Line,156.08,37.9,1.307,13.9,3.11,0.06,116.1,184,0,Normal
+TRK-10827,Central-Freight-Trunk,25.73,21.6,1.177,23.4,2.98,0.66,178.2,110,0,Normal
+TRK-10828,Western-Coastal-Line,50.57,38.6,0.541,13.0,2.55,0.63,81.8,47,0,Normal
+TRK-10829,Central-Freight-Trunk,82.28,16.9,1.06,16.7,2.77,0.08,146.0,76,0,Normal
+TRK-10830,Eastern-Mineral-Belt,140.75,29.2,1.05,18.4,2.84,0.87,132.5,135,0,Normal
+TRK-10831,Southern-Express-Route,146.63,25.6,0.805,36.5,3.03,1.46,91.1,32,0,Normal
+TRK-10832,Eastern-Mineral-Belt,25.96,26.3,1.24,7.2,3.25,1.57,120.7,122,0,Normal
+TRK-10833,Northern-Corridor,32.97,22.7,1.059,9.3,3.17,6.93,125.3,255,0,Normal
+TRK-10834,Northern-Corridor,46.91,55.3,1.069,20.8,2.7,0.56,100.1,121,0,Normal
+TRK-10835,Central-Freight-Trunk,51.41,19.0,0.636,16.6,2.29,4.31,86.2,46,0,Normal
+TRK-10836,Northern-Corridor,126.34,22.7,1.224,53.5,3.21,1.21,147.2,103,1,Potential Failure
+TRK-10837,Eastern-Mineral-Belt,33.68,30.6,1.318,27.5,2.41,0.06,290.3,65,1,Potential Failure
+TRK-10838,Western-Coastal-Line,64.34,31.6,0.552,13.6,1.94,6.5,120.1,27,0,Normal
+TRK-10839,Northern-Corridor,53.45,48.4,0.673,7.3,2.33,8.96,66.6,56,0,Normal
+TRK-10840,Southern-Express-Route,144.49,20.2,1.062,41.3,2.54,8.31,129.9,175,1,Potential Failure
+TRK-10841,Central-Freight-Trunk,125.7,6.8,0.426,50.8,2.87,0.02,121.2,39,1,Potential Failure
+TRK-10842,Northern-Corridor,160.09,35.6,1.036,11.8,3.1,0.48,216.4,16,0,Normal
+TRK-10843,Eastern-Mineral-Belt,168.72,15.0,0.931,12.5,2.51,1.57,26.4,108,0,Normal
+TRK-10844,Northern-Corridor,42.17,54.8,0.837,13.1,2.74,0.62,136.6,94,0,Normal
+TRK-10845,Western-Coastal-Line,78.98,23.0,0.871,16.9,1.96,0.86,45.0,20,0,Normal
+TRK-10846,Western-Coastal-Line,41.15,42.7,0.793,30.7,2.15,0.13,144.8,92,0,Normal
+TRK-10847,Southern-Express-Route,74.08,38.3,1.038,25.9,2.95,0.18,98.9,79,0,Normal
+TRK-10848,Western-Coastal-Line,104.31,12.7,0.977,19.1,3.0,6.26,174.6,130,0,Normal
+TRK-10849,Northern-Corridor,89.64,2.9,1.465,42.6,3.41,11.34,96.6,300,1,Potential Failure
+TRK-10850,Western-Coastal-Line,159.51,23.4,0.749,37.1,2.56,3.84,138.9,34,0,Normal
+TRK-10851,Western-Coastal-Line,35.66,33.4,0.633,16.0,1.37,6.13,107.2,37,0,Normal
+TRK-10852,Northern-Corridor,149.2,32.7,1.078,19.3,1.96,1.92,138.8,138,0,Normal
+TRK-10853,Western-Coastal-Line,126.26,10.6,0.557,11.4,1.81,5.86,24.0,47,0,Normal
+TRK-10854,Western-Coastal-Line,48.73,7.2,1.017,16.2,2.51,0.51,64.7,125,0,Normal
+TRK-10855,Northern-Corridor,108.28,-0.5,0.581,14.0,2.51,2.5,69.2,23,0,Normal
+TRK-10856,Western-Coastal-Line,134.69,13.0,0.809,25.8,2.77,1.39,103.8,68,0,Normal
+TRK-10857,Eastern-Mineral-Belt,167.8,20.0,1.045,19.4,2.72,4.51,88.6,61,0,Normal
+TRK-10858,Central-Freight-Trunk,155.68,14.2,0.517,21.2,2.24,10.25,30.9,86,0,Normal
+TRK-10859,Northern-Corridor,87.62,49.8,0.857,8.5,3.17,1.18,236.2,51,0,Normal
+TRK-10860,Southern-Express-Route,141.38,58.0,0.727,47.3,1.81,1.62,100.6,22,1,Potential Failure
+TRK-10861,Western-Coastal-Line,121.42,23.3,1.587,44.3,4.42,6.51,191.5,315,1,Potential Failure
+TRK-10862,Western-Coastal-Line,78.37,12.0,0.686,13.1,2.3,0.4,145.8,17,0,Normal
+TRK-10863,Southern-Express-Route,55.11,45.3,0.909,20.7,2.22,1.91,100.7,21,0,Normal
+TRK-10864,Southern-Express-Route,107.78,51.5,1.138,16.1,2.73,2.35,96.7,71,0,Normal
+TRK-10865,Central-Freight-Trunk,93.09,28.4,0.946,26.9,2.43,0.46,83.9,83,0,Normal
+TRK-10866,Western-Coastal-Line,77.01,22.8,0.943,19.5,2.56,15.61,207.1,22,0,Normal
+TRK-10867,Central-Freight-Trunk,64.05,25.7,0.923,20.8,2.0,1.83,100.8,48,0,Normal
+TRK-10868,Eastern-Mineral-Belt,27.35,25.8,0.573,14.1,1.61,7.29,10.0,44,0,Normal
+TRK-10869,Northern-Corridor,90.71,15.6,0.831,11.2,2.28,10.66,49.0,151,0,Normal
+TRK-10870,Northern-Corridor,1.87,46.1,0.671,7.2,1.7,1.63,52.5,42,0,Normal
+TRK-10871,Central-Freight-Trunk,107.04,14.9,0.54,35.8,1.52,4.29,45.5,12,0,Normal
+TRK-10872,Northern-Corridor,24.81,29.4,0.915,13.9,3.43,1.08,130.8,173,0,Normal
+TRK-10873,Eastern-Mineral-Belt,178.62,57.8,1.155,38.3,3.4,10.47,140.8,208,1,Potential Failure
+TRK-10874,Central-Freight-Trunk,135.44,42.9,0.835,11.4,2.8,0.46,70.9,135,0,Normal
+TRK-10875,Southern-Express-Route,36.07,12.6,1.308,10.3,2.43,1.94,158.8,165,0,Normal
+TRK-10876,Central-Freight-Trunk,42.63,22.8,1.066,19.0,3.98,8.3,47.5,280,0,Normal
+TRK-10877,Northern-Corridor,71.57,39.2,0.889,10.5,2.93,34.84,83.3,56,1,Potential Failure
+TRK-10878,Northern-Corridor,55.87,-0.7,1.189,45.2,3.8,1.58,130.6,146,1,Potential Failure
+TRK-10879,Southern-Express-Route,97.44,21.2,1.194,24.9,3.44,2.66,134.7,193,0,Normal
+TRK-10880,Central-Freight-Trunk,64.06,21.2,1.03,22.1,2.22,17.14,103.9,165,0,Normal
+TRK-10881,Central-Freight-Trunk,31.34,11.2,0.959,8.3,2.48,0.71,168.3,11,0,Normal
+TRK-10882,Northern-Corridor,43.03,27.4,0.961,11.9,2.65,8.8,89.0,85,0,Normal
+TRK-10883,Northern-Corridor,109.5,-10.0,0.555,38.1,1.75,1.15,133.5,27,0,Normal
+TRK-10884,Northern-Corridor,70.04,6.1,0.656,15.7,2.04,1.37,129.9,21,0,Normal
+TRK-10885,Southern-Express-Route,9.94,2.0,1.082,15.4,2.9,2.25,154.6,93,0,Normal
+TRK-10886,Northern-Corridor,9.88,19.2,0.782,50.2,2.67,0.53,189.4,29,1,Potential Failure
+TRK-10887,Northern-Corridor,101.7,12.8,0.616,6.0,2.32,5.36,61.4,35,0,Normal
+TRK-10888,Northern-Corridor,56.41,9.9,1.056,18.8,2.9,0.72,275.4,29,0,Normal
+TRK-10889,Western-Coastal-Line,115.59,37.7,1.345,15.7,2.87,29.74,193.9,136,1,Potential Failure
+TRK-10890,Northern-Corridor,95.13,28.7,1.008,14.6,3.0,5.95,254.6,32,0,Normal
+TRK-10891,Northern-Corridor,92.58,4.8,0.804,11.2,1.49,0.94,102.6,50,0,Normal
+TRK-10892,Southern-Express-Route,180.05,23.5,1.414,24.1,4.18,5.74,234.8,261,1,Potential Failure
+TRK-10893,Central-Freight-Trunk,8.25,37.0,0.851,22.7,1.8,6.68,110.7,17,0,Normal
+TRK-10894,Eastern-Mineral-Belt,61.83,22.5,0.744,45.6,2.44,0.12,17.3,99,1,Potential Failure
+TRK-10895,Northern-Corridor,154.68,24.6,1.111,12.0,2.63,16.91,91.1,61,0,Normal
+TRK-10896,Northern-Corridor,144.43,19.8,0.628,39.5,1.91,0.24,74.1,70,0,Normal
+TRK-10897,Western-Coastal-Line,119.56,18.8,1.288,16.2,3.33,1.33,202.9,20,0,Normal
+TRK-10898,Western-Coastal-Line,86.43,52.8,1.147,41.9,2.39,9.12,36.9,220,1,Potential Failure
+TRK-10899,Northern-Corridor,157.81,18.6,0.787,12.0,2.34,1.19,190.5,14,0,Normal
+TRK-10900,Eastern-Mineral-Belt,136.89,8.9,0.811,53.9,2.48,0.46,184.2,22,1,Potential Failure
+TRK-10901,Northern-Corridor,2.78,-7.0,0.478,46.0,1.61,0.07,46.8,11,1,Potential Failure
+TRK-10902,Western-Coastal-Line,66.79,35.3,0.84,19.7,3.34,3.51,99.7,136,0,Normal
+TRK-10903,Northern-Corridor,69.56,37.3,0.816,13.0,2.59,15.83,108.1,65,0,Normal
+TRK-10904,Eastern-Mineral-Belt,178.07,11.3,1.037,35.2,2.9,5.89,169.2,56,0,Normal
+TRK-10905,Eastern-Mineral-Belt,148.18,39.4,0.515,16.1,2.35,0.21,98.8,72,0,Normal
+TRK-10906,Northern-Corridor,25.38,10.9,0.697,13.7,2.95,0.43,110.9,31,0,Normal
+TRK-10907,Central-Freight-Trunk,20.08,4.5,1.037,21.8,2.93,0.44,142.8,107,0,Normal
+TRK-10908,Southern-Express-Route,125.82,14.1,0.939,39.1,3.38,9.06,166.8,123,1,Potential Failure
+TRK-10909,Western-Coastal-Line,113.49,27.5,0.858,21.8,2.22,0.9,102.1,77,0,Normal
+TRK-10910,Central-Freight-Trunk,89.89,11.2,1.144,14.5,2.73,0.84,178.1,64,0,Normal
+TRK-10911,Eastern-Mineral-Belt,9.46,30.1,1.179,34.6,3.63,17.88,114.4,154,1,Potential Failure
+TRK-10912,Southern-Express-Route,142.23,19.2,0.911,14.7,2.55,0.45,101.1,86,0,Normal
+TRK-10913,Western-Coastal-Line,96.51,4.4,0.742,19.4,1.93,0.93,37.7,27,0,Normal
+TRK-10914,Eastern-Mineral-Belt,122.76,38.6,0.754,37.2,2.34,0.95,75.5,22,0,Normal
+TRK-10915,Eastern-Mineral-Belt,28.35,37.3,0.913,20.0,3.4,1.75,223.2,45,0,Normal
+TRK-10916,Southern-Express-Route,11.04,39.9,0.783,12.1,2.54,7.22,63.9,148,0,Normal
+TRK-10917,Eastern-Mineral-Belt,157.74,27.9,1.546,13.0,3.61,8.31,137.9,365,1,Potential Failure
+TRK-10918,Eastern-Mineral-Belt,60.0,8.7,1.68,30.5,4.43,8.64,91.8,365,1,Potential Failure
+TRK-10919,Southern-Express-Route,41.98,13.9,0.759,9.3,2.55,0.03,105.3,18,0,Normal
+TRK-10920,Central-Freight-Trunk,15.5,2.6,0.833,18.9,2.48,2.34,133.9,60,0,Normal
+TRK-10921,Northern-Corridor,158.61,36.2,0.999,16.2,3.43,12.25,203.1,82,0,Normal
+TRK-10922,Eastern-Mineral-Belt,138.12,-4.2,1.023,41.8,2.81,2.35,69.5,106,0,Normal
+TRK-10923,Northern-Corridor,103.51,58.0,0.751,39.7,2.67,15.47,31.5,112,1,Potential Failure
+TRK-10924,Southern-Express-Route,178.22,30.8,0.852,21.0,2.2,0.69,119.2,43,0,Normal
+TRK-10925,Southern-Express-Route,39.06,27.5,1.792,15.7,5.08,0.12,320.0,352,1,Potential Failure
+TRK-10926,Western-Coastal-Line,152.86,-0.7,1.194,18.7,3.6,0.01,145.8,189,0,Normal
+TRK-10927,Western-Coastal-Line,104.07,7.2,0.438,12.2,2.25,1.37,84.2,28,0,Normal
+TRK-10928,Western-Coastal-Line,132.73,45.9,0.813,47.8,1.44,2.44,61.3,62,1,Potential Failure
+TRK-10929,Central-Freight-Trunk,1.4,17.9,0.776,13.8,2.25,1.9,58.4,18,0,Normal
+TRK-10930,Western-Coastal-Line,101.78,39.1,0.704,19.7,1.98,8.97,133.1,12,0,Normal
+TRK-10931,Central-Freight-Trunk,91.61,35.0,0.862,14.8,2.83,0.04,86.7,98,0,Normal
+TRK-10932,Eastern-Mineral-Belt,20.68,2.5,1.193,15.5,2.74,36.0,75.5,98,1,Potential Failure
+TRK-10933,Eastern-Mineral-Belt,40.67,16.9,0.975,11.5,2.76,8.21,83.8,117,0,Normal
+TRK-10934,Western-Coastal-Line,20.83,27.2,0.894,12.9,1.73,0.64,30.6,78,0,Normal
+TRK-10935,Southern-Express-Route,23.67,38.0,1.211,28.9,3.23,1.02,154.8,35,0,Normal
+TRK-10936,Southern-Express-Route,176.94,49.9,0.939,41.5,2.97,2.66,133.9,141,0,Normal
+TRK-10937,Southern-Express-Route,136.46,28.0,0.927,16.7,3.01,0.59,130.9,97,0,Normal
+TRK-10938,Southern-Express-Route,89.86,23.1,1.065,15.4,2.94,0.37,196.7,70,0,Normal
+TRK-10939,Central-Freight-Trunk,128.29,5.2,0.791,42.7,2.79,2.16,49.8,98,0,Normal
+TRK-10940,Northern-Corridor,72.28,32.2,0.934,14.3,3.51,0.45,119.4,259,0,Normal
+TRK-10941,Southern-Express-Route,163.18,16.4,1.41,10.3,3.9,3.36,130.4,222,1,Potential Failure
+TRK-10942,Central-Freight-Trunk,51.34,33.4,0.946,22.9,2.82,1.45,30.9,252,0,Normal
+TRK-10943,Eastern-Mineral-Belt,149.08,23.6,1.335,54.0,2.1,1.12,200.2,60,1,Potential Failure
+TRK-10944,Southern-Express-Route,56.0,10.2,0.704,21.9,2.15,2.09,60.1,93,0,Normal
+TRK-10945,Southern-Express-Route,117.4,39.7,1.129,39.8,2.39,0.09,101.8,166,0,Normal
+TRK-10946,Western-Coastal-Line,127.34,26.8,0.941,22.8,2.59,9.31,120.9,111,0,Normal
+TRK-10947,Central-Freight-Trunk,93.72,15.1,0.824,14.2,2.95,12.12,149.2,26,0,Normal
+TRK-10948,Northern-Corridor,140.98,12.8,1.518,21.7,4.2,0.38,154.5,350,1,Potential Failure
+TRK-10949,Eastern-Mineral-Belt,125.06,27.2,0.869,17.1,1.87,0.15,31.7,27,0,Normal
+TRK-10950,Eastern-Mineral-Belt,149.73,32.4,0.889,17.4,2.14,14.16,85.5,17,0,Normal
+TRK-10951,Central-Freight-Trunk,10.76,16.1,1.016,55.2,3.35,5.26,286.5,11,1,Potential Failure
+TRK-10952,Central-Freight-Trunk,181.97,37.2,1.008,21.2,2.9,8.97,98.1,103,0,Normal
+TRK-10953,Northern-Corridor,128.07,22.0,0.973,36.1,2.22,3.48,127.9,15,0,Normal
+TRK-10954,Northern-Corridor,67.0,28.8,1.023,15.0,3.28,0.63,189.2,71,0,Normal
+TRK-10955,Southern-Express-Route,160.13,-10.0,0.689,14.1,1.58,1.48,93.7,24,0,Normal
+TRK-10956,Central-Freight-Trunk,95.01,38.8,0.832,21.4,3.46,3.12,182.8,56,0,Normal
+TRK-10957,Northern-Corridor,171.47,23.2,0.902,13.2,2.69,1.1,91.3,44,0,Normal
+TRK-10958,Western-Coastal-Line,178.71,18.6,0.57,43.8,2.29,0.6,58.4,26,0,Normal
+TRK-10959,Central-Freight-Trunk,115.18,28.6,1.001,12.0,2.04,1.7,54.7,155,0,Normal
+TRK-10960,Central-Freight-Trunk,168.71,51.3,0.552,19.9,2.47,0.96,125.8,30,0,Normal
+TRK-10961,Southern-Express-Route,101.58,31.0,1.107,9.4,2.7,0.97,197.9,48,0,Normal
+TRK-10962,Central-Freight-Trunk,55.13,10.0,0.644,42.3,2.31,1.04,58.6,26,0,Normal
+TRK-10963,Central-Freight-Trunk,178.1,42.1,1.264,13.8,2.99,8.88,183.0,281,0,Normal
+TRK-10964,Northern-Corridor,79.85,31.0,1.195,14.0,4.28,9.5,98.5,252,1,Potential Failure
+TRK-10965,Southern-Express-Route,156.67,1.4,0.866,33.9,2.34,1.11,44.9,177,0,Normal
+TRK-10966,Central-Freight-Trunk,8.35,23.4,1.179,11.7,3.31,3.58,83.5,187,0,Normal
+TRK-10967,Southern-Express-Route,156.14,23.5,0.949,34.2,2.44,0.32,107.2,71,0,Normal
+TRK-10968,Southern-Express-Route,66.89,30.8,0.831,15.9,1.85,1.87,69.5,35,0,Normal
+TRK-10969,Central-Freight-Trunk,177.09,28.3,0.412,11.5,2.3,2.94,59.0,37,0,Normal
+TRK-10970,Central-Freight-Trunk,77.53,11.5,0.977,15.9,2.3,10.89,128.2,64,0,Normal
+TRK-10971,Central-Freight-Trunk,163.54,20.1,0.632,14.9,2.41,1.51,68.0,64,0,Normal
+TRK-10972,Western-Coastal-Line,41.19,41.7,0.985,17.3,4.55,9.0,222.5,233,0,Normal
+TRK-10973,Southern-Express-Route,152.56,25.6,1.077,19.9,3.47,20.85,200.3,157,1,Potential Failure
+TRK-10974,Western-Coastal-Line,83.0,27.3,1.232,16.4,2.99,1.05,107.6,84,0,Normal
+TRK-10975,Southern-Express-Route,45.86,25.5,1.222,36.3,3.44,1.34,63.8,353,1,Potential Failure
+TRK-10976,Eastern-Mineral-Belt,169.53,30.8,0.807,17.1,2.83,0.81,141.1,42,0,Normal
+TRK-10977,Southern-Express-Route,134.21,29.5,1.302,49.3,3.43,2.74,281.6,154,1,Potential Failure
+TRK-10978,Western-Coastal-Line,95.63,56.6,0.524,13.4,2.73,1.77,87.9,75,0,Normal
+TRK-10979,Western-Coastal-Line,166.28,32.0,0.547,39.8,2.91,0.69,64.3,71,0,Normal
+TRK-10980,Northern-Corridor,31.8,20.4,0.528,21.3,2.08,1.11,144.9,26,0,Normal
+TRK-10981,Northern-Corridor,116.36,41.7,1.011,40.5,2.13,1.0,114.9,23,0,Normal
+TRK-10982,Central-Freight-Trunk,160.15,8.0,0.997,10.9,2.74,5.07,64.4,149,0,Normal
+TRK-10983,Southern-Express-Route,153.49,18.5,0.886,12.1,3.16,2.39,80.8,27,0,Normal
+TRK-10984,Eastern-Mineral-Belt,119.97,4.7,0.691,7.4,2.08,0.88,20.4,128,0,Normal
+TRK-10985,Central-Freight-Trunk,5.37,24.8,1.456,24.9,3.92,21.54,286.5,84,1,Potential Failure
+TRK-10986,Northern-Corridor,10.99,-1.2,0.645,7.7,2.3,0.14,37.5,92,0,Normal
+TRK-10987,Southern-Express-Route,152.18,13.4,1.525,15.2,4.18,29.47,320.0,100,1,Potential Failure
+TRK-10988,Eastern-Mineral-Belt,116.96,20.2,0.688,22.8,3.3,10.71,149.4,64,0,Normal
+TRK-10989,Northern-Corridor,99.41,23.8,1.077,16.7,2.6,1.49,88.1,126,0,Normal
+TRK-10990,Southern-Express-Route,9.38,19.3,1.449,15.9,3.43,11.46,154.9,234,1,Potential Failure
+TRK-10991,Southern-Express-Route,20.53,-1.9,1.219,18.6,3.19,9.21,121.5,224,0,Normal
+TRK-10992,Northern-Corridor,52.8,34.6,0.82,9.7,2.13,0.35,79.3,85,0,Normal
+TRK-10993,Northern-Corridor,88.21,35.2,0.868,18.6,2.74,11.15,116.7,32,0,Normal
+TRK-10994,Eastern-Mineral-Belt,147.61,17.7,0.885,13.9,2.87,7.75,126.7,56,0,Normal
+TRK-10995,Central-Freight-Trunk,55.84,37.3,1.13,16.6,2.79,1.21,115.0,110,0,Normal
+TRK-10996,Western-Coastal-Line,177.16,14.4,0.981,48.5,2.63,0.46,147.9,52,1,Potential Failure
+TRK-10997,Central-Freight-Trunk,23.68,39.0,1.461,47.0,3.67,0.85,111.2,285,1,Potential Failure
+TRK-10998,Southern-Express-Route,101.74,-6.3,0.979,48.5,4.03,5.84,228.4,70,1,Potential Failure
+TRK-10999,Western-Coastal-Line,39.96,25.1,0.912,13.3,2.44,0.97,106.7,29,0,Normal
+TRK-11000,Central-Freight-Trunk,30.62,19.9,0.996,43.7,3.5,2.49,228.3,67,1,Potential Failure
+TRK-11001,Central-Freight-Trunk,22.09,25.7,0.668,16.8,2.49,1.48,133.3,54,0,Normal
+TRK-11002,Northern-Corridor,157.66,54.6,0.918,19.5,2.84,0.39,131.1,86,0,Normal
+TRK-11003,Eastern-Mineral-Belt,119.62,40.1,0.462,45.7,2.13,0.68,102.7,57,0,Normal
+TRK-11004,Western-Coastal-Line,19.07,32.1,0.799,9.1,2.88,0.33,139.4,53,0,Normal
+TRK-11005,Western-Coastal-Line,66.71,32.7,0.647,14.6,3.27,9.45,71.9,81,0,Normal
+TRK-11006,Western-Coastal-Line,114.99,41.9,1.175,12.5,2.78,14.9,273.4,25,1,Potential Failure
+TRK-11007,Eastern-Mineral-Belt,61.42,24.4,0.892,8.0,2.38,0.99,72.9,34,0,Normal
+TRK-11008,Central-Freight-Trunk,105.06,16.4,1.185,48.2,3.37,6.81,312.6,64,1,Potential Failure
+TRK-11009,Eastern-Mineral-Belt,32.03,26.0,1.048,34.6,2.79,2.32,138.4,126,0,Normal
+TRK-11010,Eastern-Mineral-Belt,51.91,40.5,0.398,21.5,1.74,0.15,74.5,28,0,Normal
+TRK-11011,Western-Coastal-Line,162.53,40.1,0.955,18.2,3.02,13.27,78.0,281,1,Potential Failure
+TRK-11012,Western-Coastal-Line,90.6,19.4,1.04,34.4,3.24,0.84,120.7,126,0,Normal
+TRK-11013,Northern-Corridor,155.89,16.4,1.027,16.4,2.29,7.08,100.8,23,0,Normal
+TRK-11014,Southern-Express-Route,37.14,21.6,0.822,17.4,2.32,0.97,59.1,77,0,Normal
+TRK-11015,Northern-Corridor,165.15,24.7,1.017,6.0,3.17,1.47,183.0,42,0,Normal
+TRK-11016,Southern-Express-Route,107.52,16.7,1.042,18.5,3.19,8.32,161.1,127,0,Normal
+TRK-11017,Northern-Corridor,102.49,26.2,1.264,16.8,2.63,1.32,54.9,341,0,Normal
+TRK-11018,Eastern-Mineral-Belt,121.32,32.6,0.781,40.6,2.02,0.13,87.6,66,0,Normal
+TRK-11019,Southern-Express-Route,135.91,46.4,0.749,38.5,2.33,1.42,33.8,122,0,Normal
+TRK-11020,Southern-Express-Route,17.66,20.3,0.909,21.1,2.98,9.25,84.6,78,0,Normal
+TRK-11021,Central-Freight-Trunk,157.03,-9.1,0.655,15.9,2.2,1.41,63.6,34,0,Normal
+TRK-11022,Central-Freight-Trunk,140.33,39.3,0.626,55.6,2.34,21.51,54.9,47,1,Potential Failure
+TRK-11023,Southern-Express-Route,175.56,21.2,1.058,22.8,2.7,0.56,166.5,151,0,Normal
+TRK-11024,Eastern-Mineral-Belt,173.81,10.1,0.68,39.7,1.63,1.82,44.7,15,0,Normal
+TRK-11025,Central-Freight-Trunk,12.57,42.0,0.78,17.1,1.72,13.57,112.2,80,0,Normal
+TRK-11026,Central-Freight-Trunk,96.29,19.8,0.797,19.2,2.5,2.0,45.9,36,0,Normal
+TRK-11027,Eastern-Mineral-Belt,163.21,58.0,0.863,34.1,2.15,0.06,40.7,95,0,Normal
+TRK-11028,Northern-Corridor,130.49,42.0,1.295,18.8,4.0,1.8,192.5,189,0,Normal
+TRK-11029,Western-Coastal-Line,107.47,31.9,0.666,19.9,1.23,1.69,34.7,24,0,Normal
+TRK-11030,Eastern-Mineral-Belt,68.21,28.8,1.096,17.0,3.45,4.02,20.1,316,0,Normal
+TRK-11031,Southern-Express-Route,47.29,33.4,0.84,26.6,2.17,6.29,94.7,14,0,Normal
+TRK-11032,Eastern-Mineral-Belt,65.93,43.8,0.878,16.6,2.65,0.44,94.7,40,0,Normal
+TRK-11033,Eastern-Mineral-Belt,164.24,50.4,0.951,41.1,3.57,0.78,144.0,128,0,Normal
+TRK-11034,Eastern-Mineral-Belt,31.47,31.2,1.098,49.7,4.11,0.14,59.0,365,1,Potential Failure
+TRK-11035,Central-Freight-Trunk,28.64,29.9,0.713,67.3,2.3,0.47,120.7,19,1,Potential Failure
+TRK-11036,Northern-Corridor,122.64,22.7,0.939,13.1,1.65,18.68,148.6,43,0,Normal
+TRK-11037,Northern-Corridor,89.6,46.7,0.798,25.2,2.13,29.43,38.2,57,1,Potential Failure
+TRK-11038,Central-Freight-Trunk,120.1,21.0,0.893,17.5,2.54,8.6,23.8,124,0,Normal
+TRK-11039,Central-Freight-Trunk,106.52,19.0,0.728,32.5,3.03,0.05,119.0,82,0,Normal
+TRK-11040,Northern-Corridor,164.91,52.0,1.12,54.8,3.66,6.83,30.2,260,1,Potential Failure
+TRK-11041,Central-Freight-Trunk,96.06,46.1,0.978,21.2,2.32,2.24,41.4,131,0,Normal
+TRK-11042,Northern-Corridor,162.65,12.2,0.599,17.3,2.08,6.4,47.6,88,0,Normal
+TRK-11043,Northern-Corridor,40.85,35.5,0.717,16.3,1.67,0.69,66.0,115,0,Normal
+TRK-11044,Eastern-Mineral-Belt,32.38,42.7,1.076,10.7,3.63,0.59,85.1,282,0,Normal
+TRK-11045,Southern-Express-Route,151.96,33.0,0.917,45.9,2.42,4.31,142.0,82,1,Potential Failure
+TRK-11046,Western-Coastal-Line,31.86,31.0,0.926,23.9,2.69,6.94,110.6,97,0,Normal
+TRK-11047,Southern-Express-Route,109.67,29.7,0.85,46.1,2.06,0.21,68.7,107,0,Normal
+TRK-11048,Northern-Corridor,4.05,36.3,0.584,17.7,2.96,3.71,74.8,73,0,Normal
+TRK-11049,Eastern-Mineral-Belt,153.08,16.1,0.808,14.5,2.85,19.49,148.1,55,0,Normal
+TRK-11050,Southern-Express-Route,111.37,20.1,0.634,22.4,1.81,3.7,35.9,63,0,Normal
+TRK-11051,Northern-Corridor,18.15,3.6,0.825,18.1,2.94,0.18,29.1,281,0,Normal
+TRK-11052,Southern-Express-Route,153.26,9.8,1.074,11.8,2.66,3.11,130.7,81,0,Normal
+TRK-11053,Eastern-Mineral-Belt,97.06,22.1,0.749,20.4,1.71,11.46,46.4,150,0,Normal
+TRK-11054,Southern-Express-Route,79.93,33.7,0.811,11.7,2.81,0.54,119.6,47,0,Normal
+TRK-11055,Eastern-Mineral-Belt,65.5,10.3,1.577,15.5,3.72,0.24,268.2,224,1,Potential Failure
+TRK-11056,Southern-Express-Route,18.98,27.8,0.47,51.7,1.62,2.15,60.1,24,1,Potential Failure
+TRK-11057,Central-Freight-Trunk,168.46,13.7,0.657,40.8,1.89,0.87,61.4,10,0,Normal
+TRK-11058,Southern-Express-Route,76.19,35.8,1.105,45.0,3.24,0.36,227.0,86,1,Potential Failure
+TRK-11059,Northern-Corridor,107.35,7.1,0.713,42.2,2.02,10.0,85.2,21,0,Normal
+TRK-11060,Central-Freight-Trunk,127.55,32.9,1.105,30.3,2.99,5.38,199.6,51,0,Normal
+TRK-11061,Central-Freight-Trunk,79.4,24.0,0.803,17.5,2.29,6.44,122.4,21,0,Normal
+TRK-11062,Southern-Express-Route,78.94,0.6,0.893,38.8,2.66,21.42,142.1,196,1,Potential Failure
+TRK-11063,Eastern-Mineral-Belt,139.91,32.4,0.695,19.0,2.33,2.41,93.6,24,0,Normal
+TRK-11064,Eastern-Mineral-Belt,33.88,27.9,0.998,10.0,3.55,1.96,115.0,149,0,Normal
+TRK-11065,Western-Coastal-Line,107.29,30.3,1.381,15.6,3.22,15.91,98.4,252,1,Potential Failure
+TRK-11066,Central-Freight-Trunk,158.32,4.5,1.022,10.9,2.63,0.99,91.1,62,0,Normal
+TRK-11067,Eastern-Mineral-Belt,145.09,25.7,1.03,12.9,2.78,16.54,107.2,27,0,Normal
+TRK-11068,Southern-Express-Route,74.7,10.4,0.94,21.3,3.14,1.34,184.7,25,0,Normal
+TRK-11069,Northern-Corridor,30.58,30.8,0.524,8.3,2.03,25.78,43.9,58,1,Potential Failure
+TRK-11070,Northern-Corridor,152.48,44.8,0.919,12.5,3.08,1.68,68.7,125,0,Normal
+TRK-11071,Northern-Corridor,12.79,25.8,0.925,42.3,2.56,10.48,88.3,103,1,Potential Failure
+TRK-11072,Northern-Corridor,134.31,16.3,0.462,14.7,2.36,2.97,167.1,34,0,Normal
+TRK-11073,Southern-Express-Route,53.71,31.9,0.537,15.2,1.45,12.89,49.7,58,0,Normal
+TRK-11074,Central-Freight-Trunk,118.81,43.5,0.687,23.9,1.56,6.61,47.6,23,0,Normal
+TRK-11075,Southern-Express-Route,53.63,46.9,1.328,58.4,2.62,0.27,148.5,177,1,Potential Failure
+TRK-11076,Southern-Express-Route,129.51,2.2,0.887,12.9,2.87,2.32,52.4,146,0,Normal
+TRK-11077,Western-Coastal-Line,45.02,54.5,1.139,32.7,3.59,11.27,262.4,58,1,Potential Failure
+TRK-11078,Western-Coastal-Line,144.46,19.6,0.691,22.4,2.4,1.48,55.6,14,0,Normal
+TRK-11079,Southern-Express-Route,37.86,12.1,1.139,56.8,3.59,5.33,83.0,193,1,Potential Failure
+TRK-11080,Northern-Corridor,102.13,22.1,1.152,19.8,4.06,0.19,55.8,234,0,Normal
+TRK-11081,Southern-Express-Route,65.05,24.8,1.063,18.7,3.27,6.59,201.7,62,0,Normal
+TRK-11082,Southern-Express-Route,178.2,37.7,1.033,15.4,3.27,2.83,139.4,98,0,Normal
+TRK-11083,Northern-Corridor,49.04,4.7,0.857,16.0,2.06,5.84,74.0,63,0,Normal
+TRK-11084,Northern-Corridor,93.58,14.5,0.79,17.9,2.96,24.95,164.5,18,1,Potential Failure
+TRK-11085,Southern-Express-Route,177.03,39.9,0.943,22.3,2.66,0.8,137.8,37,0,Normal
+TRK-11086,Southern-Express-Route,47.03,21.8,1.114,16.3,3.55,6.12,262.6,48,1,Potential Failure
+TRK-11087,Eastern-Mineral-Belt,142.67,34.8,0.89,11.4,3.24,0.05,48.9,182,0,Normal
+TRK-11088,Eastern-Mineral-Belt,126.41,37.3,0.866,16.7,1.97,0.48,88.9,31,0,Normal
+TRK-11089,Eastern-Mineral-Belt,22.39,24.8,1.158,33.9,3.36,1.43,223.5,61,0,Normal
+TRK-11090,Central-Freight-Trunk,125.55,21.2,2.049,34.5,4.89,5.84,300.3,365,1,Potential Failure
+TRK-11091,Western-Coastal-Line,96.04,10.3,0.625,44.0,3.01,4.5,32.0,170,1,Potential Failure
+TRK-11092,Central-Freight-Trunk,53.86,36.8,0.962,20.4,2.78,2.69,78.6,104,0,Normal
+TRK-11093,Western-Coastal-Line,14.99,13.4,0.904,9.3,3.53,0.27,79.6,234,0,Normal
+TRK-11094,Western-Coastal-Line,41.22,26.2,1.088,12.0,2.9,13.48,34.7,290,1,Potential Failure
+TRK-11095,Central-Freight-Trunk,92.82,33.5,0.845,48.3,2.69,3.47,32.9,259,1,Potential Failure
+TRK-11096,Western-Coastal-Line,39.05,12.3,0.775,50.5,2.46,6.0,100.7,25,1,Potential Failure
+TRK-11097,Southern-Express-Route,66.51,14.7,1.033,12.2,3.22,6.03,230.0,58,0,Normal
+TRK-11098,Northern-Corridor,125.35,25.7,0.955,13.5,2.5,0.16,179.7,90,0,Normal
+TRK-11099,Southern-Express-Route,177.27,12.9,0.916,22.7,3.45,15.02,144.7,71,0,Normal
+TRK-11100,Western-Coastal-Line,91.59,11.8,0.51,17.9,2.11,0.36,47.9,44,0,Normal
+TRK-11101,Western-Coastal-Line,91.31,28.8,0.994,13.0,2.57,1.25,14.9,183,0,Normal
+TRK-11102,Western-Coastal-Line,74.21,20.1,0.549,12.7,1.87,11.31,36.0,38,0,Normal
+TRK-11103,Southern-Express-Route,148.07,31.9,1.162,19.7,3.28,3.06,157.6,88,0,Normal
+TRK-11104,Southern-Express-Route,64.9,2.8,1.16,14.5,3.73,0.97,248.9,171,0,Normal
+TRK-11105,Eastern-Mineral-Belt,180.68,22.0,0.616,16.4,1.97,1.26,54.5,52,0,Normal
+TRK-11106,Northern-Corridor,3.17,36.0,1.373,46.6,2.84,0.51,63.3,252,1,Potential Failure
+TRK-11107,Western-Coastal-Line,67.53,33.1,0.704,16.1,2.72,11.09,91.0,14,0,Normal
+TRK-11108,Western-Coastal-Line,44.63,28.7,0.695,13.4,2.39,5.45,59.4,19,0,Normal
+TRK-11109,Western-Coastal-Line,34.84,34.5,0.934,6.3,2.34,2.36,83.6,144,0,Normal
+TRK-11110,Western-Coastal-Line,68.17,30.1,1.023,8.6,3.03,1.47,112.3,167,0,Normal
+TRK-11111,Southern-Express-Route,25.13,21.5,1.245,13.3,3.01,7.24,198.0,194,0,Normal
+TRK-11112,Northern-Corridor,133.63,33.4,0.699,14.3,1.47,3.39,30.0,116,0,Normal
+TRK-11113,Eastern-Mineral-Belt,37.08,15.9,1.694,20.6,3.68,2.27,123.7,359,1,Potential Failure
+TRK-11114,Eastern-Mineral-Belt,149.24,-10.0,1.143,44.7,2.66,0.39,60.9,258,1,Potential Failure
+TRK-11115,Southern-Express-Route,99.25,36.0,0.593,18.8,1.46,0.12,80.5,12,0,Normal
+TRK-11116,Western-Coastal-Line,104.43,20.8,0.842,12.0,2.3,0.21,50.4,159,0,Normal
+TRK-11117,Central-Freight-Trunk,12.05,33.8,0.824,23.8,2.39,7.52,80.0,176,0,Normal
+TRK-11118,Northern-Corridor,83.77,38.4,1.091,38.3,2.9,6.75,133.7,117,0,Normal
+TRK-11119,Southern-Express-Route,103.58,-1.7,1.004,14.7,3.5,8.92,266.1,20,0,Normal
+TRK-11120,Eastern-Mineral-Belt,23.31,11.1,1.0,12.9,2.57,0.01,124.7,66,0,Normal
+TRK-11121,Central-Freight-Trunk,107.14,12.4,0.783,14.3,2.31,4.19,105.9,94,0,Normal
+TRK-11122,Western-Coastal-Line,66.34,41.5,0.867,15.4,2.07,3.06,43.5,36,0,Normal
+TRK-11123,Eastern-Mineral-Belt,164.69,31.3,0.608,22.5,2.58,20.44,99.0,47,0,Normal
+TRK-11124,Central-Freight-Trunk,160.76,25.2,1.296,16.1,2.3,0.62,127.2,141,0,Normal
+TRK-11125,Eastern-Mineral-Belt,117.15,29.8,1.082,9.7,3.45,1.47,221.6,84,0,Normal
+TRK-11126,Northern-Corridor,15.56,40.0,0.777,13.8,2.59,8.2,79.5,133,0,Normal
+TRK-11127,Western-Coastal-Line,131.72,43.4,1.142,16.8,2.67,4.56,148.6,77,0,Normal
+TRK-11128,Eastern-Mineral-Belt,144.7,31.1,1.268,14.2,3.22,0.8,200.7,263,0,Normal
+TRK-11129,Southern-Express-Route,178.66,39.7,1.061,15.1,3.23,12.9,87.8,85,0,Normal
+TRK-11130,Northern-Corridor,24.01,54.0,0.883,44.8,2.57,6.65,184.4,40,1,Potential Failure
+TRK-11131,Northern-Corridor,39.75,28.5,0.762,19.7,2.03,16.38,92.9,112,0,Normal
+TRK-11132,Eastern-Mineral-Belt,101.91,17.3,0.686,41.6,1.49,2.43,31.5,21,0,Normal
+TRK-11133,Northern-Corridor,20.12,35.4,0.956,18.5,2.89,7.51,150.0,67,0,Normal
+TRK-11134,Eastern-Mineral-Belt,57.92,57.9,0.618,35.2,2.64,20.3,65.0,40,1,Potential Failure
+TRK-11135,Central-Freight-Trunk,25.15,32.6,0.765,14.3,3.18,9.49,107.3,28,0,Normal
+TRK-11136,Western-Coastal-Line,159.31,10.1,0.765,14.3,2.53,1.48,99.1,96,0,Normal
+TRK-11137,Southern-Express-Route,173.01,4.5,1.026,6.7,2.89,8.63,117.5,100,0,Normal
+TRK-11138,Southern-Express-Route,33.57,23.7,0.752,16.6,2.4,0.8,105.0,72,0,Normal
+TRK-11139,Southern-Express-Route,81.04,28.7,0.831,9.6,1.4,4.25,81.2,100,0,Normal
+TRK-11140,Western-Coastal-Line,89.62,2.3,1.0,32.7,3.03,17.58,153.7,165,1,Potential Failure
+TRK-11141,Western-Coastal-Line,68.3,31.1,0.794,32.2,2.14,1.44,75.0,11,0,Normal
+TRK-11142,Northern-Corridor,97.29,29.6,0.453,13.0,2.48,8.18,101.6,105,0,Normal
+TRK-11143,Western-Coastal-Line,87.33,25.0,0.646,28.4,1.93,1.43,40.5,73,0,Normal
+TRK-11144,Eastern-Mineral-Belt,56.13,24.1,0.945,15.3,2.41,5.26,38.4,150,0,Normal
+TRK-11145,Southern-Express-Route,43.54,41.7,1.161,46.9,2.95,11.1,145.0,82,1,Potential Failure
+TRK-11146,Eastern-Mineral-Belt,163.32,46.3,0.907,21.8,2.58,6.02,75.9,152,0,Normal
+TRK-11147,Eastern-Mineral-Belt,153.43,28.6,1.099,33.8,2.81,10.35,125.1,57,0,Normal
+TRK-11148,Central-Freight-Trunk,96.06,2.6,0.861,15.9,2.49,0.79,68.3,147,0,Normal
+TRK-11149,Western-Coastal-Line,53.38,25.7,1.206,15.0,4.32,4.33,119.0,220,0,Normal
+TRK-11150,Eastern-Mineral-Belt,35.59,1.4,1.056,48.2,3.69,14.11,170.4,239,1,Potential Failure
+TRK-11151,Northern-Corridor,118.19,7.2,0.559,18.0,1.53,6.21,51.6,33,0,Normal
+TRK-11152,Southern-Express-Route,91.53,7.5,0.881,41.0,3.21,5.89,124.9,155,0,Normal
+TRK-11153,Southern-Express-Route,5.07,26.0,0.744,21.7,1.44,10.03,41.5,25,0,Normal
+TRK-11154,Central-Freight-Trunk,132.6,20.4,0.626,14.0,2.57,8.17,123.5,16,0,Normal
+TRK-11155,Central-Freight-Trunk,3.71,5.6,0.839,36.5,2.89,1.5,112.4,151,0,Normal
+TRK-11156,Eastern-Mineral-Belt,184.63,27.8,0.811,8.6,2.32,0.5,73.5,178,0,Normal
+TRK-11157,Western-Coastal-Line,15.76,28.8,1.028,19.2,3.25,10.56,121.0,129,0,Normal
+TRK-11158,Western-Coastal-Line,143.72,-10.0,0.902,48.9,2.87,4.24,65.7,143,1,Potential Failure
+TRK-11159,Central-Freight-Trunk,165.81,37.7,0.863,29.6,2.08,2.04,123.8,52,0,Normal
+TRK-11160,Northern-Corridor,23.44,-8.6,1.578,22.4,4.08,8.65,152.7,365,1,Potential Failure
+TRK-11161,Eastern-Mineral-Belt,46.48,25.3,0.982,26.4,2.98,7.49,124.2,69,0,Normal
+TRK-11162,Northern-Corridor,96.89,3.8,0.781,19.0,2.23,1.43,125.8,72,0,Normal
+TRK-11163,Western-Coastal-Line,173.26,24.1,0.743,33.3,2.31,3.14,113.5,10,0,Normal
+TRK-11164,Southern-Express-Route,96.85,18.0,0.672,35.3,1.66,2.15,162.5,34,0,Normal
+TRK-11165,Central-Freight-Trunk,67.32,11.7,0.867,50.2,2.91,0.52,61.7,23,1,Potential Failure
+TRK-11166,Northern-Corridor,44.42,43.1,0.481,14.2,1.46,5.54,49.2,32,0,Normal
+TRK-11167,Western-Coastal-Line,108.58,14.4,0.747,13.4,2.75,8.27,145.6,16,0,Normal
+TRK-11168,Northern-Corridor,107.92,47.8,1.245,14.2,2.55,6.84,116.0,166,0,Normal
+TRK-11169,Central-Freight-Trunk,69.34,26.8,0.698,57.2,2.28,5.45,46.3,63,1,Potential Failure
+TRK-11170,Northern-Corridor,127.21,32.0,0.867,13.7,2.51,1.59,169.1,11,0,Normal
+TRK-11171,Northern-Corridor,12.0,24.0,1.007,14.4,3.0,0.12,83.4,92,0,Normal
+TRK-11172,Northern-Corridor,24.15,34.8,0.633,50.8,2.39,2.96,95.5,38,1,Potential Failure
+TRK-11173,Western-Coastal-Line,149.22,10.4,1.277,20.8,2.94,22.05,99.0,113,1,Potential Failure
+TRK-11174,Eastern-Mineral-Belt,66.9,45.6,1.1,47.8,2.77,0.09,128.1,117,1,Potential Failure
+TRK-11175,Eastern-Mineral-Belt,131.02,11.6,1.164,16.2,2.35,0.74,114.8,168,0,Normal
+TRK-11176,Eastern-Mineral-Belt,35.92,28.3,0.669,47.0,2.07,1.53,117.2,33,1,Potential Failure
+TRK-11177,Eastern-Mineral-Belt,51.66,8.3,0.803,25.1,1.58,0.49,26.8,13,0,Normal
+TRK-11178,Southern-Express-Route,30.5,-8.7,0.767,14.6,3.44,0.05,23.8,173,0,Normal
+TRK-11179,Western-Coastal-Line,100.66,13.5,0.662,18.9,2.59,4.24,55.9,109,0,Normal
+TRK-11180,Southern-Express-Route,70.74,17.1,0.816,41.4,2.21,5.23,54.7,52,1,Potential Failure
+TRK-11181,Western-Coastal-Line,143.79,26.9,0.79,54.1,2.45,0.78,65.3,33,1,Potential Failure
+TRK-11182,Southern-Express-Route,151.71,41.6,0.822,47.2,2.19,3.73,150.4,50,0,Normal
+TRK-11183,Southern-Express-Route,29.36,9.3,0.635,53.5,1.97,0.46,80.6,67,1,Potential Failure
+TRK-11184,Western-Coastal-Line,21.33,49.0,0.938,12.5,3.25,5.87,170.0,66,0,Normal
+TRK-11185,Central-Freight-Trunk,33.87,17.6,0.899,35.2,3.27,15.44,107.8,142,1,Potential Failure
+TRK-11186,Central-Freight-Trunk,19.17,17.5,1.197,18.4,3.21,0.84,209.2,79,0,Normal
+TRK-11187,Eastern-Mineral-Belt,97.75,47.6,1.357,17.1,3.48,26.98,139.8,169,1,Potential Failure
+TRK-11188,Western-Coastal-Line,41.61,25.5,0.904,15.4,2.28,17.77,49.6,143,0,Normal
+TRK-11189,Central-Freight-Trunk,121.66,-1.7,1.003,16.6,2.39,1.87,75.7,27,0,Normal
+TRK-11190,Eastern-Mineral-Belt,148.39,27.3,1.168,44.1,3.19,0.55,67.7,232,1,Potential Failure
+TRK-11191,Eastern-Mineral-Belt,152.25,16.6,0.375,18.2,1.92,25.53,50.9,28,0,Normal
+TRK-11192,Southern-Express-Route,49.91,37.2,0.986,36.3,2.83,8.72,185.5,73,0,Normal
+TRK-11193,Western-Coastal-Line,15.34,39.8,0.986,44.9,3.04,0.82,129.8,207,0,Normal
+TRK-11194,Northern-Corridor,134.43,45.3,1.033,22.1,2.79,12.56,139.2,103,0,Normal
+TRK-11195,Southern-Express-Route,121.87,19.9,0.932,19.0,2.12,0.22,49.3,61,0,Normal
+TRK-11196,Southern-Express-Route,138.85,29.9,0.615,9.8,1.84,6.53,34.1,13,0,Normal
+TRK-11197,Southern-Express-Route,66.87,33.9,1.081,13.0,2.19,1.79,95.3,72,0,Normal
+TRK-11198,Northern-Corridor,31.69,18.5,0.994,28.9,2.1,0.09,143.6,72,0,Normal
+TRK-11199,Western-Coastal-Line,121.99,32.6,0.514,12.2,2.21,0.65,11.9,86,0,Normal
+TRK-11200,Western-Coastal-Line,167.06,20.0,0.715,10.3,2.33,0.47,50.3,43,0,Normal
+TRK-11201,Western-Coastal-Line,76.87,29.2,0.81,16.2,2.01,0.38,179.3,25,0,Normal
+TRK-11202,Western-Coastal-Line,112.95,39.8,0.688,13.4,2.56,6.96,88.6,48,0,Normal
+TRK-11203,Southern-Express-Route,171.41,30.0,0.855,33.8,3.01,1.32,95.6,58,0,Normal
+TRK-11204,Eastern-Mineral-Belt,177.61,43.4,0.845,46.4,3.57,6.84,166.8,54,1,Potential Failure
+TRK-11205,Western-Coastal-Line,110.62,36.3,0.728,17.1,2.21,0.27,140.8,73,0,Normal
+TRK-11206,Western-Coastal-Line,2.21,25.3,1.189,18.5,3.16,22.67,113.4,74,1,Potential Failure
+TRK-11207,Western-Coastal-Line,4.99,32.8,0.92,22.8,2.27,0.09,104.5,21,0,Normal
+TRK-11208,Western-Coastal-Line,170.12,41.3,0.915,12.2,2.41,1.1,102.4,62,0,Normal
+TRK-11209,Southern-Express-Route,29.47,42.6,1.111,52.2,2.33,11.53,134.0,171,1,Potential Failure
+TRK-11210,Central-Freight-Trunk,49.76,12.0,0.72,17.3,1.63,6.95,54.9,11,0,Normal
+TRK-11211,Western-Coastal-Line,150.24,42.3,0.703,38.2,2.97,0.09,91.2,42,0,Normal
+TRK-11212,Central-Freight-Trunk,136.1,20.1,0.512,14.6,2.31,0.05,37.7,103,0,Normal
+TRK-11213,Central-Freight-Trunk,90.84,33.4,0.742,14.0,2.6,3.59,63.6,78,0,Normal
+TRK-11214,Northern-Corridor,110.52,14.8,0.864,39.3,2.49,0.07,103.3,55,0,Normal
+TRK-11215,Southern-Express-Route,71.2,23.9,0.934,24.9,2.76,2.02,132.9,121,0,Normal
+TRK-11216,Western-Coastal-Line,65.02,40.0,0.921,18.4,2.6,0.01,125.9,60,0,Normal
+TRK-11217,Northern-Corridor,161.04,17.8,0.66,42.8,1.85,1.16,64.3,52,0,Normal
+TRK-11218,Southern-Express-Route,171.87,54.7,0.756,14.8,2.4,1.55,60.1,63,0,Normal
+TRK-11219,Northern-Corridor,57.08,29.3,0.823,42.8,2.16,0.48,44.7,79,0,Normal
+TRK-11220,Central-Freight-Trunk,61.14,38.2,0.707,23.3,2.09,11.58,68.4,30,0,Normal
+TRK-11221,Eastern-Mineral-Belt,179.67,29.5,0.978,16.6,3.38,2.55,139.4,198,0,Normal
+TRK-11222,Northern-Corridor,41.86,39.8,0.639,34.0,2.47,0.01,129.0,40,0,Normal
+TRK-11223,Central-Freight-Trunk,62.85,28.8,0.615,14.0,2.2,0.34,97.6,58,0,Normal
+TRK-11224,Southern-Express-Route,74.45,12.6,1.072,37.9,2.07,1.12,69.2,128,0,Normal
+TRK-11225,Central-Freight-Trunk,141.21,24.1,0.472,14.4,2.51,5.55,59.8,80,0,Normal
+TRK-11226,Eastern-Mineral-Belt,121.01,12.8,0.896,46.9,3.03,0.3,108.6,27,0,Normal
+TRK-11227,Southern-Express-Route,46.31,6.8,1.671,44.6,4.35,4.33,238.7,365,1,Potential Failure
+TRK-11228,Western-Coastal-Line,126.99,47.2,0.74,16.5,2.12,12.19,152.3,38,0,Normal
+TRK-11229,Eastern-Mineral-Belt,78.93,13.1,0.636,24.2,1.76,11.08,107.1,14,0,Normal
+TRK-11230,Southern-Express-Route,121.6,-2.0,0.784,8.4,2.38,10.09,48.3,33,0,Normal
+TRK-11231,Western-Coastal-Line,114.38,25.1,1.202,16.5,2.87,1.23,96.9,189,0,Normal
+TRK-11232,Central-Freight-Trunk,82.05,-4.3,0.881,16.1,3.41,24.86,108.0,10,1,Potential Failure
+TRK-11233,Western-Coastal-Line,29.7,40.8,1.179,15.8,2.83,8.01,125.7,193,0,Normal
+TRK-11234,Northern-Corridor,45.72,39.3,1.014,13.8,2.55,15.07,130.1,62,0,Normal
+TRK-11235,Western-Coastal-Line,3.53,21.5,0.797,19.5,2.5,34.54,73.5,63,1,Potential Failure
+TRK-11236,Eastern-Mineral-Belt,87.7,40.8,0.759,56.1,2.85,0.87,165.2,48,1,Potential Failure
+TRK-11237,Central-Freight-Trunk,38.5,8.3,0.55,12.3,1.98,13.83,54.8,39,0,Normal
+TRK-11238,Eastern-Mineral-Belt,115.64,34.6,1.024,11.6,2.83,1.38,226.7,12,0,Normal
+TRK-11239,Northern-Corridor,70.3,12.1,1.109,10.0,3.62,1.22,182.2,121,0,Normal
+TRK-11240,Western-Coastal-Line,32.34,3.5,0.627,35.1,2.4,0.15,65.0,82,0,Normal
+TRK-11241,Southern-Express-Route,50.92,5.2,1.306,19.5,3.67,4.03,106.4,181,0,Normal
+TRK-11242,Northern-Corridor,72.51,-1.1,1.108,41.5,2.33,0.98,108.7,29,0,Normal
+TRK-11243,Western-Coastal-Line,160.03,28.3,1.211,38.7,2.12,1.02,166.9,49,0,Normal
+TRK-11244,Eastern-Mineral-Belt,43.54,11.7,0.334,14.9,2.04,2.04,47.1,29,0,Normal
+TRK-11245,Northern-Corridor,167.31,19.9,0.77,7.8,3.13,1.16,155.2,51,0,Normal
+TRK-11246,Northern-Corridor,35.3,21.7,0.971,11.3,3.17,0.72,42.4,229,0,Normal
+TRK-11247,Northern-Corridor,8.31,7.8,0.721,15.5,2.41,20.32,38.8,102,1,Potential Failure
+TRK-11248,Eastern-Mineral-Belt,73.39,15.1,1.608,40.4,4.29,6.4,286.6,228,1,Potential Failure
+TRK-11249,Western-Coastal-Line,66.39,19.3,1.089,33.1,2.56,0.1,225.3,45,0,Normal
+TRK-11250,Southern-Express-Route,51.76,10.1,0.453,37.1,2.11,5.06,65.7,15,0,Normal
+TRK-11251,Eastern-Mineral-Belt,164.83,19.2,0.679,17.8,2.28,6.04,20.2,50,0,Normal
+TRK-11252,Southern-Express-Route,175.64,14.7,1.044,48.1,3.36,17.75,97.0,210,1,Potential Failure
+TRK-11253,Eastern-Mineral-Belt,121.88,42.6,0.437,45.7,2.27,0.61,68.0,47,0,Normal
+TRK-11254,Southern-Express-Route,161.58,33.0,0.895,12.4,2.68,3.29,125.5,55,0,Normal
+TRK-11255,Southern-Express-Route,29.11,43.9,0.798,21.4,2.07,0.03,27.3,29,0,Normal
+TRK-11256,Western-Coastal-Line,83.65,19.2,1.195,38.3,2.77,0.88,50.4,111,0,Normal
+TRK-11257,Southern-Express-Route,100.61,30.3,0.654,17.2,1.92,0.84,50.2,48,0,Normal
+TRK-11258,Western-Coastal-Line,127.69,31.7,0.982,16.1,2.96,1.72,151.7,101,0,Normal
+TRK-11259,Eastern-Mineral-Belt,184.21,20.9,0.339,12.2,1.78,26.02,36.9,27,1,Potential Failure
+TRK-11260,Southern-Express-Route,169.75,22.6,0.715,16.4,1.71,2.39,63.7,34,0,Normal
+TRK-11261,Northern-Corridor,34.88,39.3,1.263,16.3,3.49,10.03,31.7,286,0,Normal
+TRK-11262,Northern-Corridor,141.84,24.2,0.771,16.8,2.3,2.96,114.6,60,0,Normal
+TRK-11263,Eastern-Mineral-Belt,56.82,18.6,0.96,8.9,2.46,0.93,154.4,18,0,Normal
+TRK-11264,Western-Coastal-Line,28.96,16.3,0.62,40.1,2.57,14.08,41.7,180,1,Potential Failure
+TRK-11265,Northern-Corridor,141.29,45.3,0.836,13.5,3.43,17.99,279.5,20,1,Potential Failure
+TRK-11266,Southern-Express-Route,113.67,8.6,0.665,21.3,1.83,11.5,80.2,19,0,Normal
+TRK-11267,Northern-Corridor,67.1,6.0,0.769,22.7,2.08,0.57,26.5,67,0,Normal
+TRK-11268,Southern-Express-Route,156.69,33.1,0.674,12.5,2.15,0.03,100.2,25,0,Normal
+TRK-11269,Central-Freight-Trunk,157.79,19.9,0.735,8.9,1.9,5.43,38.3,210,0,Normal
+TRK-11270,Central-Freight-Trunk,42.63,24.2,0.412,11.2,1.73,0.82,40.4,11,0,Normal
+TRK-11271,Western-Coastal-Line,175.84,39.6,0.793,40.5,2.98,0.03,109.7,23,0,Normal
+TRK-11272,Central-Freight-Trunk,140.43,25.7,1.308,41.4,2.5,0.06,74.3,187,0,Normal
+TRK-11273,Eastern-Mineral-Belt,160.55,24.0,0.99,14.6,3.03,12.59,94.6,112,0,Normal
+TRK-11274,Eastern-Mineral-Belt,164.32,27.9,1.442,22.7,4.34,1.54,260.0,108,1,Potential Failure
+TRK-11275,Southern-Express-Route,136.3,53.9,0.815,10.4,2.55,6.8,114.2,36,0,Normal
+TRK-11276,Southern-Express-Route,173.8,34.7,0.842,18.5,2.09,2.97,39.9,70,0,Normal
+TRK-11277,Northern-Corridor,96.8,22.4,0.789,7.4,2.77,4.25,75.6,87,0,Normal
+TRK-11278,Northern-Corridor,162.51,28.8,0.851,41.6,3.09,0.06,113.2,158,1,Potential Failure
+TRK-11279,Northern-Corridor,103.62,17.0,0.829,13.9,2.37,4.38,133.1,18,0,Normal
+TRK-11280,Northern-Corridor,35.93,40.0,0.825,14.2,2.87,0.25,159.9,71,0,Normal
+TRK-11281,Western-Coastal-Line,85.89,20.8,0.877,13.5,2.97,0.94,118.2,32,0,Normal
+TRK-11282,Northern-Corridor,127.95,14.7,1.433,13.2,3.59,8.06,148.2,289,0,Normal
+TRK-11283,Eastern-Mineral-Belt,17.64,14.4,1.086,21.7,3.06,5.8,138.9,177,0,Normal
+TRK-11284,Southern-Express-Route,173.56,42.3,0.71,12.9,2.19,11.84,161.8,17,0,Normal
+TRK-11285,Eastern-Mineral-Belt,60.52,39.9,0.717,41.6,2.33,0.14,73.9,69,1,Potential Failure
+TRK-11286,Central-Freight-Trunk,163.39,46.4,1.058,44.1,2.99,27.2,134.0,89,1,Potential Failure
+TRK-11287,Central-Freight-Trunk,133.18,45.9,0.595,35.2,1.8,14.88,25.9,123,0,Normal
+TRK-11288,Eastern-Mineral-Belt,117.67,28.8,0.54,45.9,2.51,2.87,82.9,37,1,Potential Failure
+TRK-11289,Southern-Express-Route,113.62,27.2,1.167,39.3,3.1,0.76,130.7,167,0,Normal
+TRK-11290,Northern-Corridor,142.36,12.9,0.739,12.1,2.82,1.01,53.5,165,0,Normal
+TRK-11291,Central-Freight-Trunk,30.83,14.3,0.859,30.5,2.41,1.01,121.7,36,0,Normal
+TRK-11292,Northern-Corridor,78.2,-7.3,0.875,40.9,2.69,2.01,65.0,120,1,Potential Failure
+TRK-11293,Eastern-Mineral-Belt,54.14,26.5,0.57,38.7,1.59,1.14,51.2,26,1,Potential Failure
+TRK-11294,Central-Freight-Trunk,1.65,29.5,0.94,8.5,2.39,7.82,103.8,41,0,Normal
+TRK-11295,Eastern-Mineral-Belt,158.4,35.6,0.979,12.6,2.35,17.2,82.8,115,1,Potential Failure
+TRK-11296,Eastern-Mineral-Belt,44.77,40.5,0.56,21.9,2.12,4.52,41.4,58,0,Normal
+TRK-11297,Eastern-Mineral-Belt,82.31,-10.0,0.587,18.9,2.06,16.56,45.0,20,0,Normal
+TRK-11298,Southern-Express-Route,52.17,19.0,1.251,14.4,3.18,2.52,155.1,86,0,Normal
+TRK-11299,Central-Freight-Trunk,10.0,41.2,0.921,49.6,2.38,0.96,124.7,54,1,Potential Failure
+TRK-11300,Northern-Corridor,27.75,36.7,1.222,43.5,3.09,0.31,141.0,256,1,Potential Failure
+TRK-11301,Southern-Express-Route,55.91,30.6,1.354,21.0,3.21,9.49,184.4,223,0,Normal
+TRK-11302,Eastern-Mineral-Belt,183.85,19.2,0.389,38.3,2.69,9.11,86.9,35,0,Normal
+TRK-11303,Southern-Express-Route,106.3,7.4,1.245,16.6,3.41,0.34,195.6,91,0,Normal
+TRK-11304,Southern-Express-Route,67.27,47.7,0.862,40.1,3.16,2.77,117.2,158,0,Normal
+TRK-11305,Western-Coastal-Line,68.82,13.7,0.59,13.7,2.23,20.85,55.0,55,0,Normal
+TRK-11306,Eastern-Mineral-Belt,156.17,37.3,0.799,44.0,2.32,1.0,93.2,58,0,Normal
+TRK-11307,Northern-Corridor,128.81,46.2,1.172,35.3,3.86,4.33,32.8,365,1,Potential Failure
+TRK-11308,Southern-Express-Route,39.61,30.3,0.556,52.5,2.47,5.13,83.2,51,1,Potential Failure
+TRK-11309,Southern-Express-Route,135.27,43.8,0.827,12.9,2.82,1.11,83.8,36,0,Normal
+TRK-11310,Eastern-Mineral-Belt,134.23,31.3,0.59,23.0,1.79,1.33,53.2,29,0,Normal
+TRK-11311,Western-Coastal-Line,79.58,33.6,0.986,6.0,2.95,16.27,78.8,174,1,Potential Failure
+TRK-11312,Southern-Express-Route,184.08,40.6,0.616,21.5,2.19,6.03,70.3,84,0,Normal
+TRK-11313,Southern-Express-Route,92.34,35.5,0.643,12.2,2.46,0.03,27.7,163,0,Normal
+TRK-11314,Central-Freight-Trunk,163.59,34.2,1.089,44.5,2.66,15.63,104.4,61,1,Potential Failure
+TRK-11315,Central-Freight-Trunk,1.29,11.7,0.679,44.9,1.46,0.31,51.2,43,1,Potential Failure
+TRK-11316,Northern-Corridor,136.69,1.2,0.816,53.7,2.54,0.66,122.1,51,1,Potential Failure
+TRK-11317,Eastern-Mineral-Belt,77.18,42.6,0.97,15.7,2.07,0.85,161.6,21,0,Normal
+TRK-11318,Central-Freight-Trunk,3.08,51.9,0.691,26.6,2.35,14.77,85.4,45,0,Normal
+TRK-11319,Northern-Corridor,57.63,-1.2,1.468,15.5,3.26,13.16,303.8,106,1,Potential Failure
+TRK-11320,Northern-Corridor,21.95,22.6,1.206,44.1,3.63,5.58,169.6,144,1,Potential Failure
+TRK-11321,Southern-Express-Route,114.34,-10.0,0.874,50.0,2.82,26.54,77.8,204,1,Potential Failure
+TRK-11322,Western-Coastal-Line,154.42,20.9,0.791,19.4,2.35,0.64,151.5,17,0,Normal
+TRK-11323,Eastern-Mineral-Belt,147.69,-0.8,1.489,13.0,4.91,10.38,240.0,341,1,Potential Failure
+TRK-11324,Eastern-Mineral-Belt,165.14,37.0,1.038,18.2,2.94,13.23,163.6,69,0,Normal
+TRK-11325,Eastern-Mineral-Belt,171.71,41.5,0.661,34.6,2.43,0.13,94.3,12,0,Normal
+TRK-11326,Southern-Express-Route,134.39,19.4,0.906,62.8,2.56,1.16,68.5,124,1,Potential Failure
+TRK-11327,Central-Freight-Trunk,107.24,22.3,0.651,16.9,2.37,3.96,101.9,19,0,Normal
+TRK-11328,Western-Coastal-Line,13.18,27.1,0.843,38.4,3.17,8.12,30.3,165,0,Normal
+TRK-11329,Western-Coastal-Line,181.99,44.2,1.159,21.6,3.39,0.96,96.9,245,0,Normal
+TRK-11330,Southern-Express-Route,112.45,33.5,1.094,32.2,3.83,8.55,151.7,292,1,Potential Failure
+TRK-11331,Western-Coastal-Line,130.77,18.3,0.984,17.3,2.47,14.35,72.0,73,0,Normal
+TRK-11332,Eastern-Mineral-Belt,16.97,17.7,1.164,19.6,3.24,5.1,259.1,16,0,Normal
+TRK-11333,Western-Coastal-Line,40.77,35.9,0.882,45.4,3.24,5.7,152.2,10,0,Normal
+TRK-11334,Northern-Corridor,144.11,24.6,0.509,12.6,1.74,0.75,42.8,24,0,Normal
+TRK-11335,Northern-Corridor,148.02,15.0,1.612,8.0,4.1,7.82,257.8,130,1,Potential Failure
+TRK-11336,Western-Coastal-Line,170.95,15.0,0.637,14.6,1.54,4.35,52.2,92,0,Normal
+TRK-11337,Western-Coastal-Line,27.37,22.5,0.514,12.2,2.07,0.15,49.7,52,0,Normal
+TRK-11338,Southern-Express-Route,125.52,30.2,1.285,44.2,3.39,2.2,98.8,208,1,Potential Failure
+TRK-11339,Eastern-Mineral-Belt,72.32,31.3,1.102,16.6,2.97,7.83,146.0,80,0,Normal
+TRK-11340,Western-Coastal-Line,172.55,29.7,1.17,16.3,2.36,1.12,86.0,170,0,Normal
+TRK-11341,Northern-Corridor,62.33,24.9,0.934,16.5,2.57,18.12,74.7,157,0,Normal
+TRK-11342,Western-Coastal-Line,5.14,50.8,0.53,22.3,2.43,1.45,24.4,99,0,Normal
+TRK-11343,Central-Freight-Trunk,60.04,26.7,0.77,35.1,3.0,36.0,141.5,19,1,Potential Failure
+TRK-11344,Western-Coastal-Line,143.19,44.6,0.607,11.0,1.94,19.23,58.7,111,0,Normal
+TRK-11345,Central-Freight-Trunk,51.35,10.5,0.71,45.8,2.37,0.7,32.6,75,0,Normal
+TRK-11346,Southern-Express-Route,19.84,9.4,1.004,10.2,2.38,3.55,75.5,138,0,Normal
+TRK-11347,Western-Coastal-Line,27.05,6.7,1.129,12.2,4.25,5.67,126.7,365,1,Potential Failure
+TRK-11348,Central-Freight-Trunk,32.51,22.1,0.701,14.0,2.05,0.6,103.4,17,0,Normal
+TRK-11349,Southern-Express-Route,82.63,31.3,1.014,39.5,2.13,0.64,137.5,17,1,Potential Failure
+TRK-11350,Northern-Corridor,20.49,48.7,0.671,50.1,1.92,0.67,84.3,14,1,Potential Failure
+TRK-11351,Central-Freight-Trunk,130.66,28.6,1.007,10.8,2.96,1.02,140.2,144,0,Normal
+TRK-11352,Eastern-Mineral-Belt,114.4,34.4,0.775,33.2,2.88,0.67,99.2,156,0,Normal
+TRK-11353,Southern-Express-Route,15.45,23.4,1.515,13.6,4.4,1.42,192.8,365,1,Potential Failure
+TRK-11354,Southern-Express-Route,25.25,33.4,0.763,13.1,1.78,0.65,81.5,47,0,Normal
+TRK-11355,Eastern-Mineral-Belt,18.9,58.0,0.92,46.7,2.6,0.45,140.2,110,1,Potential Failure
+TRK-11356,Eastern-Mineral-Belt,87.58,25.4,0.607,15.1,2.19,6.29,13.8,112,0,Normal
+TRK-11357,Southern-Express-Route,48.48,19.5,1.531,31.8,4.53,36.0,206.0,279,1,Potential Failure
+TRK-11358,Western-Coastal-Line,146.14,10.0,0.755,22.4,2.5,0.66,105.3,72,0,Normal
+TRK-11359,Northern-Corridor,13.03,14.6,1.641,52.1,4.05,26.99,112.0,365,1,Potential Failure
+TRK-11360,Central-Freight-Trunk,52.94,21.1,1.047,17.1,2.96,1.85,89.7,148,0,Normal
+TRK-11361,Southern-Express-Route,19.94,41.4,0.936,13.0,3.04,2.26,82.6,123,0,Normal
+TRK-11362,Western-Coastal-Line,103.33,40.0,0.941,25.4,2.37,7.59,100.3,53,0,Normal
+TRK-11363,Eastern-Mineral-Belt,74.75,14.5,0.916,10.5,3.24,0.48,121.7,153,0,Normal
+TRK-11364,Southern-Express-Route,30.26,49.1,0.909,21.8,2.64,8.25,64.1,82,0,Normal
+TRK-11365,Central-Freight-Trunk,150.76,29.9,0.783,22.5,2.99,0.97,162.8,85,0,Normal
+TRK-11366,Eastern-Mineral-Belt,105.37,32.9,1.044,11.0,2.4,1.16,163.6,33,0,Normal
+TRK-11367,Central-Freight-Trunk,122.92,28.4,0.715,43.5,2.57,0.28,49.2,56,0,Normal
+TRK-11368,Southern-Express-Route,154.96,18.8,1.052,38.2,3.19,2.15,206.3,80,0,Normal
+TRK-11369,Western-Coastal-Line,103.14,24.2,0.995,13.3,2.68,6.13,129.9,30,0,Normal
+TRK-11370,Eastern-Mineral-Belt,13.81,8.5,1.315,48.5,3.77,1.06,75.8,365,1,Potential Failure
+TRK-11371,Eastern-Mineral-Belt,61.24,3.1,1.182,7.6,3.19,11.1,320.0,15,1,Potential Failure
+TRK-11372,Central-Freight-Trunk,151.33,42.0,0.625,17.1,2.16,1.1,35.4,51,0,Normal
+TRK-11373,Northern-Corridor,140.3,32.7,0.741,17.0,1.83,2.46,57.6,11,0,Normal
+TRK-11374,Western-Coastal-Line,72.76,12.5,0.796,16.6,2.05,11.16,91.4,68,0,Normal
+TRK-11375,Western-Coastal-Line,56.15,46.9,0.903,15.8,2.92,3.91,83.6,99,0,Normal
+TRK-11376,Eastern-Mineral-Belt,133.07,17.7,1.306,15.7,2.24,3.39,213.9,137,0,Normal
+TRK-11377,Southern-Express-Route,2.49,55.5,0.848,19.5,2.84,0.68,149.5,18,0,Normal
+TRK-11378,Central-Freight-Trunk,157.86,41.3,1.043,37.0,2.29,5.05,134.1,29,0,Normal
+TRK-11379,Northern-Corridor,1.16,32.8,0.914,6.0,2.89,0.41,133.1,37,0,Normal
+TRK-11380,Northern-Corridor,159.47,55.5,0.486,11.7,1.79,9.0,23.4,80,0,Normal
+TRK-11381,Southern-Express-Route,73.55,10.5,1.223,42.7,3.42,9.46,168.1,67,1,Potential Failure
+TRK-11382,Eastern-Mineral-Belt,81.07,50.7,0.93,32.1,2.8,7.09,211.5,49,0,Normal
+TRK-11383,Central-Freight-Trunk,35.63,31.0,1.02,14.5,2.94,1.96,71.9,95,0,Normal
+TRK-11384,Eastern-Mineral-Belt,29.39,34.7,1.274,17.3,3.12,0.5,180.0,119,0,Normal
+TRK-11385,Central-Freight-Trunk,3.13,28.8,0.974,15.0,3.5,9.36,178.2,117,0,Normal
+TRK-11386,Eastern-Mineral-Belt,122.06,7.8,1.03,18.4,2.92,11.93,206.9,98,0,Normal
+TRK-11387,Central-Freight-Trunk,119.17,11.8,1.306,18.4,3.87,10.05,92.8,288,0,Normal
+TRK-11388,Southern-Express-Route,172.18,27.9,0.869,18.7,2.23,0.9,100.3,26,0,Normal
+TRK-11389,Eastern-Mineral-Belt,102.58,26.1,0.709,22.9,2.7,6.01,95.4,137,0,Normal
+TRK-11390,Central-Freight-Trunk,79.16,43.3,1.229,48.5,4.0,1.07,106.8,235,1,Potential Failure
+TRK-11391,Central-Freight-Trunk,132.03,24.6,1.055,16.5,1.94,0.62,51.9,22,0,Normal
+TRK-11392,Southern-Express-Route,68.52,32.5,0.895,12.2,2.55,0.22,195.1,31,0,Normal
+TRK-11393,Western-Coastal-Line,21.82,-3.8,1.181,8.2,2.42,1.89,141.2,155,0,Normal
+TRK-11394,Central-Freight-Trunk,135.35,47.1,1.2,13.5,2.91,0.85,220.2,20,0,Normal
+TRK-11395,Western-Coastal-Line,86.55,1.6,0.827,59.6,1.86,0.34,38.6,14,1,Potential Failure
+TRK-11396,Northern-Corridor,46.12,38.2,0.632,23.1,1.7,2.37,61.9,54,0,Normal
+TRK-11397,Northern-Corridor,126.87,42.0,0.689,18.2,2.68,0.08,38.2,144,0,Normal
+TRK-11398,Southern-Express-Route,10.71,37.5,0.936,37.1,2.94,0.45,230.3,18,0,Normal
+TRK-11399,Eastern-Mineral-Belt,84.54,58.0,0.881,18.8,2.91,1.75,177.8,78,0,Normal
+TRK-11400,Western-Coastal-Line,78.47,18.6,1.274,10.1,3.15,1.0,105.5,212,0,Normal
+TRK-11401,Western-Coastal-Line,31.82,7.7,1.014,15.6,2.78,0.8,112.6,56,0,Normal
+TRK-11402,Western-Coastal-Line,134.76,26.4,0.881,10.9,2.34,8.51,127.3,93,0,Normal
+TRK-11403,Eastern-Mineral-Belt,107.38,25.8,0.731,17.9,2.49,1.67,97.5,70,0,Normal
+TRK-11404,Western-Coastal-Line,149.84,4.6,0.911,14.5,2.55,6.21,90.6,121,0,Normal
+TRK-11405,Northern-Corridor,24.34,7.4,0.9,33.9,2.08,0.95,71.0,17,0,Normal
+TRK-11406,Western-Coastal-Line,25.39,22.1,0.427,20.7,2.05,0.38,80.8,23,0,Normal
+TRK-11407,Northern-Corridor,137.42,55.7,1.282,19.0,2.33,0.04,217.9,44,0,Normal
+TRK-11408,Central-Freight-Trunk,122.28,25.3,1.091,36.3,2.73,12.0,116.5,213,1,Potential Failure
+TRK-11409,Central-Freight-Trunk,90.23,18.1,0.898,20.4,2.55,3.37,126.8,33,0,Normal
+TRK-11410,Western-Coastal-Line,182.07,17.4,0.741,12.3,2.52,1.53,75.6,99,0,Normal
+TRK-11411,Central-Freight-Trunk,155.12,24.6,0.873,11.8,2.65,2.57,45.3,239,0,Normal
+TRK-11412,Eastern-Mineral-Belt,44.78,49.2,1.026,18.1,2.94,4.63,168.4,21,0,Normal
+TRK-11413,Central-Freight-Trunk,107.31,5.3,0.573,7.3,2.38,11.03,49.9,38,0,Normal
+TRK-11414,Western-Coastal-Line,140.01,-10.0,0.854,45.2,1.88,6.48,61.0,30,1,Potential Failure
+TRK-11415,Eastern-Mineral-Belt,88.63,19.6,0.846,7.7,2.42,0.12,115.4,47,0,Normal
+TRK-11416,Southern-Express-Route,43.99,47.6,0.694,12.3,1.61,0.43,124.9,86,0,Normal
+TRK-11417,Western-Coastal-Line,27.71,19.8,1.228,9.7,3.69,9.1,277.7,64,1,Potential Failure
+TRK-11418,Eastern-Mineral-Belt,71.29,36.1,1.139,23.7,2.61,2.96,105.8,15,0,Normal
+TRK-11419,Northern-Corridor,18.92,21.1,1.722,13.9,4.18,22.85,171.8,365,1,Potential Failure
+TRK-11420,Eastern-Mineral-Belt,113.33,9.5,1.017,7.5,2.79,9.62,97.2,68,0,Normal
+TRK-11421,Western-Coastal-Line,50.14,58.0,0.86,42.6,2.9,2.13,133.5,162,1,Potential Failure
+TRK-11422,Eastern-Mineral-Belt,85.84,29.0,0.995,18.2,2.71,11.82,71.0,107,0,Normal
+TRK-11423,Southern-Express-Route,142.77,18.4,0.407,21.7,1.86,2.09,58.3,35,0,Normal
+TRK-11424,Central-Freight-Trunk,58.64,-6.7,1.595,48.5,4.02,11.15,235.7,325,1,Potential Failure
+TRK-11425,Northern-Corridor,3.2,41.0,0.93,49.0,2.74,14.41,121.0,50,1,Potential Failure
+TRK-11426,Eastern-Mineral-Belt,65.68,16.8,0.789,17.3,2.47,7.07,92.0,57,0,Normal
+TRK-11427,Northern-Corridor,5.36,9.4,0.944,46.0,2.83,0.02,111.6,190,1,Potential Failure
+TRK-11428,Central-Freight-Trunk,175.89,21.3,1.126,9.2,3.59,1.55,132.3,140,0,Normal
+TRK-11429,Northern-Corridor,16.9,25.7,0.853,8.2,2.85,0.12,109.0,80,0,Normal
+TRK-11430,Southern-Express-Route,148.79,47.8,1.087,31.5,3.07,5.1,153.3,88,0,Normal
+TRK-11431,Central-Freight-Trunk,47.61,23.6,0.852,19.2,2.84,0.58,90.1,96,0,Normal
+TRK-11432,Eastern-Mineral-Belt,170.78,41.6,0.885,39.4,2.19,2.77,130.1,73,0,Normal
+TRK-11433,Western-Coastal-Line,48.35,33.5,0.559,19.1,2.21,7.32,114.1,11,0,Normal
+TRK-11434,Northern-Corridor,71.44,24.9,1.033,48.3,2.93,8.63,118.4,167,1,Potential Failure
+TRK-11435,Western-Coastal-Line,33.74,45.7,1.384,34.8,4.02,0.5,169.6,186,1,Potential Failure
+TRK-11436,Central-Freight-Trunk,113.3,10.5,1.036,48.5,3.13,0.25,123.7,44,1,Potential Failure
+TRK-11437,Central-Freight-Trunk,100.48,-8.9,0.642,16.7,1.54,1.25,41.6,33,0,Normal
+TRK-11438,Northern-Corridor,168.92,28.4,1.62,19.0,4.07,9.71,79.5,365,1,Potential Failure
+TRK-11439,Northern-Corridor,13.96,8.8,0.697,7.8,3.14,0.67,54.5,69,0,Normal
+TRK-11440,Northern-Corridor,165.96,31.4,0.919,57.4,2.62,0.28,101.4,71,1,Potential Failure
+TRK-11441,Northern-Corridor,123.29,41.9,1.461,47.9,3.34,2.72,158.2,227,1,Potential Failure
+TRK-11442,Eastern-Mineral-Belt,106.73,28.4,0.572,18.2,2.34,1.43,60.3,85,0,Normal
+TRK-11443,Eastern-Mineral-Belt,88.98,39.5,0.844,24.9,2.63,0.32,122.5,49,0,Normal
+TRK-11444,Northern-Corridor,100.38,43.2,0.907,43.0,2.51,0.68,188.0,12,1,Potential Failure
+TRK-11445,Eastern-Mineral-Belt,23.3,32.8,0.825,12.0,2.89,2.26,129.6,71,0,Normal
+TRK-11446,Western-Coastal-Line,126.46,33.6,1.049,12.6,2.16,0.01,59.8,54,0,Normal
+TRK-11447,Northern-Corridor,68.23,42.6,0.75,16.1,2.49,13.53,118.6,81,0,Normal
+TRK-11448,Eastern-Mineral-Belt,140.92,22.3,0.734,36.3,2.44,5.4,163.7,96,0,Normal
+TRK-11449,Southern-Express-Route,8.24,37.9,0.933,22.2,3.21,7.93,182.5,12,0,Normal
+TRK-11450,Eastern-Mineral-Belt,165.95,18.3,0.483,12.5,2.02,1.09,37.5,32,0,Normal
+TRK-11451,Northern-Corridor,163.88,19.6,1.198,14.1,3.51,11.86,174.1,210,1,Potential Failure
+TRK-11452,Northern-Corridor,36.53,19.4,0.961,9.6,2.97,0.18,143.5,58,0,Normal
+TRK-11453,Eastern-Mineral-Belt,72.53,16.6,1.037,19.6,2.35,1.62,58.2,111,0,Normal
+TRK-11454,Eastern-Mineral-Belt,99.24,17.1,1.476,17.8,3.79,7.46,63.1,332,1,Potential Failure
+TRK-11455,Northern-Corridor,7.82,16.9,0.942,49.4,3.47,0.65,180.3,88,1,Potential Failure
+TRK-11456,Northern-Corridor,75.61,36.5,0.951,39.8,2.75,0.59,127.0,63,1,Potential Failure
+TRK-11457,Southern-Express-Route,85.34,39.3,0.371,14.4,1.86,1.25,117.8,20,0,Normal
+TRK-11458,Central-Freight-Trunk,137.35,22.5,1.264,38.1,3.51,6.24,224.3,226,1,Potential Failure
+TRK-11459,Central-Freight-Trunk,90.96,15.8,0.878,36.7,2.69,0.54,151.7,37,0,Normal
+TRK-11460,Southern-Express-Route,9.43,25.6,1.032,16.4,2.56,5.46,54.6,122,0,Normal
+TRK-11461,Central-Freight-Trunk,117.41,47.6,0.95,14.9,3.64,2.57,167.1,172,0,Normal
+TRK-11462,Northern-Corridor,84.94,37.0,1.254,44.6,3.57,0.13,152.4,262,1,Potential Failure
+TRK-11463,Northern-Corridor,22.01,28.4,1.132,12.9,2.33,0.79,28.9,126,0,Normal
+TRK-11464,Northern-Corridor,149.02,-0.9,0.72,12.9,1.92,2.01,35.0,94,0,Normal
+TRK-11465,Eastern-Mineral-Belt,60.66,16.3,0.731,10.0,2.9,2.14,92.5,17,0,Normal
+TRK-11466,Central-Freight-Trunk,60.17,27.7,0.738,7.4,1.57,14.98,17.6,38,0,Normal
+TRK-11467,Northern-Corridor,110.13,29.4,1.093,52.3,2.88,8.0,139.8,153,1,Potential Failure
+TRK-11468,Central-Freight-Trunk,140.39,36.8,0.822,45.6,2.41,0.1,89.4,113,0,Normal
+TRK-11469,Central-Freight-Trunk,81.71,22.6,0.861,12.5,1.91,7.05,86.6,100,0,Normal
+TRK-11470,Northern-Corridor,146.55,35.3,0.842,23.3,1.84,0.86,115.3,13,0,Normal
+TRK-11471,Central-Freight-Trunk,3.88,14.9,1.399,18.5,3.29,6.37,47.4,314,0,Normal
+TRK-11472,Central-Freight-Trunk,171.41,18.1,0.455,18.3,1.96,0.9,46.6,23,0,Normal
+TRK-11473,Western-Coastal-Line,77.58,12.5,1.07,22.9,2.82,0.7,92.4,173,0,Normal
+TRK-11474,Central-Freight-Trunk,38.93,42.4,0.943,12.4,2.72,0.48,168.5,16,0,Normal
+TRK-11475,Eastern-Mineral-Belt,45.02,33.5,0.697,33.5,1.48,2.43,30.1,17,0,Normal
+TRK-11476,Southern-Express-Route,34.12,38.5,1.409,15.1,3.61,0.68,109.9,279,1,Potential Failure
+TRK-11477,Western-Coastal-Line,65.01,27.5,0.749,46.1,2.65,6.38,73.5,151,0,Normal
+TRK-11478,Northern-Corridor,182.54,23.4,1.09,12.1,2.99,6.33,118.3,190,0,Normal
+TRK-11479,Southern-Express-Route,94.39,4.6,0.92,15.3,2.28,1.58,136.1,17,0,Normal
+TRK-11480,Central-Freight-Trunk,51.86,-5.7,1.047,46.5,2.34,0.34,257.6,27,1,Potential Failure
+TRK-11481,Eastern-Mineral-Belt,92.54,11.0,1.358,44.2,3.97,0.49,197.8,268,1,Potential Failure
+TRK-11482,Northern-Corridor,119.65,48.9,0.535,12.5,1.89,0.38,57.2,13,0,Normal
+TRK-11483,Western-Coastal-Line,114.49,21.5,0.575,15.0,1.93,2.71,86.9,24,0,Normal
+TRK-11484,Northern-Corridor,137.24,4.5,1.014,14.8,2.96,21.92,71.2,174,1,Potential Failure
+TRK-11485,Northern-Corridor,90.25,26.1,0.759,38.7,2.37,0.7,100.9,53,0,Normal
+TRK-11486,Eastern-Mineral-Belt,110.06,18.5,0.52,14.1,2.52,11.32,66.1,64,0,Normal
+TRK-11487,Western-Coastal-Line,43.33,36.6,0.668,44.8,2.1,16.41,50.3,150,1,Potential Failure
+TRK-11488,Central-Freight-Trunk,136.75,58.0,0.959,19.9,2.41,0.67,47.0,87,0,Normal
+TRK-11489,Central-Freight-Trunk,14.53,14.5,1.558,19.5,3.98,10.04,320.0,130,1,Potential Failure
+TRK-11490,Eastern-Mineral-Belt,27.67,20.8,1.304,21.1,2.97,1.14,125.1,111,0,Normal
+TRK-11491,Eastern-Mineral-Belt,69.72,4.6,1.267,17.8,3.9,5.04,218.4,90,0,Normal
+TRK-11492,Western-Coastal-Line,180.5,23.9,0.674,33.5,2.0,36.0,37.1,80,1,Potential Failure
+TRK-11493,Southern-Express-Route,11.98,29.1,0.948,40.0,2.46,1.06,100.7,21,0,Normal
+TRK-11494,Eastern-Mineral-Belt,77.95,38.0,0.788,20.7,2.35,16.1,135.7,32,0,Normal
+TRK-11495,Western-Coastal-Line,112.07,38.3,0.764,20.2,2.88,1.53,122.6,21,0,Normal
+TRK-11496,Southern-Express-Route,167.63,31.3,1.115,18.8,3.54,0.66,110.8,144,0,Normal
+TRK-11497,Central-Freight-Trunk,16.91,23.3,0.693,15.2,2.17,1.27,93.8,17,0,Normal
+TRK-11498,Central-Freight-Trunk,109.85,27.8,0.443,17.6,2.07,7.23,84.7,16,0,Normal
+TRK-11499,Eastern-Mineral-Belt,136.46,42.7,1.094,48.6,2.82,8.99,122.5,41,0,Normal
+TRK-11500,Southern-Express-Route,41.92,24.0,0.85,16.1,2.63,2.26,183.8,14,0,Normal
+TRK-11501,Southern-Express-Route,166.28,-2.4,0.526,11.5,1.85,7.13,83.5,49,0,Normal
+TRK-11502,Eastern-Mineral-Belt,135.96,39.1,0.704,19.9,1.84,3.59,69.9,81,0,Normal
+TRK-11503,Eastern-Mineral-Belt,89.19,20.7,1.014,11.6,2.68,0.32,13.1,285,0,Normal
+TRK-11504,Eastern-Mineral-Belt,92.13,25.3,1.259,45.3,3.84,1.25,145.8,217,1,Potential Failure
+TRK-11505,Eastern-Mineral-Belt,175.79,2.5,0.617,30.9,1.72,1.38,29.6,37,0,Normal
+TRK-11506,Northern-Corridor,3.93,47.1,1.894,12.4,4.25,5.41,185.6,365,1,Potential Failure
+TRK-11507,Eastern-Mineral-Belt,158.86,31.8,0.925,15.3,2.11,24.23,137.8,88,0,Normal
+TRK-11508,Eastern-Mineral-Belt,86.33,20.4,1.373,52.9,3.11,1.23,127.3,238,1,Potential Failure
+TRK-11509,Central-Freight-Trunk,146.33,30.5,0.892,19.2,2.73,5.56,110.6,153,0,Normal
+TRK-11510,Northern-Corridor,159.31,30.5,0.236,41.3,2.48,0.59,51.2,20,0,Normal
+TRK-11511,Western-Coastal-Line,98.69,30.9,0.753,42.2,2.63,4.36,123.9,47,0,Normal
+TRK-11512,Southern-Express-Route,100.81,39.7,1.582,14.5,4.28,1.04,129.1,265,0,Normal
+TRK-11513,Northern-Corridor,115.16,37.8,0.972,20.9,1.93,0.07,113.1,56,0,Normal
+TRK-11514,Southern-Express-Route,174.94,1.4,1.322,17.0,3.71,0.03,89.8,365,1,Potential Failure
+TRK-11515,Northern-Corridor,71.46,49.9,1.448,19.5,3.48,8.29,46.0,306,1,Potential Failure
+TRK-11516,Western-Coastal-Line,33.25,15.9,0.814,9.4,2.6,6.55,112.8,27,0,Normal
+TRK-11517,Central-Freight-Trunk,26.47,38.7,0.79,16.5,2.72,0.03,138.7,28,0,Normal
+TRK-11518,Eastern-Mineral-Belt,136.68,17.6,0.892,15.2,2.65,1.05,125.5,47,0,Normal
+TRK-11519,Central-Freight-Trunk,139.58,51.1,0.565,19.2,2.95,6.29,42.2,105,0,Normal
+TRK-11520,Western-Coastal-Line,93.66,0.6,0.877,9.7,2.67,9.49,148.0,36,0,Normal
+TRK-11521,Western-Coastal-Line,64.52,37.3,1.497,16.7,4.09,0.4,164.9,312,1,Potential Failure
+TRK-11522,Northern-Corridor,87.51,28.2,1.278,16.3,3.11,0.63,132.2,259,0,Normal
+TRK-11523,Western-Coastal-Line,84.16,-3.0,0.62,17.6,3.06,0.02,162.2,50,0,Normal
+TRK-11524,Northern-Corridor,35.66,28.4,1.379,16.1,3.61,5.48,109.2,313,0,Normal
+TRK-11525,Eastern-Mineral-Belt,166.22,40.0,1.047,41.8,3.38,0.74,79.7,195,0,Normal
+TRK-11526,Northern-Corridor,31.32,37.0,0.657,27.8,2.63,5.74,68.6,144,0,Normal
+TRK-11527,Central-Freight-Trunk,162.0,20.5,1.201,14.7,2.93,0.06,31.2,97,0,Normal
+TRK-11528,Western-Coastal-Line,77.64,9.6,0.775,14.6,3.22,0.99,195.3,37,0,Normal
+TRK-11529,Eastern-Mineral-Belt,64.79,32.2,1.368,9.3,4.1,3.17,99.2,296,0,Normal
+TRK-11530,Western-Coastal-Line,35.79,22.5,0.985,52.5,2.52,2.26,124.7,75,1,Potential Failure
+TRK-11531,Southern-Express-Route,119.62,-2.3,1.271,10.7,2.8,7.25,196.8,99,0,Normal
+TRK-11532,Western-Coastal-Line,90.45,28.5,1.377,8.8,2.64,1.89,244.8,39,0,Normal
+TRK-11533,Southern-Express-Route,82.93,17.3,1.219,34.5,3.41,9.02,153.2,112,1,Potential Failure
+TRK-11534,Western-Coastal-Line,32.6,16.6,0.661,35.5,2.56,1.68,76.4,19,0,Normal
+TRK-11535,Western-Coastal-Line,142.63,33.3,0.582,34.8,1.49,0.63,59.1,16,0,Normal
+TRK-11536,Eastern-Mineral-Belt,176.94,2.1,0.81,6.2,2.83,17.48,134.9,170,0,Normal
+TRK-11537,Southern-Express-Route,53.49,24.9,0.926,8.8,2.53,0.15,74.2,109,0,Normal
+TRK-11538,Central-Freight-Trunk,30.67,-0.5,0.781,48.3,2.01,0.84,62.8,43,1,Potential Failure
+TRK-11539,Southern-Express-Route,24.27,16.8,0.615,40.7,1.95,12.85,43.5,51,1,Potential Failure
+TRK-11540,Southern-Express-Route,131.11,41.2,0.893,18.4,2.57,1.18,99.8,72,0,Normal
+TRK-11541,Central-Freight-Trunk,69.62,55.0,1.275,12.0,3.31,9.21,158.2,118,0,Normal
+TRK-11542,Western-Coastal-Line,23.35,42.6,1.129,58.4,3.84,1.09,207.1,100,1,Potential Failure
+TRK-11543,Central-Freight-Trunk,175.39,13.4,0.857,18.4,2.35,18.52,100.2,55,1,Potential Failure
+TRK-11544,Southern-Express-Route,180.51,36.9,1.41,33.7,3.58,0.3,156.6,231,0,Normal
+TRK-11545,Eastern-Mineral-Belt,165.86,29.9,1.568,16.0,4.34,1.8,129.6,365,1,Potential Failure
+TRK-11546,Southern-Express-Route,123.71,54.0,0.903,10.0,2.49,2.45,133.6,54,0,Normal
+TRK-11547,Eastern-Mineral-Belt,63.32,14.8,0.916,51.9,3.26,0.77,257.1,15,1,Potential Failure
+TRK-11548,Northern-Corridor,26.65,39.2,1.165,6.4,3.62,10.97,181.3,33,0,Normal
+TRK-11549,Eastern-Mineral-Belt,114.62,0.1,0.992,49.0,3.18,10.28,155.5,47,1,Potential Failure
+TRK-11550,Western-Coastal-Line,11.13,21.7,1.276,14.9,3.5,0.15,320.0,89,1,Potential Failure
+TRK-11551,Central-Freight-Trunk,144.76,30.9,0.488,10.0,2.19,19.93,15.7,17,1,Potential Failure
+TRK-11552,Northern-Corridor,100.07,12.2,0.872,15.3,2.53,3.08,92.9,47,0,Normal
+TRK-11553,Northern-Corridor,180.55,32.9,0.833,18.4,2.61,0.64,45.9,103,0,Normal
+TRK-11554,Southern-Express-Route,112.33,37.0,0.703,14.4,2.84,4.0,45.0,49,0,Normal
+TRK-11555,Western-Coastal-Line,74.15,29.0,0.95,26.2,2.49,1.01,83.3,43,0,Normal
+TRK-11556,Eastern-Mineral-Belt,69.6,42.1,0.833,57.9,2.74,13.8,71.5,113,1,Potential Failure
+TRK-11557,Eastern-Mineral-Belt,161.87,33.1,0.973,25.5,2.97,3.72,105.7,138,0,Normal
+TRK-11558,Eastern-Mineral-Belt,137.44,15.2,0.89,18.8,1.55,2.0,74.6,54,0,Normal
+TRK-11559,Central-Freight-Trunk,149.24,40.5,1.184,16.8,3.01,1.16,166.0,75,0,Normal
+TRK-11560,Eastern-Mineral-Belt,26.68,26.5,0.625,18.3,1.69,18.21,108.9,21,0,Normal
+TRK-11561,Central-Freight-Trunk,56.79,32.3,1.175,20.3,3.21,1.06,261.0,62,0,Normal
+TRK-11562,Western-Coastal-Line,13.17,7.6,0.77,22.9,2.41,2.91,71.5,36,0,Normal
+TRK-11563,Northern-Corridor,2.22,36.8,0.983,19.8,3.49,8.02,124.2,109,0,Normal
+TRK-11564,Central-Freight-Trunk,103.27,-2.2,1.049,8.9,2.28,3.16,101.2,94,0,Normal
+TRK-11565,Central-Freight-Trunk,37.66,33.6,0.683,20.1,2.51,14.63,54.5,24,0,Normal
+TRK-11566,Eastern-Mineral-Belt,8.77,33.6,0.983,21.1,2.41,3.54,140.4,16,0,Normal
+TRK-11567,Western-Coastal-Line,91.91,0.7,0.522,16.6,2.02,6.03,103.4,31,0,Normal
+TRK-11568,Northern-Corridor,29.34,26.3,0.752,42.6,2.47,1.28,78.8,85,0,Normal
+TRK-11569,Eastern-Mineral-Belt,23.85,36.7,0.767,17.4,1.89,15.93,116.5,13,0,Normal
+TRK-11570,Central-Freight-Trunk,91.51,41.1,0.934,16.3,3.04,14.8,137.2,54,0,Normal
+TRK-11571,Northern-Corridor,141.71,1.5,0.831,18.2,1.78,0.53,50.1,55,0,Normal
+TRK-11572,Southern-Express-Route,138.18,10.5,1.53,17.8,3.43,0.14,145.4,192,0,Normal
+TRK-11573,Western-Coastal-Line,116.55,20.9,1.076,26.5,2.16,0.84,102.9,139,0,Normal
+TRK-11574,Northern-Corridor,69.67,32.1,0.889,21.7,2.02,5.57,61.1,80,0,Normal
+TRK-11575,Western-Coastal-Line,30.96,23.5,0.999,33.3,2.63,32.15,79.2,66,1,Potential Failure
+TRK-11576,Central-Freight-Trunk,66.76,23.5,0.779,37.3,2.49,0.9,109.0,31,0,Normal
+TRK-11577,Western-Coastal-Line,9.96,24.5,0.981,55.1,3.39,3.88,133.4,135,1,Potential Failure
+TRK-11578,Northern-Corridor,95.55,15.5,0.575,10.4,2.26,7.27,37.4,13,0,Normal
+TRK-11579,Northern-Corridor,111.17,20.9,0.906,41.3,3.2,6.02,238.2,53,1,Potential Failure
+TRK-11580,Western-Coastal-Line,153.14,17.2,0.798,13.8,2.59,22.63,114.2,70,1,Potential Failure
+TRK-11581,Western-Coastal-Line,18.63,36.9,1.233,24.7,3.62,0.41,152.0,176,0,Normal
+TRK-11582,Northern-Corridor,26.2,49.5,1.425,33.8,3.55,0.42,163.9,273,1,Potential Failure
+TRK-11583,Eastern-Mineral-Belt,63.62,34.5,0.919,14.5,2.45,32.32,126.9,43,1,Potential Failure
+TRK-11584,Central-Freight-Trunk,93.62,15.2,0.998,18.1,2.18,1.82,58.8,46,0,Normal
+TRK-11585,Southern-Express-Route,113.87,21.7,1.221,20.8,3.61,0.72,147.8,223,0,Normal
+TRK-11586,Southern-Express-Route,132.11,30.6,1.18,14.8,3.65,1.84,57.8,339,0,Normal
+TRK-11587,Eastern-Mineral-Belt,85.73,39.9,1.042,38.5,2.07,2.43,85.8,157,0,Normal
+TRK-11588,Northern-Corridor,89.23,42.3,1.076,41.5,2.9,0.17,10.6,189,1,Potential Failure
+TRK-11589,Eastern-Mineral-Belt,164.71,58.0,0.85,24.2,1.94,3.68,37.9,18,0,Normal
+TRK-11590,Western-Coastal-Line,32.69,27.1,0.5,16.1,2.05,0.95,60.3,13,0,Normal
+TRK-11591,Northern-Corridor,41.91,30.3,1.384,25.9,3.34,30.33,147.0,169,1,Potential Failure
+TRK-11592,Central-Freight-Trunk,57.57,32.3,0.611,45.2,1.83,0.23,150.6,46,1,Potential Failure
+TRK-11593,Eastern-Mineral-Belt,128.11,15.8,0.767,19.9,2.56,17.13,96.5,20,0,Normal
+TRK-11594,Eastern-Mineral-Belt,140.35,37.2,0.886,48.1,2.93,8.25,137.1,119,1,Potential Failure
+TRK-11595,Southern-Express-Route,110.14,40.1,0.913,17.9,2.53,2.65,69.8,133,0,Normal
+TRK-11596,Northern-Corridor,13.19,44.9,0.9,13.9,2.69,1.18,160.4,58,0,Normal
+TRK-11597,Northern-Corridor,170.3,15.8,0.541,43.9,2.23,0.59,44.6,72,1,Potential Failure
+TRK-11598,Central-Freight-Trunk,124.39,20.8,0.969,46.5,2.41,17.93,65.4,36,1,Potential Failure
+TRK-11599,Western-Coastal-Line,175.58,40.9,1.274,49.0,3.29,7.13,107.4,189,1,Potential Failure
+TRK-11600,Southern-Express-Route,144.67,20.9,1.011,22.9,3.43,0.52,126.0,156,0,Normal
+TRK-11601,Northern-Corridor,19.24,55.5,1.388,9.2,3.39,5.03,151.4,244,0,Normal
+TRK-11602,Central-Freight-Trunk,132.71,18.1,1.572,11.4,3.32,6.92,228.2,146,0,Normal
+TRK-11603,Southern-Express-Route,1.8,34.4,0.562,16.4,2.14,0.15,59.8,68,0,Normal
+TRK-11604,Southern-Express-Route,157.64,30.5,0.987,23.9,2.69,0.95,204.0,61,0,Normal
+TRK-11605,Central-Freight-Trunk,81.9,36.1,0.825,11.9,2.17,6.14,134.0,24,0,Normal
+TRK-11606,Western-Coastal-Line,181.56,30.4,0.904,17.7,2.91,0.22,169.7,12,0,Normal
+TRK-11607,Eastern-Mineral-Belt,21.76,45.1,1.026,20.1,3.08,16.78,120.2,19,0,Normal
+TRK-11608,Northern-Corridor,96.63,10.2,1.088,16.1,2.34,12.45,142.9,152,0,Normal
+TRK-11609,Western-Coastal-Line,103.51,31.1,0.754,46.8,2.66,2.14,46.4,48,1,Potential Failure
+TRK-11610,Northern-Corridor,71.8,45.8,0.925,7.4,2.85,0.83,69.8,227,0,Normal
+TRK-11611,Eastern-Mineral-Belt,42.56,42.3,0.554,23.6,2.18,0.19,99.9,52,0,Normal
+TRK-11612,Eastern-Mineral-Belt,35.74,18.1,0.816,60.9,1.86,0.4,43.9,57,1,Potential Failure
+TRK-11613,Eastern-Mineral-Belt,173.79,31.3,1.297,58.4,3.89,21.64,237.6,167,1,Potential Failure
+TRK-11614,Eastern-Mineral-Belt,124.67,31.4,1.003,18.8,2.64,1.36,187.3,63,0,Normal
+TRK-11615,Northern-Corridor,22.94,26.5,1.278,40.3,4.4,0.73,216.3,132,1,Potential Failure
+TRK-11616,Northern-Corridor,137.42,26.1,0.723,20.2,2.77,12.54,75.7,85,0,Normal
+TRK-11617,Western-Coastal-Line,180.44,38.7,0.891,24.1,3.54,1.51,177.0,38,0,Normal
+TRK-11618,Eastern-Mineral-Belt,23.59,29.6,0.749,9.2,2.39,0.39,82.6,111,0,Normal
+TRK-11619,Western-Coastal-Line,141.73,33.3,1.003,13.2,2.29,0.01,182.1,34,0,Normal
+TRK-11620,Eastern-Mineral-Belt,66.52,10.0,0.943,19.6,2.95,2.11,161.7,52,0,Normal
+TRK-11621,Eastern-Mineral-Belt,95.1,26.1,1.178,36.4,2.34,2.1,36.9,150,0,Normal
+TRK-11622,Northern-Corridor,47.13,19.8,1.06,19.4,2.55,1.67,200.9,55,0,Normal
+TRK-11623,Central-Freight-Trunk,6.47,24.7,0.457,13.9,1.79,0.12,27.8,70,0,Normal
+TRK-11624,Eastern-Mineral-Belt,125.77,26.8,1.029,13.5,3.12,34.77,156.1,82,1,Potential Failure
+TRK-11625,Western-Coastal-Line,29.1,23.2,0.711,15.8,2.03,9.17,98.2,12,0,Normal
+TRK-11626,Northern-Corridor,122.64,9.4,1.299,14.1,3.72,0.17,269.2,82,0,Normal
+TRK-11627,Eastern-Mineral-Belt,38.16,26.6,0.685,17.4,1.8,4.4,49.2,62,0,Normal
+TRK-11628,Western-Coastal-Line,100.81,17.0,0.536,15.7,2.45,1.41,92.5,24,0,Normal
+TRK-11629,Northern-Corridor,176.27,21.5,0.936,23.0,2.12,0.63,98.4,53,0,Normal
+TRK-11630,Northern-Corridor,71.59,25.5,0.763,44.6,2.81,0.24,94.9,121,1,Potential Failure
+TRK-11631,Eastern-Mineral-Belt,7.62,20.4,0.704,61.5,2.85,0.98,150.0,80,1,Potential Failure
+TRK-11632,Western-Coastal-Line,163.78,31.3,1.166,34.8,2.59,2.87,90.2,99,0,Normal
+TRK-11633,Western-Coastal-Line,132.69,22.0,0.787,17.3,2.47,26.58,52.8,84,1,Potential Failure
+TRK-11634,Eastern-Mineral-Belt,122.45,58.0,0.76,23.7,2.04,3.51,56.3,60,0,Normal
+TRK-11635,Eastern-Mineral-Belt,104.45,26.3,0.979,40.8,3.17,10.85,171.8,57,1,Potential Failure
+TRK-11636,Western-Coastal-Line,92.02,30.5,1.165,21.1,3.12,0.8,240.5,74,0,Normal
+TRK-11637,Western-Coastal-Line,142.03,13.7,0.914,35.2,2.58,30.79,121.7,51,1,Potential Failure
+TRK-11638,Southern-Express-Route,9.3,47.6,0.902,17.3,2.44,2.3,60.0,97,0,Normal
+TRK-11639,Southern-Express-Route,5.95,28.3,0.677,23.9,1.79,0.69,95.6,12,0,Normal
+TRK-11640,Northern-Corridor,79.78,18.8,0.928,10.0,1.93,0.47,48.8,87,0,Normal
+TRK-11641,Northern-Corridor,122.67,35.7,0.693,50.9,2.23,1.61,128.8,29,1,Potential Failure
+TRK-11642,Southern-Express-Route,16.63,11.0,0.597,6.6,2.39,0.07,98.5,71,0,Normal
+TRK-11643,Northern-Corridor,63.12,16.2,1.116,42.7,2.67,5.92,205.1,62,1,Potential Failure
+TRK-11644,Eastern-Mineral-Belt,122.03,20.4,0.752,17.5,1.49,2.06,10.0,87,0,Normal
+TRK-11645,Eastern-Mineral-Belt,50.06,22.3,0.691,10.1,2.87,2.59,67.8,11,0,Normal
+TRK-11646,Western-Coastal-Line,70.5,0.9,1.014,14.2,2.76,0.64,64.2,193,0,Normal
+TRK-11647,Eastern-Mineral-Belt,19.41,4.7,0.684,19.9,2.29,0.89,79.4,16,0,Normal
+TRK-11648,Southern-Express-Route,150.31,30.9,1.29,17.6,4.06,11.76,320.0,90,1,Potential Failure
+TRK-11649,Western-Coastal-Line,67.85,35.5,0.965,20.4,2.31,0.19,114.4,77,0,Normal
+TRK-11650,Northern-Corridor,155.63,27.1,0.863,11.5,2.87,23.92,111.9,151,0,Normal
+TRK-11651,Northern-Corridor,55.71,23.5,0.852,17.8,2.52,0.18,55.5,107,0,Normal
+TRK-11652,Southern-Express-Route,137.69,18.0,0.831,36.8,2.31,3.0,126.0,11,0,Normal
+TRK-11653,Northern-Corridor,109.9,30.4,0.721,17.0,1.5,0.55,42.9,36,0,Normal
+TRK-11654,Southern-Express-Route,88.45,20.6,1.103,48.5,2.37,0.98,112.6,24,0,Normal
+TRK-11655,Western-Coastal-Line,93.85,31.2,1.018,37.4,3.57,0.54,276.4,118,1,Potential Failure
+TRK-11656,Western-Coastal-Line,37.81,25.1,0.825,11.9,2.74,2.01,163.5,14,0,Normal
+TRK-11657,Eastern-Mineral-Belt,124.57,2.1,0.706,17.2,2.45,0.27,55.7,132,0,Normal
+TRK-11658,Southern-Express-Route,159.74,33.0,1.087,14.3,2.1,14.86,176.7,45,0,Normal
+TRK-11659,Eastern-Mineral-Belt,50.3,37.5,0.884,16.7,2.89,1.26,153.9,51,0,Normal
+TRK-11660,Eastern-Mineral-Belt,172.97,25.4,0.663,11.8,2.06,23.28,63.0,104,0,Normal
+TRK-11661,Central-Freight-Trunk,68.03,16.0,0.658,49.7,2.73,16.84,129.9,66,1,Potential Failure
+TRK-11662,Western-Coastal-Line,156.32,15.6,0.803,11.9,2.97,3.17,98.4,126,0,Normal
+TRK-11663,Northern-Corridor,117.64,5.1,1.124,13.5,2.61,7.14,96.9,189,0,Normal
+TRK-11664,Western-Coastal-Line,119.87,51.6,0.984,31.8,2.16,0.4,122.3,28,0,Normal
+TRK-11665,Eastern-Mineral-Belt,44.88,11.8,1.276,28.7,3.52,8.49,204.1,197,1,Potential Failure
+TRK-11666,Western-Coastal-Line,86.41,20.1,1.671,18.1,4.62,9.18,64.9,365,1,Potential Failure
+TRK-11667,Northern-Corridor,38.17,27.0,0.944,26.8,2.44,9.17,74.6,159,0,Normal
+TRK-11668,Western-Coastal-Line,122.2,48.4,0.836,37.1,1.89,0.99,62.7,61,0,Normal
+TRK-11669,Eastern-Mineral-Belt,144.93,33.5,0.736,51.9,2.62,1.78,25.7,154,1,Potential Failure
+TRK-11670,Western-Coastal-Line,111.69,33.9,0.777,17.6,2.94,0.09,128.7,205,0,Normal
+TRK-11671,Eastern-Mineral-Belt,166.01,22.7,1.066,8.4,2.26,0.93,100.1,57,0,Normal
+TRK-11672,Eastern-Mineral-Belt,174.54,28.6,1.08,14.4,2.8,5.45,91.3,167,0,Normal
+TRK-11673,Northern-Corridor,106.06,35.5,0.645,13.6,2.56,20.38,47.1,27,0,Normal
+TRK-11674,Southern-Express-Route,175.74,48.9,0.83,25.4,2.72,31.7,52.8,156,1,Potential Failure
+TRK-11675,Northern-Corridor,44.81,38.0,0.873,28.7,2.38,1.28,203.0,57,0,Normal
+TRK-11676,Western-Coastal-Line,154.15,19.2,0.915,18.1,3.11,0.59,112.7,53,0,Normal
+TRK-11677,Central-Freight-Trunk,173.13,23.3,0.876,26.5,2.39,6.28,138.9,185,0,Normal
+TRK-11678,Central-Freight-Trunk,179.47,19.8,0.562,16.7,2.26,9.62,107.2,31,0,Normal
+TRK-11679,Southern-Express-Route,11.29,45.7,0.593,10.4,2.68,2.86,129.8,137,0,Normal
+TRK-11680,Northern-Corridor,59.23,20.5,1.008,20.1,2.51,1.77,103.3,102,0,Normal
+TRK-11681,Western-Coastal-Line,162.82,41.0,0.826,10.3,1.99,26.36,66.5,208,1,Potential Failure
+TRK-11682,Western-Coastal-Line,152.13,30.3,1.352,42.5,3.63,0.6,136.1,208,1,Potential Failure
+TRK-11683,Southern-Express-Route,7.4,15.9,1.027,20.5,2.68,2.22,163.9,121,0,Normal
+TRK-11684,Northern-Corridor,128.09,37.1,1.503,14.5,3.49,15.69,301.9,37,1,Potential Failure
+TRK-11685,Southern-Express-Route,71.78,54.0,1.206,18.0,3.41,0.22,93.8,186,0,Normal
+TRK-11686,Northern-Corridor,99.42,20.7,0.995,49.6,3.24,0.8,136.4,114,1,Potential Failure
+TRK-11687,Northern-Corridor,168.4,24.4,0.892,20.9,2.73,0.72,63.7,109,0,Normal
+TRK-11688,Western-Coastal-Line,56.36,20.5,1.037,21.8,2.39,0.74,81.3,240,0,Normal
+TRK-11689,Western-Coastal-Line,39.71,7.4,0.678,16.2,2.38,4.52,53.3,85,0,Normal
+TRK-11690,Western-Coastal-Line,162.82,15.4,0.814,14.7,2.39,10.64,210.7,45,0,Normal
+TRK-11691,Northern-Corridor,51.42,27.8,0.945,43.6,2.39,5.4,92.3,132,0,Normal
+TRK-11692,Eastern-Mineral-Belt,87.68,45.4,1.55,39.9,3.43,1.03,50.0,365,1,Potential Failure
+TRK-11693,Eastern-Mineral-Belt,162.32,5.3,0.872,17.8,2.72,3.39,18.7,206,0,Normal
+TRK-11694,Western-Coastal-Line,94.17,11.0,0.589,21.4,2.6,1.49,56.9,54,0,Normal
+TRK-11695,Southern-Express-Route,136.75,37.9,1.045,13.6,2.69,5.11,92.7,46,0,Normal
+TRK-11696,Northern-Corridor,119.01,16.3,1.123,56.9,3.71,36.0,185.8,155,1,Potential Failure
+TRK-11697,Central-Freight-Trunk,1.57,30.5,0.841,45.4,2.23,8.79,171.9,28,0,Normal
+TRK-11698,Southern-Express-Route,16.13,42.7,1.113,33.0,2.53,0.38,70.3,143,0,Normal
+TRK-11699,Central-Freight-Trunk,156.84,4.9,1.329,15.4,3.46,1.46,213.6,115,0,Normal
+TRK-11700,Western-Coastal-Line,84.07,22.2,1.177,13.4,3.81,5.44,228.6,156,1,Potential Failure
+TRK-11701,Central-Freight-Trunk,127.49,35.6,0.704,22.4,2.0,1.67,171.7,19,0,Normal
+TRK-11702,Central-Freight-Trunk,16.53,29.4,0.846,19.2,2.34,6.71,98.3,151,0,Normal
+TRK-11703,Eastern-Mineral-Belt,174.84,34.0,0.654,14.9,2.05,8.03,67.3,43,0,Normal
+TRK-11704,Northern-Corridor,170.85,42.0,0.941,14.4,2.43,0.28,167.3,88,0,Normal
+TRK-11705,Northern-Corridor,180.24,19.0,1.098,35.9,2.71,0.55,192.0,24,0,Normal
+TRK-11706,Central-Freight-Trunk,10.16,15.3,1.132,12.8,3.21,0.25,208.1,78,0,Normal
+TRK-11707,Central-Freight-Trunk,17.39,9.3,0.818,15.5,2.94,1.91,145.7,25,0,Normal
+TRK-11708,Northern-Corridor,3.6,13.8,1.428,16.7,4.37,3.82,111.0,357,0,Normal
+TRK-11709,Eastern-Mineral-Belt,153.22,14.6,1.03,22.0,2.66,6.66,190.4,15,0,Normal
+TRK-11710,Central-Freight-Trunk,36.06,24.2,0.978,15.2,3.2,0.68,244.6,133,0,Normal
+TRK-11711,Western-Coastal-Line,138.35,42.0,0.803,12.2,2.51,0.55,76.5,153,0,Normal
+TRK-11712,Central-Freight-Trunk,111.42,30.9,0.72,7.2,2.35,8.93,120.0,76,0,Normal
+TRK-11713,Central-Freight-Trunk,77.97,8.3,1.473,54.6,4.32,20.42,287.4,167,1,Potential Failure
+TRK-11714,Western-Coastal-Line,180.61,36.1,1.297,37.3,3.45,6.25,135.2,258,0,Normal
+TRK-11715,Central-Freight-Trunk,69.01,26.2,0.511,10.4,2.57,2.75,39.5,47,0,Normal
+TRK-11716,Northern-Corridor,87.27,39.1,1.539,21.3,4.14,1.63,132.8,365,1,Potential Failure
+TRK-11717,Eastern-Mineral-Belt,127.38,28.4,0.572,18.3,2.35,4.71,19.5,80,0,Normal
+TRK-11718,Southern-Express-Route,48.15,4.9,0.849,52.9,2.11,36.0,116.0,51,1,Potential Failure
+TRK-11719,Western-Coastal-Line,172.32,27.7,0.8,16.5,2.77,2.67,78.2,73,0,Normal
+TRK-11720,Southern-Express-Route,173.84,28.0,0.862,21.9,3.46,0.7,227.2,57,0,Normal
+TRK-11721,Northern-Corridor,1.99,38.0,0.894,11.7,3.08,0.23,55.3,62,0,Normal
+TRK-11722,Eastern-Mineral-Belt,124.51,-0.8,0.726,43.5,1.96,3.07,89.3,87,0,Normal
+TRK-11723,Northern-Corridor,107.81,17.1,0.818,51.7,2.98,0.22,80.2,23,1,Potential Failure
+TRK-11724,Western-Coastal-Line,162.53,19.3,0.85,42.5,2.15,0.86,56.5,36,1,Potential Failure
+TRK-11725,Southern-Express-Route,80.66,24.0,0.945,53.1,4.08,36.0,228.2,98,1,Potential Failure
+TRK-11726,Central-Freight-Trunk,92.85,33.1,0.621,22.8,2.77,22.11,21.9,44,0,Normal
+TRK-11727,Western-Coastal-Line,171.43,9.4,1.569,35.7,4.86,0.7,116.3,365,1,Potential Failure
+TRK-11728,Southern-Express-Route,153.64,47.5,1.059,12.4,3.31,1.18,194.7,83,0,Normal
+TRK-11729,Eastern-Mineral-Belt,165.25,24.8,0.894,40.3,2.57,0.6,207.6,35,1,Potential Failure
+TRK-11730,Central-Freight-Trunk,103.24,25.3,1.141,17.0,2.4,0.07,141.4,30,0,Normal
+TRK-11731,Eastern-Mineral-Belt,10.79,5.1,0.866,46.8,2.37,15.51,188.2,26,1,Potential Failure
+TRK-11732,Northern-Corridor,87.53,25.6,0.5,58.9,2.49,0.67,190.2,64,1,Potential Failure
+TRK-11733,Northern-Corridor,184.12,37.8,0.707,18.3,2.17,16.34,60.7,24,0,Normal
+TRK-11734,Western-Coastal-Line,182.94,56.5,0.951,12.3,2.3,1.77,78.4,132,0,Normal
+TRK-11735,Northern-Corridor,156.63,24.3,0.661,18.9,1.5,6.65,49.5,21,0,Normal
+TRK-11736,Northern-Corridor,38.49,43.1,0.876,13.5,2.36,2.01,64.5,35,0,Normal
+TRK-11737,Southern-Express-Route,152.35,8.8,0.848,17.9,2.18,0.28,56.8,47,0,Normal
+TRK-11738,Central-Freight-Trunk,108.37,36.7,0.919,15.9,2.93,0.71,37.1,98,0,Normal
+TRK-11739,Southern-Express-Route,34.22,7.3,1.186,17.4,4.22,6.91,54.4,314,1,Potential Failure
+TRK-11740,Eastern-Mineral-Belt,125.55,33.4,0.972,26.4,3.28,19.04,159.9,86,0,Normal
+TRK-11741,Northern-Corridor,73.53,29.5,0.833,15.7,3.56,1.06,98.2,179,0,Normal
+TRK-11742,Western-Coastal-Line,29.29,14.7,0.927,52.1,2.25,2.74,46.6,152,1,Potential Failure
+TRK-11743,Eastern-Mineral-Belt,84.55,46.1,1.075,19.7,2.46,9.11,93.9,22,0,Normal
+TRK-11744,Northern-Corridor,61.61,23.9,1.379,47.0,2.95,0.29,103.1,289,1,Potential Failure
+TRK-11745,Eastern-Mineral-Belt,60.78,46.5,0.966,6.7,2.37,1.84,120.6,69,0,Normal
+TRK-11746,Southern-Express-Route,24.79,53.8,0.707,12.1,1.6,0.67,18.0,48,0,Normal
+TRK-11747,Western-Coastal-Line,60.46,38.7,0.969,40.8,2.37,14.62,94.4,49,1,Potential Failure
+TRK-11748,Southern-Express-Route,71.18,20.1,1.153,9.2,3.27,20.05,82.7,252,1,Potential Failure
+TRK-11749,Eastern-Mineral-Belt,17.41,40.0,0.91,15.0,2.79,8.93,101.3,67,0,Normal
+TRK-11750,Eastern-Mineral-Belt,53.43,26.6,0.807,14.2,2.48,2.22,133.5,86,0,Normal
+TRK-11751,Northern-Corridor,55.93,16.3,0.696,9.1,1.78,0.61,140.5,11,0,Normal
+TRK-11752,Western-Coastal-Line,167.29,30.5,1.153,18.0,3.16,16.06,37.9,186,0,Normal
+TRK-11753,Northern-Corridor,154.1,35.5,0.934,21.9,3.0,0.32,62.6,165,0,Normal
+TRK-11754,Eastern-Mineral-Belt,88.66,19.9,1.286,17.0,3.87,12.23,120.3,269,1,Potential Failure
+TRK-11755,Eastern-Mineral-Belt,150.22,38.0,1.424,17.9,4.16,19.21,234.8,206,1,Potential Failure
+TRK-11756,Eastern-Mineral-Belt,18.1,2.2,0.925,16.5,2.37,0.44,149.3,38,0,Normal
+TRK-11757,Central-Freight-Trunk,120.16,15.0,0.658,8.3,2.11,3.43,89.8,34,0,Normal
+TRK-11758,Southern-Express-Route,116.84,47.5,1.061,20.4,3.19,7.6,158.2,107,0,Normal
+TRK-11759,Eastern-Mineral-Belt,15.57,40.4,1.617,19.8,3.64,21.3,137.2,279,1,Potential Failure
+TRK-11760,Central-Freight-Trunk,126.91,43.8,0.846,27.6,2.41,7.57,93.0,155,0,Normal
+TRK-11761,Eastern-Mineral-Belt,55.37,27.6,0.748,41.6,2.22,8.41,129.4,35,0,Normal
+TRK-11762,Northern-Corridor,95.47,29.7,0.524,21.1,2.2,2.72,75.4,59,0,Normal
+TRK-11763,Eastern-Mineral-Belt,122.6,44.4,0.765,6.0,2.41,11.25,106.1,44,0,Normal
+TRK-11764,Western-Coastal-Line,108.74,8.7,1.018,6.0,3.61,25.39,169.3,71,1,Potential Failure
+TRK-11765,Eastern-Mineral-Belt,34.04,25.8,1.013,28.9,2.93,11.64,193.3,78,0,Normal
+TRK-11766,Northern-Corridor,77.59,53.2,1.463,15.7,4.12,14.18,178.1,365,1,Potential Failure
+TRK-11767,Eastern-Mineral-Belt,140.35,14.9,0.754,19.7,2.3,1.85,76.1,60,0,Normal
+TRK-11768,Western-Coastal-Line,178.88,15.4,0.806,17.3,2.75,9.23,132.8,66,0,Normal
+TRK-11769,Central-Freight-Trunk,15.39,35.3,1.347,19.9,4.68,23.56,140.2,345,1,Potential Failure
+TRK-11770,Northern-Corridor,80.82,21.9,0.729,46.3,2.53,0.8,174.1,24,1,Potential Failure
+TRK-11771,Northern-Corridor,32.6,5.5,0.722,22.2,1.37,3.2,119.0,119,0,Normal
+TRK-11772,Southern-Express-Route,134.57,38.8,1.02,52.5,2.58,2.95,113.9,54,1,Potential Failure
+TRK-11773,Southern-Express-Route,67.37,10.7,1.269,16.4,2.85,0.09,89.1,227,0,Normal
+TRK-11774,Eastern-Mineral-Belt,149.05,14.2,0.89,54.4,2.6,15.36,189.3,31,1,Potential Failure
+TRK-11775,Central-Freight-Trunk,21.59,31.7,0.778,30.4,2.32,0.19,127.2,55,0,Normal
+TRK-11776,Northern-Corridor,39.5,27.9,1.088,19.3,2.7,3.92,195.9,101,0,Normal
+TRK-11777,Eastern-Mineral-Belt,155.94,9.3,1.299,13.6,3.73,1.07,221.8,256,0,Normal
+TRK-11778,Northern-Corridor,56.37,26.2,0.727,16.0,1.73,1.68,80.0,46,0,Normal
+TRK-11779,Northern-Corridor,22.43,35.9,0.597,10.3,2.03,0.19,70.2,16,0,Normal
+TRK-11780,Eastern-Mineral-Belt,178.35,8.7,1.036,16.2,1.72,0.36,79.3,108,0,Normal
+TRK-11781,Southern-Express-Route,45.64,29.9,0.686,17.4,2.35,0.38,110.3,13,0,Normal
+TRK-11782,Eastern-Mineral-Belt,10.37,33.3,0.872,50.3,3.74,0.92,176.3,111,1,Potential Failure
+TRK-11783,Eastern-Mineral-Belt,181.23,7.2,0.697,10.2,3.5,0.94,102.1,83,0,Normal
+TRK-11784,Southern-Express-Route,135.52,18.0,0.965,21.3,2.75,26.19,185.4,13,1,Potential Failure
+TRK-11785,Eastern-Mineral-Belt,90.44,25.5,0.451,20.3,1.84,1.44,53.9,55,0,Normal
+TRK-11786,Eastern-Mineral-Belt,43.67,52.1,1.366,43.5,3.04,5.93,89.7,219,1,Potential Failure
+TRK-11787,Southern-Express-Route,59.12,11.4,1.182,27.7,2.47,0.2,84.0,107,0,Normal
+TRK-11788,Eastern-Mineral-Belt,164.6,34.8,1.06,44.1,2.8,0.4,98.0,159,0,Normal
+TRK-11789,Western-Coastal-Line,83.49,23.4,1.128,16.8,1.99,7.54,125.5,129,0,Normal
+TRK-11790,Central-Freight-Trunk,87.34,44.1,1.211,44.5,3.7,14.21,137.8,365,1,Potential Failure
+TRK-11791,Southern-Express-Route,168.27,-1.6,0.93,17.1,2.62,4.51,158.8,63,0,Normal
+TRK-11792,Eastern-Mineral-Belt,25.13,36.3,0.523,17.8,2.14,0.35,50.9,52,0,Normal
+TRK-11793,Eastern-Mineral-Belt,154.29,8.3,0.581,11.4,2.08,1.24,43.5,52,0,Normal
+TRK-11794,Eastern-Mineral-Belt,148.15,50.8,1.423,18.8,3.15,7.85,49.5,260,1,Potential Failure
+TRK-11795,Western-Coastal-Line,128.09,32.5,0.704,39.0,1.55,0.06,32.4,25,0,Normal
+TRK-11796,Central-Freight-Trunk,37.71,22.4,1.468,6.2,4.65,25.34,186.0,365,1,Potential Failure
+TRK-11797,Eastern-Mineral-Belt,174.52,27.1,0.892,20.0,1.55,16.76,35.2,96,0,Normal
+TRK-11798,Southern-Express-Route,9.66,35.3,1.558,45.6,4.27,4.54,124.3,365,1,Potential Failure
+TRK-11799,Western-Coastal-Line,125.55,9.2,0.976,34.8,2.8,1.2,29.9,146,0,Normal
+TRK-11800,Southern-Express-Route,6.88,19.2,0.813,32.9,2.98,0.72,113.9,84,0,Normal
