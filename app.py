@@ -259,12 +259,16 @@ st.markdown(CUSTOM_CSS, unsafe_allow_html=True)
 # File & Model Loader (Cached for Performance)
 # -----------------------------------------------------------------------------
 APP_DIR = os.path.dirname(os.path.abspath(__file__))
-PROJECT_ROOT = APP_DIR
-DATA_PATH = os.path.join(APP_DIR, "railway_track_inspection.csv")
-MODELS_DIR = APP_DIR
-REPORTS_DIR = os.path.join(PROJECT_ROOT, "reports")
-FIGURES_DIR = os.path.join(REPORTS_DIR, "figures")
 
+PROJECT_ROOT = APP_DIR
+
+DATA_PATH = os.path.join(PROJECT_ROOT, "railway_track_inspection.csv")
+
+MODELS_DIR = PROJECT_ROOT
+
+REPORTS_DIR = os.path.join(PROJECT_ROOT, "reports")
+
+FIGURES_DIR = os.path.join(REPORTS_DIR, "figures")
 @st.cache_data
 def load_data():
     if os.path.exists(DATA_PATH):
